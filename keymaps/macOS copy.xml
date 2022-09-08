@@ -1,0 +1,54 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="$EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="shift meta y" />
+  </action>
+  <action id="$ShowTranslationDialogAction" />
+  <action id="$SwitchTranslatorAction" />
+  <action id="$TranslateAndReplaceAction">
+    <keyboard-shortcut first-keystroke="shift meta x" />
+  </action>
+  <action id="ChangesView.Move" />
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="meta alt slash" />
+    <keyboard-shortcut first-keystroke="meta alt divide" />
+    <keyboard-shortcut first-keystroke="shift ctrl slash" />
+    <keyboard-shortcut first-keystroke="shift ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+  </action>
+  <action id="Editor EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="shift meta y" />
+  </action>
+  <action id="Editor TranslateAndReplaceAction">
+    <keyboard-shortcut first-keystroke="shift meta x" />
+  </action>
+  <action id="Github.PullRequest.Diff.Comment.Create" />
+  <action id="HippieBackwardCompletion">
+    <keyboard-shortcut first-keystroke="shift alt space" />
+  </action>
+  <action id="HippieCompletion">
+    <keyboard-shortcut first-keystroke="alt space" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl right" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="ctrl left" />
+  </action>
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
+  <action id="SmartTypeCompletion">
+    <keyboard-shortcut first-keystroke="shift alt slash" />
+  </action>
+  <action id="Vcs.MoveChangedLinesToChangelist" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl meta e" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="shift ctrl meta e" />
+  </action>
+</keymap>
