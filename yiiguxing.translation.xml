@@ -1,6 +1,41 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="position" />
+      <item value="tv Check" />
+      <item value="on Selected" />
+      <item value="iv Picture" />
+      <item value="on Select Item Anim" />
+      <item value="REMOVE" />
+      <item value="ADD SUCCESS" />
+      <item value="INVALID" />
+      <item value="result Code" />
+      <item value="is Max Select Enabled Mask" />
+      <item value="perform Click" />
+      <item value="iv Editor" />
+      <item value="tv media tag" />
+      <item value="btn Check" />
+      <item value="Medium Bold Text View" />
+      <item value="Base Recycler Media Holder" />
+      <item value="Photo View" />
+      <item value="ps preview gallery item" />
+      <item value="ps window folder" />
+      <item value="Picture Selector Supporter Activity" />
+      <item value="Picture Selector Transparent Activity" />
+      <item value="on Result Call Listener" />
+      <item value="start Activity For Result" />
+      <item value="Select the type of images you want，all or images or video or audio" />
+      <item value="open Gallery" />
+      <item value="for Result" />
+      <item value="CHOOSE REQUEST" />
+      <item value="LAUNCHER RESULT" />
+      <item value="for Select Result" />
+      <item value="set Skip Crop Mime Type" />
+      <item value="is With Select Video Image" />
+      <item value="set Add Bitmap Watermark Listener" />
+      <item value="set Preview Intercept Listener" />
+      <item value="set Permission Description Listener" />
+      <item value="set Camera Intercept Listener" />
       <item value="set Visibility" />
       <item value="m Iv Del" />
       <item value="set On Click Listener" />
@@ -15,8 +50,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="10" />
-        <entry key="ENGLISH" value="11" />
+        <entry key="CHINESE" value="49" />
+        <entry key="ENGLISH" value="50" />
+        <entry key="BULGARIAN" value="1" />
         <entry key="CATALAN" value="1" />
       </map>
     </option>
