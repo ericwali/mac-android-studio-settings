@@ -10,9 +10,13 @@
           <option name="url" value="git@gitee.com:liusixiang/kicc-android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:LuckSiege/PictureSelector.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/StudioProjects/org" />
+    <option name="cloneParentDir" value="$USER_HOME$/StudioProjects/my" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
