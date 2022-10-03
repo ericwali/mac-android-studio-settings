@@ -1,0 +1,31 @@
+<templateSet group="Public/Group">
+  <template name="m" value="** &#10; *&#10; * @param&#10; * @return&#10; */ " description="方法注解" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="GROOVY" value="true" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN" value="true" />
+      <option name="c" value="true" />
+      <option name="cpp" value="true" />
+    </context>
+  </template>
+  <template name="f:" value="** &#10; *&#10; */ " description="属性注解" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="GROOVY" value="true" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN" value="true" />
+      <option name="c" value="true" />
+      <option name="cpp" value="true" />
+    </context>
+  </template>
+  <template name="f" value="** */ " description="行内属性注解" toReformat="false" toShortenFQNames="true" />
+  <template name="c" value="** &#10; *&lt;p&gt;&#10; *&#10; *&lt;/p&gt;&#10; *&#10; * @Author: entfrm开发团队-王翔&#10; * @since: $date$&#10; */ " description="class类注解" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY" value="true" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN" value="true" />
+      <option name="c" value="true" />
+      <option name="cpp" value="true" />
+    </context>
+  </template>
+</templateSet>
