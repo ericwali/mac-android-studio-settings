@@ -1,10 +1,22 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="BOTTOM PRELOAD" />
+      <item value="set On Recycler View Preload Listener" />
+      <item value="set On Recycler View Scroll Listener" />
+      <item value="set On Recycler View Scroll State Listener" />
+      <item value="get First Visible Position" />
+      <item value="Whether to load more" />
+      <item value="set Reach Bottom Row" />
+      <item value="Recycler Preload View" />
+      <item value="reach Bottom Row" />
+      <item value="reachBottomRow = 1;(default) mean : when the lastVisibleRow is lastRow , call the onReachBottom(); reachBottomRow = 2; mean : when the lastVisibleRow is Penultimate Row , call the onReachBottom(); And so on" />
+      <item value="dispatch Camera Media Result" />
+      <item value="init Album List Pop Window" />
+      <item value="check Notify Strategy" />
       <item value="init Recycler" />
       <item value="load First Page Media Data" />
       <item value="add Album Pop Window Action" />
-      <item value="Recycler Preload View" />
       <item value="Medium Bold Text View" />
       <item value="Constraint Layout" />
       <item value="Frame Layout" />
@@ -39,23 +51,11 @@
       <item value="for Select Result" />
       <item value="set Skip Crop Mime Type" />
       <item value="is With Select Video Image" />
-      <item value="set Add Bitmap Watermark Listener" />
-      <item value="set Preview Intercept Listener" />
-      <item value="set Permission Description Listener" />
-      <item value="set Camera Intercept Listener" />
-      <item value="set Visibility" />
-      <item value="m Iv Del" />
-      <item value="set On Click Listener" />
-      <item value="set Image Resource" />
-      <item value="tv duration" />
-      <item value="Error while merging dex archives:" />
-      <item value="Ran lint on variant release: 316 issues found" />
-      <item value="Date" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="58" />
-        <entry key="ENGLISH" value="59" />
+        <entry key="CHINESE" value="76" />
+        <entry key="ENGLISH" value="77" />
         <entry key="BULGARIAN" value="1" />
         <entry key="CATALAN" value="1" />
       </map>
