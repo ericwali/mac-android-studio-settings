@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Frame Layout" />
       <item value="Medium Bold Text View" />
       <item value="activity container" />
       <item value="position" />
@@ -51,8 +52,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="51" />
-        <entry key="ENGLISH" value="52" />
+        <entry key="CHINESE" value="52" />
+        <entry key="ENGLISH" value="53" />
         <entry key="BULGARIAN" value="1" />
         <entry key="CATALAN" value="1" />
       </map>
