@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Medium Bold Text View" />
       <item value="activity container" />
       <item value="position" />
       <item value="tv Check" />
@@ -16,7 +17,6 @@
       <item value="iv Editor" />
       <item value="tv media tag" />
       <item value="btn Check" />
-      <item value="Medium Bold Text View" />
       <item value="Base Recycler Media Holder" />
       <item value="Photo View" />
       <item value="ps preview gallery item" />
@@ -51,8 +51,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="50" />
-        <entry key="ENGLISH" value="51" />
+        <entry key="CHINESE" value="51" />
+        <entry key="ENGLISH" value="52" />
         <entry key="BULGARIAN" value="1" />
         <entry key="CATALAN" value="1" />
       </map>
