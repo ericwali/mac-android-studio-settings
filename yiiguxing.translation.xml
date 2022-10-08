@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Content Resolver" />
+      <item value="get Page Selection" />
+      <item value="get Query Mime Condition" />
       <item value="page query specified contents" />
       <item value="loader Data Engine" />
       <item value="local Media Folder" />
@@ -48,14 +51,11 @@
       <item value="Complete Select View" />
       <item value="Constraint Layout" />
       <item value="set On Recycler View Scroll Listener" />
-      <item value="get First Visible Position" />
-      <item value="Whether to load more" />
-      <item value="set Reach Bottom Row" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="135" />
-        <entry key="ENGLISH" value="136" />
+        <entry key="CHINESE" value="138" />
+        <entry key="ENGLISH" value="139" />
         <entry key="BULGARIAN" value="1" />
         <entry key="CATALAN" value="1" />
       </map>
