@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="when the lastVisibleRow is Penultimate Row , call the onReachBottom(); And so on" />
+      <item value="mean : when the lastVisibleRow is lastRow , call the onReachBottom();" />
+      <item value="on Reach Bottom" />
+      <item value="mean" />
+      <item value="BOTTOM PRELOAD" />
       <item value="Recycler Preload View" />
       <item value="Preload" />
       <item value="set On Recycler View Preload Listener" />
@@ -9,7 +14,6 @@
       <item value="is In The Bottom" />
       <item value="last Visible Row Position" />
       <item value="mean : when the lastVisibleRow is lastRow , call the" />
-      <item value="on Reach Bottom" />
       <item value="mean : when the lastVisibleRow is Penultimate Row , call the onReachBottom();" />
       <item value="reach Bottom Row" />
       <item value="Grid Layout Manager" />
@@ -21,7 +25,6 @@
       <item value="Picture Image Grid Adapter" />
       <item value="Complete Select View" />
       <item value="Constraint Layout" />
-      <item value="BOTTOM PRELOAD" />
       <item value="set On Recycler View Scroll Listener" />
       <item value="set On Recycler View Scroll State Listener" />
       <item value="get First Visible Position" />
@@ -48,14 +51,11 @@
       <item value="perform Click" />
       <item value="iv Editor" />
       <item value="tv media tag" />
-      <item value="btn Check" />
-      <item value="Base Recycler Media Holder" />
-      <item value="Photo View" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="98" />
-        <entry key="ENGLISH" value="99" />
+        <entry key="CHINESE" value="103" />
+        <entry key="ENGLISH" value="104" />
         <entry key="BULGARIAN" value="1" />
         <entry key="CATALAN" value="1" />
       </map>
