@@ -1,21 +1,35 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Recycler Preload View" />
+      <item value="Preload" />
+      <item value="set On Recycler View Preload Listener" />
+      <item value="on Scroll Slow" />
+      <item value="on Recycler View Preload More" />
+      <item value="is In The Bottom" />
+      <item value="last Visible Row Position" />
+      <item value="mean : when the lastVisibleRow is lastRow , call the" />
+      <item value="on Reach Bottom" />
+      <item value="mean : when the lastVisibleRow is Penultimate Row , call the onReachBottom();" />
+      <item value="reach Bottom Row" />
+      <item value="Grid Layout Manager" />
+      <item value="Attribute Set" />
+      <item value="check Notify Strategy" />
+      <item value="send Change Sub Select Position Event" />
+      <item value="re Start Saved Instance" />
+      <item value="init Recycler" />
+      <item value="Picture Image Grid Adapter" />
+      <item value="Complete Select View" />
       <item value="Constraint Layout" />
       <item value="BOTTOM PRELOAD" />
-      <item value="set On Recycler View Preload Listener" />
       <item value="set On Recycler View Scroll Listener" />
       <item value="set On Recycler View Scroll State Listener" />
       <item value="get First Visible Position" />
       <item value="Whether to load more" />
       <item value="set Reach Bottom Row" />
-      <item value="Recycler Preload View" />
-      <item value="reach Bottom Row" />
       <item value="reachBottomRow = 1;(default) mean : when the lastVisibleRow is lastRow , call the onReachBottom(); reachBottomRow = 2; mean : when the lastVisibleRow is Penultimate Row , call the onReachBottom(); And so on" />
       <item value="dispatch Camera Media Result" />
       <item value="init Album List Pop Window" />
-      <item value="check Notify Strategy" />
-      <item value="init Recycler" />
       <item value="load First Page Media Data" />
       <item value="add Album Pop Window Action" />
       <item value="Medium Bold Text View" />
@@ -37,25 +51,11 @@
       <item value="btn Check" />
       <item value="Base Recycler Media Holder" />
       <item value="Photo View" />
-      <item value="ps preview gallery item" />
-      <item value="ps window folder" />
-      <item value="Picture Selector Supporter Activity" />
-      <item value="Picture Selector Transparent Activity" />
-      <item value="on Result Call Listener" />
-      <item value="start Activity For Result" />
-      <item value="Select the type of images you want，all or images or video or audio" />
-      <item value="open Gallery" />
-      <item value="for Result" />
-      <item value="CHOOSE REQUEST" />
-      <item value="LAUNCHER RESULT" />
-      <item value="for Select Result" />
-      <item value="set Skip Crop Mime Type" />
-      <item value="is With Select Video Image" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="77" />
-        <entry key="ENGLISH" value="78" />
+        <entry key="CHINESE" value="98" />
+        <entry key="ENGLISH" value="99" />
         <entry key="BULGARIAN" value="1" />
         <entry key="CATALAN" value="1" />
       </map>
