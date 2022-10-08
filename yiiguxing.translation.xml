@@ -1,21 +1,43 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="page query specified contents" />
+      <item value="loader Data Engine" />
+      <item value="local Media Folder" />
+      <item value="On Query Data Result Listener" />
+      <item value="bucket Id" />
+      <item value="m Page" />
+      <item value="load Page Media Data" />
+      <item value="is Enabled Load More" />
+      <item value="post Delayed" />
+      <item value="is Memory Recycling" />
+      <item value="on Recycler View Preload More" />
+      <item value="on Recycler View Preload Listener" />
+      <item value="is In The Bottom" />
+      <item value="is Reach Bottom" />
+      <item value="reach Bottom Row" />
+      <item value="row Count" />
+      <item value="last Visible Row Position" />
+      <item value="on Recycler View Scroll Listener" />
+      <item value="set Layout Manager Position" />
+      <item value="Adapter is null,Please check it" />
+      <item value="Called when the scroll position of this RecyclerView changes. Subclasses should use this method to respond to scrolling within the adapter's data set instead of an explicit listener. &lt;p&gt;This method will always be invoked before listeners. If a subclass needs to perform any additional upkeep or bookkeeping after scrolling but before listeners run, this is a good place to do so.&lt;p&gt; &lt;p&gt;This differs from {@link ViewonScrollChanged(int, int, int, int)} in that it receives the distance scrolled in either direction within the adapter's data set instead of absolute scroll coordinates. Since RecyclerView cannot compute the absolute scroll position from any arbitrary point in the data set, &lt;code&gt;onScrollChanged&lt;code&gt; will always receive the current {@link ViewgetScrollX()} and {@link ViewgetScrollY()} values which do not correspond to the data set scroll position. However, some subclasses may choose to use these fields as special offsets.&lt;p&gt;" />
+      <item value="set On Recycler View Scroll State Listener" />
+      <item value="on Scroll State Changed" />
+      <item value="LayoutManager is null,Please check it!" />
+      <item value="LayoutManager is null,Please check it" />
+      <item value="layout Manager" />
+      <item value="Recycler Preload View" />
       <item value="when the lastVisibleRow is Penultimate Row , call the onReachBottom(); And so on" />
       <item value="mean : when the lastVisibleRow is lastRow , call the onReachBottom();" />
       <item value="on Reach Bottom" />
       <item value="mean" />
       <item value="BOTTOM PRELOAD" />
-      <item value="Recycler Preload View" />
       <item value="Preload" />
       <item value="set On Recycler View Preload Listener" />
       <item value="on Scroll Slow" />
-      <item value="on Recycler View Preload More" />
-      <item value="is In The Bottom" />
-      <item value="last Visible Row Position" />
       <item value="mean : when the lastVisibleRow is lastRow , call the" />
       <item value="mean : when the lastVisibleRow is Penultimate Row , call the onReachBottom();" />
-      <item value="reach Bottom Row" />
       <item value="Grid Layout Manager" />
       <item value="Attribute Set" />
       <item value="check Notify Strategy" />
@@ -26,36 +48,14 @@
       <item value="Complete Select View" />
       <item value="Constraint Layout" />
       <item value="set On Recycler View Scroll Listener" />
-      <item value="set On Recycler View Scroll State Listener" />
       <item value="get First Visible Position" />
       <item value="Whether to load more" />
       <item value="set Reach Bottom Row" />
-      <item value="reachBottomRow = 1;(default) mean : when the lastVisibleRow is lastRow , call the onReachBottom(); reachBottomRow = 2; mean : when the lastVisibleRow is Penultimate Row , call the onReachBottom(); And so on" />
-      <item value="dispatch Camera Media Result" />
-      <item value="init Album List Pop Window" />
-      <item value="load First Page Media Data" />
-      <item value="add Album Pop Window Action" />
-      <item value="Medium Bold Text View" />
-      <item value="Frame Layout" />
-      <item value="activity container" />
-      <item value="position" />
-      <item value="tv Check" />
-      <item value="on Selected" />
-      <item value="iv Picture" />
-      <item value="on Select Item Anim" />
-      <item value="REMOVE" />
-      <item value="ADD SUCCESS" />
-      <item value="INVALID" />
-      <item value="result Code" />
-      <item value="is Max Select Enabled Mask" />
-      <item value="perform Click" />
-      <item value="iv Editor" />
-      <item value="tv media tag" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="103" />
-        <entry key="ENGLISH" value="104" />
+        <entry key="CHINESE" value="135" />
+        <entry key="ENGLISH" value="136" />
         <entry key="BULGARIAN" value="1" />
         <entry key="CATALAN" value="1" />
       </map>
@@ -63,5 +63,14 @@
   </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1664796007244" />
+  </component>
+  <component name="Settings">
+    <option name="translator" value="YOUDAO" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="03d7d058148f84e9" />
+        <option name="primaryLanguage" value="ESPERANTO" />
+      </youdao-translate>
+    </option>
   </component>
 </application>
