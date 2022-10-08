@@ -1,9 +1,19 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogX" value="548" />
+    <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="Picture Selector Grid Adapter" />
+      <item value="Picture SelectorGridAdapter" />
+      <item value="Picture Image" />
+      <item value="recyc" />
+      <item value="回收" />
+      <item value="自定义" />
+      <item value="notify Item Range Changed" />
+      <item value="SLIDE IN BOTTOM ANIMATION" />
+      <item value="ALPHA IN ANIMATION" />
       <item value="Parcelable" />
       <item value="Alpha In Animation Adapter" />
-      <item value="SLIDE IN BOTTOM ANIMATION" />
       <item value="Slide In Bottom Animation Adapter" />
       <item value="on Item Long Click" />
       <item value="on Item Click" />
@@ -29,7 +39,6 @@
       <item value="start Animation" />
       <item value="Base Recycler Media Holder" />
       <item value="set Display Camera" />
-      <item value="ALPHA IN ANIMATION" />
       <item value="BOTTOM PRELOAD" />
       <item value="Grid Spacing Item Decoration" />
       <item value="add Item Decoration" />
@@ -44,21 +53,15 @@
       <item value="adapter" />
       <item value="load First Page Media Data" />
       <item value="is Enabled Load More" />
-      <item value="Picture Image Grid Adapter" />
-      <item value="animation Mode" />
-      <item value="item Animator" />
-      <item value="set Layout Manager" />
-      <item value="Style Utils.check Size Validity" />
-      <item value="get Item Decoration Count" />
-      <item value="image Span Count" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="229" />
-        <entry key="ENGLISH" value="228" />
+        <entry key="CHINESE" value="237" />
+        <entry key="ENGLISH" value="235" />
         <entry key="BULGARIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
+        <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
   </component>
