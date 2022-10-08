@@ -3,9 +3,31 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="set Image Resource" />
+      <item value="load Cover" />
+      <item value="set On Click Listener" />
+      <item value="get Cut Path" />
+      <item value="is Max Select Enabled Mask" />
+      <item value="is Handle Mask" />
+      <item value="is Select Number Style" />
+      <item value="selected Media" />
+      <item value="position" />
+      <item value="get Adapter Duration Gravity" />
+      <item value="Layout Params" />
+      <item value="get Layout Params" />
+      <item value="set Background Resource" />
+      <item value="set Compound Drawables Relative With Intrinsic Bounds" />
+      <item value="tv duration" />
+      <item value="get Adapter Duration Text Color" />
+      <item value="check Style Validity" />
+      <item value="check Size Validity" />
+      <item value="tv Duration" />
+      <item value="Base Recycler Picture Selector Holder" />
+      <item value="Video View Holder" />
+      <item value="ADAPTER TYPE CAMERA" />
+      <item value="Camera View Holder" />
       <item value="View Holder" />
       <item value="Holder" />
-      <item value="Base Recycler Picture Selector Holder" />
       <item value="Picture Selector Grid Adapter" />
       <item value="Picture SelectorGridAdapter" />
       <item value="Picture Image" />
@@ -21,7 +43,6 @@
       <item value="on Item Long Click" />
       <item value="on Item Click" />
       <item value="Base Animation Adapter" />
-      <item value="ADAPTER TYPE CAMERA" />
       <item value="get Adapter Select Click Area" />
       <item value="ALIGN PARENT END" />
       <item value="select Style Gravity" />
@@ -31,33 +52,12 @@
       <item value="set Visibility" />
       <item value="selection Mode" />
       <item value="find View By Id" />
-      <item value="is Select Number Style" />
       <item value="select Main Style" />
-      <item value="set On Click Listener" />
-      <item value="listener" />
-      <item value="Picture Album Adapter" />
-      <item value="is Display Camera" />
-      <item value="send Selected Change Event" />
-      <item value="confirm Select" />
-      <item value="start Animation" />
-      <item value="Base Recycler Media Holder" />
-      <item value="set Display Camera" />
-      <item value="BOTTOM PRELOAD" />
-      <item value="Grid Spacing Item Decoration" />
-      <item value="add Item Decoration" />
-      <item value="set Background Color" />
-      <item value="data.get Count" />
-      <item value="Media Data" />
-      <item value="do In Background" />
-      <item value="Picture Thread Utils" />
-      <item value="Simple Task" />
-      <item value="Local Media" />
-      <item value="On Query Data Result Listener" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="242" />
-        <entry key="ENGLISH" value="240" />
+        <entry key="CHINESE" value="269" />
+        <entry key="ENGLISH" value="267" />
         <entry key="BULGARIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
