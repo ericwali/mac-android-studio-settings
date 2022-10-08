@@ -1,19 +1,35 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Parcelable" />
+      <item value="Alpha In Animation Adapter" />
+      <item value="SLIDE IN BOTTOM ANIMATION" />
+      <item value="Slide In Bottom Animation Adapter" />
+      <item value="on Item Long Click" />
+      <item value="on Item Click" />
+      <item value="Base Animation Adapter" />
+      <item value="ADAPTER TYPE CAMERA" />
+      <item value="get Adapter Select Click Area" />
+      <item value="ALIGN PARENT END" />
+      <item value="select Style Gravity" />
+      <item value="adapter Select Background" />
+      <item value="get Adapter Select Text Size" />
+      <item value="is Direct Return Single" />
+      <item value="set Visibility" />
+      <item value="selection Mode" />
+      <item value="find View By Id" />
+      <item value="is Select Number Style" />
+      <item value="select Main Style" />
       <item value="set On Click Listener" />
       <item value="listener" />
       <item value="Picture Album Adapter" />
-      <item value="ADAPTER TYPE CAMERA" />
       <item value="is Display Camera" />
       <item value="send Selected Change Event" />
       <item value="confirm Select" />
       <item value="start Animation" />
       <item value="Base Recycler Media Holder" />
       <item value="set Display Camera" />
-      <item value="SLIDE IN BOTTOM ANIMATION" />
       <item value="ALPHA IN ANIMATION" />
-      <item value="Alpha In Animation Adapter" />
       <item value="BOTTOM PRELOAD" />
       <item value="Grid Spacing Item Decoration" />
       <item value="add Item Decoration" />
@@ -35,27 +51,11 @@
       <item value="Style Utils.check Size Validity" />
       <item value="get Item Decoration Count" />
       <item value="image Span Count" />
-      <item value="list Background Color" />
-      <item value="get Select Main Style" />
-      <item value="selector Style" />
-      <item value="m Recycler" />
-      <item value="is Adapter Item Include Edge" />
-      <item value="adapter Item Spacing Size" />
-      <item value="Grid Layout Manager" />
-      <item value="is Page Strategy" />
-      <item value="default On Measure" />
-      <item value="Measure the attached RecyclerView. Implementations must call {@link setMeasuredDimension(int, int)} before returning. &lt;p&gt; It is strongly advised to use the AutoMeasure mechanism by overriding {@link isAutoMeasureEnabled()} to return true as AutoMeasure handles all the standard measure cases including when the RecyclerView's layout_width or layout_height have been set to wrap_content. If {@link isAutoMeasureEnabled()} is overridden to return true, this method should not be overridden. &lt;p&gt; The default implementation will handle EXACTLY measurements and respect the minimum width and height properties of the host RecyclerView if measured as UNSPECIFIED. AT_MOST measurements will be treated as EXACTLY and the RecyclerView will consume all available space." />
-      <item value="onmeasure" />
-      <item value="set Reach Bottom Row" />
-      <item value="handle More Media Data" />
-      <item value="load More Media Data" />
-      <item value="on Recycler View Preload More" />
-      <item value="Synchronous First data Cover" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="206" />
-        <entry key="ENGLISH" value="205" />
+        <entry key="CHINESE" value="229" />
+        <entry key="ENGLISH" value="228" />
         <entry key="BULGARIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
