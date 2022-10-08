@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="default On Measure" />
+      <item value="Measure the attached RecyclerView. Implementations must call {@link setMeasuredDimension(int, int)} before returning. &lt;p&gt; It is strongly advised to use the AutoMeasure mechanism by overriding {@link isAutoMeasureEnabled()} to return true as AutoMeasure handles all the standard measure cases including when the RecyclerView's layout_width or layout_height have been set to wrap_content. If {@link isAutoMeasureEnabled()} is overridden to return true, this method should not be overridden. &lt;p&gt; The default implementation will handle EXACTLY measurements and respect the minimum width and height properties of the host RecyclerView if measured as UNSPECIFIED. AT_MOST measurements will be treated as EXACTLY and the RecyclerView will consume all available space." />
+      <item value="onmeasure" />
+      <item value="set Reach Bottom Row" />
+      <item value="handle More Media Data" />
+      <item value="load More Media Data" />
+      <item value="on Recycler View Preload More" />
+      <item value="Synchronous First data Cover" />
+      <item value="get Album First Cover" />
       <item value="get Content Resolver" />
       <item value="get Page Selection" />
       <item value="get Query Mime Condition" />
@@ -14,7 +23,6 @@
       <item value="is Enabled Load More" />
       <item value="post Delayed" />
       <item value="is Memory Recycling" />
-      <item value="on Recycler View Preload More" />
       <item value="on Recycler View Preload Listener" />
       <item value="is In The Bottom" />
       <item value="is Reach Bottom" />
@@ -43,19 +51,11 @@
       <item value="mean : when the lastVisibleRow is Penultimate Row , call the onReachBottom();" />
       <item value="Grid Layout Manager" />
       <item value="Attribute Set" />
-      <item value="check Notify Strategy" />
-      <item value="send Change Sub Select Position Event" />
-      <item value="re Start Saved Instance" />
-      <item value="init Recycler" />
-      <item value="Picture Image Grid Adapter" />
-      <item value="Complete Select View" />
-      <item value="Constraint Layout" />
-      <item value="set On Recycler View Scroll Listener" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="138" />
-        <entry key="ENGLISH" value="139" />
+        <entry key="CHINESE" value="150" />
+        <entry key="ENGLISH" value="151" />
         <entry key="BULGARIAN" value="1" />
         <entry key="CATALAN" value="1" />
       </map>
