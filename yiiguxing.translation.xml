@@ -3,8 +3,10 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
-      <item value="Selection Config" />
       <item value="get Clean Instance" />
+      <item value="Set up player engine" />
+      <item value="Used to preview custom player instances，MediaPlayer by default" />
+      <item value="Selection Config" />
       <item value="compress File Engine" />
       <item value="set Compress Engine" />
       <item value="is Compress Engine" />
@@ -51,13 +53,11 @@
       <item value="set Background Resource" />
       <item value="set Compound Drawables Relative With Intrinsic Bounds" />
       <item value="tv duration" />
-      <item value="get Adapter Duration Text Color" />
-      <item value="check Style Validity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="320" />
-        <entry key="ENGLISH" value="315" />
+        <entry key="CHINESE" value="324" />
+        <entry key="ENGLISH" value="319" />
         <entry key="BULGARIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
