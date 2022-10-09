@@ -3,6 +3,17 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="The ViewGroup into which the new View will be added after it is bound to an adapter position." />
+      <item value="Called when RecyclerView needs a new {@link ViewHolder} of the given type to represent an item. &lt;p&gt; This new ViewHolder should be constructed with a new View that can represent the items of the given type. You can either create a new View manually or inflate it from an XML layout file. &lt;p&gt; The new ViewHolder will be used to display items of the adapter using" />
+      <item value="parent – The ViewGroup into which the new View will be added after it is bound to an adapter position. viewType – The view type of the new View." />
+      <item value="parent" />
+      <item value="get Item Resource Id" />
+      <item value="m Config" />
+      <item value="view Type" />
+      <item value="ADAPTER TYPE IMAGE" />
+      <item value="Layout Inflater" />
+      <item value="Picture Selection Config" />
+      <item value="iv Picture" />
       <item value="com.squareup.picasso:picasso" />
       <item value="Camera View File Holder" />
       <item value="set Image Resource" />
@@ -42,22 +53,11 @@
       <item value="Parcelable" />
       <item value="Alpha In Animation Adapter" />
       <item value="Slide In Bottom Animation Adapter" />
-      <item value="on Item Long Click" />
-      <item value="on Item Click" />
-      <item value="Base Animation Adapter" />
-      <item value="get Adapter Select Click Area" />
-      <item value="ALIGN PARENT END" />
-      <item value="select Style Gravity" />
-      <item value="adapter Select Background" />
-      <item value="get Adapter Select Text Size" />
-      <item value="is Direct Return Single" />
-      <item value="set Visibility" />
-      <item value="selection Mode" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="271" />
-        <entry key="ENGLISH" value="269" />
+        <entry key="CHINESE" value="284" />
+        <entry key="ENGLISH" value="282" />
         <entry key="BULGARIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
