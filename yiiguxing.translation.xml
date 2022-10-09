@@ -3,12 +3,15 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="Medium Bold Text View" />
+      <item value="Image View" />
+      <item value="Square Relative Layout" />
+      <item value="is Has Gif" />
       <item value="set Adapter" />
       <item value="A resource failed to call close." />
       <item value="tv media tag" />
       <item value="iv Editor" />
       <item value="config" />
-      <item value="Medium Bold Text View" />
       <item value="tv Media Tag" />
       <item value="find View By Id" />
       <item value="set Image Resource" />
@@ -50,14 +53,11 @@
       <item value="notify Select Number Style" />
       <item value="is Max Select Enabled Mask" />
       <item value="check Size Validity" />
-      <item value="adapter Duration Drawable Left" />
-      <item value="Picture Selection Config" />
-      <item value="tv duration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="424" />
-        <entry key="ENGLISH" value="419" />
+        <entry key="CHINESE" value="431" />
+        <entry key="ENGLISH" value="426" />
         <entry key="BULGARIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
