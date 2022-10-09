@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="iv Editor" />
+      <item value="ps long chart" />
       <item value="Medium Bold Text View" />
       <item value="Image View" />
       <item value="Square Relative Layout" />
@@ -10,7 +12,6 @@
       <item value="set Adapter" />
       <item value="A resource failed to call close." />
       <item value="tv media tag" />
-      <item value="iv Editor" />
       <item value="config" />
       <item value="tv Media Tag" />
       <item value="find View By Id" />
@@ -52,12 +53,11 @@
       <item value="media position of list" />
       <item value="notify Select Number Style" />
       <item value="is Max Select Enabled Mask" />
-      <item value="check Size Validity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="431" />
-        <entry key="ENGLISH" value="426" />
+        <entry key="CHINESE" value="435" />
+        <entry key="ENGLISH" value="430" />
         <entry key="BULGARIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
