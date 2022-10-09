@@ -3,6 +3,33 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="placeholder" />
+      <item value="center Crop" />
+      <item value="override" />
+      <item value="Equivalent to calling {@link asDrawable()} and then {@link RequestBuilderload(String)}. @return A new request builder for loading a {@link Drawable} using the given model." />
+      <item value="load picture list picture" />
+      <item value="get Cut Path" />
+      <item value="load Cover" />
+      <item value="is Editor Image" />
+      <item value="dispatch Handle Mask" />
+      <item value="get Absolute Adapter Position" />
+      <item value="selected Media" />
+      <item value="media position of list" />
+      <item value="notify Select Number Style" />
+      <item value="is Max Select Enabled Mask" />
+      <item value="check Size Validity" />
+      <item value="set Compound Drawables Relative With Intrinsic Bounds" />
+      <item value="adapter Duration Drawable Left" />
+      <item value="selector Style" />
+      <item value="get Adapter Duration Drawable Left" />
+      <item value="Picture Selection Config" />
+      <item value="adapter Style" />
+      <item value="get Select Main Style" />
+      <item value="tv duration" />
+      <item value="tv Duration" />
+      <item value="Base Recycler File Holder" />
+      <item value="on Create View Holder" />
+      <item value="is Select Number Style" />
       <item value="folder Total Num" />
       <item value="write Typed List" />
       <item value="create Typed Array List" />
@@ -18,46 +45,19 @@
       <item value="set Compress Engine" />
       <item value="is Compress Engine" />
       <item value="set Select Main Style" />
-      <item value="selector Style" />
       <item value="image Engine" />
       <item value="m Instance" />
-      <item value="Picture Selection Config" />
       <item value="in.read Int" />
       <item value="read Int" />
       <item value="CREATOR" />
       <item value="Medium Bold Text View" />
       <item value="btn Check" />
       <item value="ps color transparent" />
-      <item value="tv Check" />
-      <item value="iv Picture" />
-      <item value="is Select Number Style" />
-      <item value="is Selected" />
-      <item value="selected Media" />
-      <item value="dispatch Handle Mask" />
-      <item value="select Main Style" />
-      <item value="mask White Color Filter" />
-      <item value="The ViewGroup into which the new View will be added after it is bound to an adapter position." />
-      <item value="Called when RecyclerView needs a new {@link ViewHolder} of the given type to represent an item. &lt;p&gt; This new ViewHolder should be constructed with a new View that can represent the items of the given type. You can either create a new View manually or inflate it from an XML layout file. &lt;p&gt; The new ViewHolder will be used to display items of the adapter using" />
-      <item value="parent – The ViewGroup into which the new View will be added after it is bound to an adapter position. viewType – The view type of the new View." />
-      <item value="parent" />
-      <item value="get Item Resource Id" />
-      <item value="m Config" />
-      <item value="view Type" />
-      <item value="ADAPTER TYPE IMAGE" />
-      <item value="Layout Inflater" />
-      <item value="com.squareup.picasso:picasso" />
-      <item value="Camera View File Holder" />
-      <item value="set Image Resource" />
-      <item value="load Cover" />
-      <item value="set On Click Listener" />
-      <item value="get Cut Path" />
-      <item value="is Max Select Enabled Mask" />
-      <item value="is Handle Mask" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="331" />
-        <entry key="ENGLISH" value="326" />
+        <entry key="CHINESE" value="371" />
+        <entry key="ENGLISH" value="366" />
         <entry key="BULGARIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
