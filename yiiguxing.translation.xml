@@ -3,6 +3,24 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="Selection Config" />
+      <item value="get Clean Instance" />
+      <item value="compress File Engine" />
+      <item value="set Compress Engine" />
+      <item value="is Compress Engine" />
+      <item value="set Select Main Style" />
+      <item value="selector Style" />
+      <item value="image Engine" />
+      <item value="m Instance" />
+      <item value="Picture Selection Config" />
+      <item value="in.read Int" />
+      <item value="read Int" />
+      <item value="CREATOR" />
+      <item value="Medium Bold Text View" />
+      <item value="btn Check" />
+      <item value="ps color transparent" />
+      <item value="tv Check" />
+      <item value="iv Picture" />
       <item value="is Select Number Style" />
       <item value="is Selected" />
       <item value="selected Media" />
@@ -18,8 +36,6 @@
       <item value="view Type" />
       <item value="ADAPTER TYPE IMAGE" />
       <item value="Layout Inflater" />
-      <item value="Picture Selection Config" />
-      <item value="iv Picture" />
       <item value="com.squareup.picasso:picasso" />
       <item value="Camera View File Holder" />
       <item value="set Image Resource" />
@@ -37,31 +53,15 @@
       <item value="tv duration" />
       <item value="get Adapter Duration Text Color" />
       <item value="check Style Validity" />
-      <item value="check Size Validity" />
-      <item value="tv Duration" />
-      <item value="Base Recycler Picture Selector Holder" />
-      <item value="Video View Holder" />
-      <item value="ADAPTER TYPE CAMERA" />
-      <item value="Camera View Holder" />
-      <item value="View Holder" />
-      <item value="Holder" />
-      <item value="Picture Selector Grid Adapter" />
-      <item value="Picture SelectorGridAdapter" />
-      <item value="Picture Image" />
-      <item value="recyc" />
-      <item value="回收" />
-      <item value="自定义" />
-      <item value="notify Item Range Changed" />
-      <item value="SLIDE IN BOTTOM ANIMATION" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="291" />
-        <entry key="ENGLISH" value="289" />
+        <entry key="CHINESE" value="320" />
+        <entry key="ENGLISH" value="315" />
         <entry key="BULGARIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
-        <entry key="VIETNAMESE" value="1" />
+        <entry key="VIETNAMESE" value="4" />
       </map>
     </option>
   </component>
