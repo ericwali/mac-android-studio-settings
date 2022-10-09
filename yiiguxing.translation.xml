@@ -3,6 +3,31 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="set Image Resource" />
+      <item value="load Cover" />
+      <item value="get Adapter Duration Text Color" />
+      <item value="get Layout Params" />
+      <item value="layout align Bottom" />
+      <item value="ALIGN PARENT LEFT" />
+      <item value="Margin Layout Params" />
+      <item value="tv Duration" />
+      <item value="duration Gravity" />
+      <item value="get Adapter Duration Gravity" />
+      <item value="ALIGN PARENT BOTTOM" />
+      <item value="Relative Layout" />
+      <item value="set Background Resource" />
+      <item value="get Adapter Duration Text Size" />
+      <item value="set Compound Drawables Relative With Intrinsic Bounds" />
+      <item value="check Style Validity" />
+      <item value="get Adapter Duration Drawable Left" />
+      <item value="get Select Main Style" />
+      <item value="bind Data" />
+      <item value="drawable Left" />
+      <item value="find View By Id" />
+      <item value="selector Style" />
+      <item value="File Selection Config" />
+      <item value="adapter Style" />
+      <item value="Select Main Style" />
       <item value="on Create View Holder" />
       <item value="placeholder" />
       <item value="center Crop" />
@@ -10,7 +35,6 @@
       <item value="Equivalent to calling {@link asDrawable()} and then {@link RequestBuilderload(String)}. @return A new request builder for loading a {@link Drawable} using the given model." />
       <item value="load picture list picture" />
       <item value="get Cut Path" />
-      <item value="load Cover" />
       <item value="is Editor Image" />
       <item value="dispatch Handle Mask" />
       <item value="get Absolute Adapter Position" />
@@ -19,15 +43,9 @@
       <item value="notify Select Number Style" />
       <item value="is Max Select Enabled Mask" />
       <item value="check Size Validity" />
-      <item value="set Compound Drawables Relative With Intrinsic Bounds" />
       <item value="adapter Duration Drawable Left" />
-      <item value="selector Style" />
-      <item value="get Adapter Duration Drawable Left" />
       <item value="Picture Selection Config" />
-      <item value="adapter Style" />
-      <item value="get Select Main Style" />
       <item value="tv duration" />
-      <item value="tv Duration" />
       <item value="Base Recycler File Holder" />
       <item value="is Select Number Style" />
       <item value="folder Total Num" />
@@ -35,29 +53,11 @@
       <item value="create Typed Array List" />
       <item value="start Camera Video Capture" />
       <item value="is Camera Around State" />
-      <item value="is Page Sync As Count" />
-      <item value="Preview Video Holder" />
-      <item value="get Clean Instance" />
-      <item value="Set up player engine" />
-      <item value="Used to preview custom player instances，MediaPlayer by default" />
-      <item value="Selection Config" />
-      <item value="compress File Engine" />
-      <item value="set Compress Engine" />
-      <item value="is Compress Engine" />
-      <item value="set Select Main Style" />
-      <item value="image Engine" />
-      <item value="m Instance" />
-      <item value="in.read Int" />
-      <item value="read Int" />
-      <item value="CREATOR" />
-      <item value="Medium Bold Text View" />
-      <item value="btn Check" />
-      <item value="ps color transparent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="372" />
-        <entry key="ENGLISH" value="367" />
+        <entry key="CHINESE" value="414" />
+        <entry key="ENGLISH" value="409" />
         <entry key="BULGARIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
