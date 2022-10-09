@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="com.squareup.picasso:picasso" />
       <item value="Camera View File Holder" />
       <item value="set Image Resource" />
       <item value="load Cover" />
@@ -52,12 +53,11 @@
       <item value="is Direct Return Single" />
       <item value="set Visibility" />
       <item value="selection Mode" />
-      <item value="find View By Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="270" />
-        <entry key="ENGLISH" value="268" />
+        <entry key="CHINESE" value="271" />
+        <entry key="ENGLISH" value="269" />
         <entry key="BULGARIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1664796007244" />
+    <option name="lastTrimTime" value="1665280545744" />
   </component>
   <component name="Settings">
     <option name="translator" value="YOUDAO" />
