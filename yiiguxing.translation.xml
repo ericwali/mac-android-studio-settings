@@ -3,9 +3,15 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="layout margin Bottom" />
+      <item value="image Editor Res" />
+      <item value="set Image Resource" />
+      <item value="adapter Style" />
       <item value="iv Editor" />
-      <item value="ps long chart" />
+      <item value="tv Media Tag" />
+      <item value="ps color transparent" />
       <item value="Medium Bold Text View" />
+      <item value="ps long chart" />
       <item value="Image View" />
       <item value="Square Relative Layout" />
       <item value="is Has Gif" />
@@ -13,9 +19,7 @@
       <item value="A resource failed to call close." />
       <item value="tv media tag" />
       <item value="config" />
-      <item value="tv Media Tag" />
       <item value="find View By Id" />
-      <item value="set Image Resource" />
       <item value="load Cover" />
       <item value="get Adapter Duration Text Color" />
       <item value="get Layout Params" />
@@ -37,7 +41,6 @@
       <item value="drawable Left" />
       <item value="selector Style" />
       <item value="File Selection Config" />
-      <item value="adapter Style" />
       <item value="Select Main Style" />
       <item value="on Create View Holder" />
       <item value="placeholder" />
@@ -50,14 +53,11 @@
       <item value="dispatch Handle Mask" />
       <item value="get Absolute Adapter Position" />
       <item value="selected Media" />
-      <item value="media position of list" />
-      <item value="notify Select Number Style" />
-      <item value="is Max Select Enabled Mask" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="435" />
-        <entry key="ENGLISH" value="430" />
+        <entry key="CHINESE" value="447" />
+        <entry key="ENGLISH" value="442" />
         <entry key="BULGARIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
