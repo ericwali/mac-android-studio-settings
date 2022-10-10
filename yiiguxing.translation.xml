@@ -3,6 +3,20 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="add Album Pop Window Action" />
+      <item value="on Apply Permissions Event" />
+      <item value="on Save Instance State" />
+      <item value="set Original Check" />
+      <item value="get Select Count" />
+      <item value="send Change Sub Select Position Event" />
+      <item value="adapter Change" />
+      <item value="get Duration" />
+      <item value="select Max File Size" />
+      <item value="notify Item Position Changed" />
+      <item value="get Adapter Select Click Area" />
+      <item value="click Area Params" />
+      <item value="check Size Validity" />
+      <item value="click Area" />
       <item value="verb" />
       <item value="add Rule" />
       <item value="remove Rule" />
@@ -10,7 +24,6 @@
       <item value="ALIGN PARENT END" />
       <item value="get Adapter Select Style Gravity" />
       <item value="select Style Gravity" />
-      <item value="get Adapter Select Click Area" />
       <item value="check Array Validity" />
       <item value="set Background Resource" />
       <item value="get Select Background" />
@@ -40,24 +53,11 @@
       <item value="select Zoom" />
       <item value="editor Gravity" />
       <item value="tag Gravity" />
-      <item value="generate" />
-      <item value="is Max Select Enabled Mask" />
-      <item value="set Max Select Enabled Mask" />
-      <item value="is Has Video" />
-      <item value="is Enabled Mask" />
-      <item value="SINGLE" />
-      <item value="is With Video Image" />
-      <item value="Selected Manager.get Selected Result" />
-      <item value="get Select Count" />
-      <item value="dispatch Handle Mask" />
-      <item value="is Handle Mask" />
-      <item value="is Cut" />
-      <item value="ALIGN PARENT BOTTOM" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="527" />
-        <entry key="ENGLISH" value="518" />
+        <entry key="CHINESE" value="546" />
+        <entry key="ENGLISH" value="537" />
         <entry key="BULGARIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
