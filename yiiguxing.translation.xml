@@ -3,6 +3,21 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="Medium Bold Text View" />
+      <item value="state selected" />
+      <item value="set Selected" />
+      <item value="is Selected" />
+      <item value="adapter Position" />
+      <item value="is Display Camera" />
+      <item value="The media number of qq choose styles" />
+      <item value="get Absolute Adapter Position" />
+      <item value="position" />
+      <item value="selected Result" />
+      <item value="Selected Manager" />
+      <item value="get Selected Result" />
+      <item value="notify Select Number Style" />
+      <item value="is Select Number Style" />
+      <item value="adapter Select Background" />
       <item value="on Bind View Holder" />
       <item value="on Selected Change" />
       <item value="notify Item Position Changed" />
@@ -16,7 +31,6 @@
       <item value="selection Mode" />
       <item value="load Cover" />
       <item value="bind Data" />
-      <item value="get Absolute Adapter Position" />
       <item value="CREATOR" />
       <item value="describe Contents" />
       <item value="Parcel" />
@@ -39,25 +53,11 @@
       <item value="set On Long Click Listener" />
       <item value="add Album Pop Window Action" />
       <item value="on Apply Permissions Event" />
-      <item value="on Save Instance State" />
-      <item value="set Original Check" />
-      <item value="get Select Count" />
-      <item value="send Change Sub Select Position Event" />
-      <item value="adapter Change" />
-      <item value="get Duration" />
-      <item value="select Max File Size" />
-      <item value="get Adapter Select Click Area" />
-      <item value="click Area Params" />
-      <item value="check Size Validity" />
-      <item value="click Area" />
-      <item value="verb" />
-      <item value="add Rule" />
-      <item value="remove Rule" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="586" />
-        <entry key="ENGLISH" value="573" />
+        <entry key="CHINESE" value="604" />
+        <entry key="ENGLISH" value="591" />
         <entry key="BULGARIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="ROMANIAN" value="1" />
