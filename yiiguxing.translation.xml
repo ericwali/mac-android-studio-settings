@@ -3,6 +3,18 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="create Blend Mode Color Filter Compat" />
+      <item value="get Color" />
+      <item value="Context Compat" />
+      <item value="Recycler View" />
+      <item value="selected Media" />
+      <item value="set Color Filter" />
+      <item value="set Selected" />
+      <item value="is Direct Return Single" />
+      <item value="get Layout Params" />
+      <item value="iv Picture" />
+      <item value="btn Check" />
+      <item value="tv Check" />
       <item value="If the cut" />
       <item value="set Editor Image" />
       <item value="set Cut Path" />
@@ -10,15 +22,11 @@
       <item value="select Zoom" />
       <item value="check Array Validity" />
       <item value="editor Gravity" />
-      <item value="get Layout Params" />
       <item value="set Background Resource" />
       <item value="tag Gravity" />
-      <item value="btn Check" />
-      <item value="tv Check" />
       <item value="generate" />
       <item value="is Max Select Enabled Mask" />
       <item value="set Max Select Enabled Mask" />
-      <item value="set Color Filter" />
       <item value="is Has Video" />
       <item value="is Enabled Mask" />
       <item value="SINGLE" />
@@ -28,7 +36,6 @@
       <item value="dispatch Handle Mask" />
       <item value="is Handle Mask" />
       <item value="is Select Number Style" />
-      <item value="iv Picture" />
       <item value="is Cut" />
       <item value="ALIGN PARENT BOTTOM" />
       <item value="set Image Resource" />
@@ -46,22 +53,15 @@
       <item value="set Adapter" />
       <item value="A resource failed to call close." />
       <item value="tv media tag" />
-      <item value="config" />
-      <item value="find View By Id" />
-      <item value="load Cover" />
-      <item value="get Adapter Duration Text Color" />
-      <item value="layout align Bottom" />
-      <item value="ALIGN PARENT LEFT" />
-      <item value="Margin Layout Params" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="482" />
-        <entry key="ENGLISH" value="476" />
+        <entry key="CHINESE" value="498" />
+        <entry key="ENGLISH" value="490" />
         <entry key="BULGARIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
-        <entry key="VIETNAMESE" value="5" />
+        <entry key="VIETNAMESE" value="7" />
       </map>
     </option>
   </component>
