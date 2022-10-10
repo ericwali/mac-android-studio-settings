@@ -3,9 +3,28 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="btn Check" />
+      <item value="tv Check" />
+      <item value="generate" />
+      <item value="is Max Select Enabled Mask" />
+      <item value="set Max Select Enabled Mask" />
+      <item value="set Color Filter" />
+      <item value="is Has Video" />
+      <item value="is Enabled Mask" />
+      <item value="SINGLE" />
+      <item value="is With Video Image" />
+      <item value="Selected Manager.get Selected Result" />
+      <item value="get Select Count" />
+      <item value="dispatch Handle Mask" />
+      <item value="is Handle Mask" />
+      <item value="is Select Number Style" />
+      <item value="iv Picture" />
+      <item value="is Cut" />
+      <item value="ALIGN PARENT BOTTOM" />
+      <item value="get Layout Params" />
+      <item value="set Image Resource" />
       <item value="layout margin Bottom" />
       <item value="image Editor Res" />
-      <item value="set Image Resource" />
       <item value="adapter Style" />
       <item value="iv Editor" />
       <item value="tv Media Tag" />
@@ -22,46 +41,27 @@
       <item value="find View By Id" />
       <item value="load Cover" />
       <item value="get Adapter Duration Text Color" />
-      <item value="get Layout Params" />
       <item value="layout align Bottom" />
       <item value="ALIGN PARENT LEFT" />
       <item value="Margin Layout Params" />
       <item value="tv Duration" />
       <item value="duration Gravity" />
       <item value="get Adapter Duration Gravity" />
-      <item value="ALIGN PARENT BOTTOM" />
       <item value="Relative Layout" />
       <item value="set Background Resource" />
       <item value="get Adapter Duration Text Size" />
       <item value="set Compound Drawables Relative With Intrinsic Bounds" />
       <item value="check Style Validity" />
       <item value="get Adapter Duration Drawable Left" />
-      <item value="get Select Main Style" />
-      <item value="bind Data" />
-      <item value="drawable Left" />
-      <item value="selector Style" />
-      <item value="File Selection Config" />
-      <item value="Select Main Style" />
-      <item value="on Create View Holder" />
-      <item value="placeholder" />
-      <item value="center Crop" />
-      <item value="override" />
-      <item value="Equivalent to calling {@link asDrawable()} and then {@link RequestBuilderload(String)}. @return A new request builder for loading a {@link Drawable} using the given model." />
-      <item value="load picture list picture" />
-      <item value="get Cut Path" />
-      <item value="is Editor Image" />
-      <item value="dispatch Handle Mask" />
-      <item value="get Absolute Adapter Position" />
-      <item value="selected Media" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="447" />
-        <entry key="ENGLISH" value="442" />
+        <entry key="CHINESE" value="471" />
+        <entry key="ENGLISH" value="465" />
         <entry key="BULGARIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
-        <entry key="VIETNAMESE" value="4" />
+        <entry key="VIETNAMESE" value="5" />
       </map>
     </option>
   </component>
