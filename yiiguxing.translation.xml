@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="delete State" />
+      <item value="On Item Bind" />
+      <item value="Provides the necessary information to bind an item in a collection to a view. This includes the variable id and the layout as well as any extra bindings you may want to provide." />
+      <item value="on Create View Holder" />
       <item value="Medium Bold Text View" />
       <item value="state selected" />
       <item value="set Selected" />
@@ -49,15 +53,11 @@
       <item value="is Use Pool" />
       <item value="get Compare Local Media" />
       <item value="compare Local Media" />
-      <item value="Deprecated" />
-      <item value="set On Long Click Listener" />
-      <item value="add Album Pop Window Action" />
-      <item value="on Apply Permissions Event" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="604" />
-        <entry key="ENGLISH" value="591" />
+        <entry key="CHINESE" value="609" />
+        <entry key="ENGLISH" value="596" />
         <entry key="BULGARIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="ROMANIAN" value="1" />
