@@ -4,6 +4,12 @@
     <option name="newTranslationDialogY" value="360" />
     <histories>
       <item value="describe Contents" />
+      <item value="Parcel" />
+      <item value="dest" />
+      <item value="Comparable" />
+      <item value="Serializable" />
+      <item value="String" />
+      <item value="bucket Name" />
       <item value="Linked List" />
       <item value="acquire" />
       <item value="parse Local Media" />
@@ -47,19 +53,14 @@
       <item value="is Select Number Style" />
       <item value="select Main Style" />
       <item value="select Color Filter" />
-      <item value="default Color Filter" />
-      <item value="Color Filter" />
-      <item value="btn Check" />
-      <item value="create Blend Mode Color Filter Compat" />
-      <item value="get Color" />
-      <item value="Context Compat" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="559" />
-        <entry key="ENGLISH" value="549" />
+        <entry key="CHINESE" value="568" />
+        <entry key="ENGLISH" value="557" />
         <entry key="BULGARIAN" value="1" />
         <entry key="CATALAN" value="1" />
+        <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
         <entry key="SPANISH" value="1" />
         <entry key="VIETNAMESE" value="8" />
