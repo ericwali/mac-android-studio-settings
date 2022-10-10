@@ -3,6 +3,46 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="selected Media" />
+      <item value="is Selected" />
+      <item value="File Selected Manager" />
+      <item value="ADD" />
+      <item value="dispatch Transform Result" />
+      <item value="ADD SUCCESS" />
+      <item value="INVALID" />
+      <item value="is Check Select Validity" />
+      <item value="btn Check" />
+      <item value="tv Check" />
+      <item value="is Max Select Enabled Mask" />
+      <item value="click sound effect id" />
+      <item value="soundpool" />
+      <item value="is Open Click Sound" />
+      <item value="SINGLE" />
+      <item value="check Select Validity" />
+      <item value="is With Video Image" />
+      <item value="check Only Mime Type Validity" />
+      <item value="check With Mime Type Validity" />
+      <item value="selected Result" />
+      <item value="is Select Limit" />
+      <item value="SELECT NOT SUPPORT SELECT LIMIT" />
+      <item value="on Select Limit Tips Listener" />
+      <item value="on Select Filter" />
+      <item value="on Select Filter Listener" />
+      <item value="on Select Anim Listener" />
+      <item value="on Selected" />
+      <item value="Selected Manager" />
+      <item value="check Old Crop Validity" />
+      <item value="on Crop" />
+      <item value="on Item Long Click" />
+      <item value="Picture Cache Manager" />
+      <item value="get Selected Preview Result" />
+      <item value="add Selected Preview Result" />
+      <item value="start Activity Preview" />
+      <item value="on Save Instance State" />
+      <item value="current Local Media Folder" />
+      <item value="confirm Select" />
+      <item value="get Absolute Path" />
+      <item value="set empty PictureSelector Cache" />
       <item value="delete State" />
       <item value="On Item Bind" />
       <item value="Provides the necessary information to bind an item in a collection to a view. This includes the variable id and the layout as well as any extra bindings you may want to provide." />
@@ -10,60 +50,21 @@
       <item value="Medium Bold Text View" />
       <item value="state selected" />
       <item value="set Selected" />
-      <item value="is Selected" />
       <item value="adapter Position" />
       <item value="is Display Camera" />
       <item value="The media number of qq choose styles" />
-      <item value="get Absolute Adapter Position" />
-      <item value="position" />
-      <item value="selected Result" />
-      <item value="Selected Manager" />
-      <item value="get Selected Result" />
-      <item value="notify Select Number Style" />
-      <item value="is Select Number Style" />
-      <item value="adapter Select Background" />
-      <item value="on Bind View Holder" />
-      <item value="on Selected Change" />
-      <item value="notify Item Position Changed" />
-      <item value="post Delayed" />
-      <item value="param position Position of the item that has changed @see notifyItemRangeChanged(int, int)" />
-      <item value="This is an item change event, not a structural change event. It indicates that any reflection of the data at &lt;code&gt;position&lt;code&gt; is out of date and should be updated. The item at &lt;code&gt;position&lt;code&gt; retains the same identity.&lt;p&gt;" />
-      <item value="Notify any registered observers that the item at &lt;code&gt;position&lt;code&gt; has changed. Equivalent to calling &lt;code&gt;notifyItemChanged(position, null);&lt;code&gt;." />
-      <item value="Returns the Adapter position of the item represented by this ViewHolder with respect to the {@link RecyclerView}'s {@link Adapter}. If the {@link Adapter} that bound this {@link ViewHolder} is inside another adapter (e.g. {@link ConcatAdapter}), this position might be different and will include the offsets caused by other adapters in the {@link ConcatAdapter}." />
-      <item value="on Fixed Selected Change" />
-      <item value="btn Check" />
-      <item value="selection Mode" />
-      <item value="load Cover" />
-      <item value="bind Data" />
-      <item value="CREATOR" />
-      <item value="describe Contents" />
-      <item value="Parcel" />
-      <item value="dest" />
-      <item value="Comparable" />
-      <item value="Serializable" />
-      <item value="String" />
-      <item value="bucket Name" />
-      <item value="Linked List" />
-      <item value="acquire" />
-      <item value="parse Local Media" />
-      <item value="parselocalmedia" />
-      <item value="on Complete" />
-      <item value="load All Album" />
-      <item value="on Success" />
-      <item value="is Use Pool" />
-      <item value="get Compare Local Media" />
-      <item value="compare Local Media" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="609" />
-        <entry key="ENGLISH" value="596" />
+        <entry key="CHINESE" value="665" />
+        <entry key="ENGLISH" value="650" />
         <entry key="BULGARIAN" value="1" />
+        <entry key="AFRIKAANS" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
         <entry key="SPANISH" value="1" />
-        <entry key="VIETNAMESE" value="10" />
+        <entry key="VIETNAMESE" value="11" />
       </map>
     </option>
   </component>
