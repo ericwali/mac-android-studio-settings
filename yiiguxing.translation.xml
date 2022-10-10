@@ -3,6 +3,16 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="If the cut" />
+      <item value="set Editor Image" />
+      <item value="set Cut Path" />
+      <item value="on Select Item Anim" />
+      <item value="select Zoom" />
+      <item value="check Array Validity" />
+      <item value="editor Gravity" />
+      <item value="get Layout Params" />
+      <item value="set Background Resource" />
+      <item value="tag Gravity" />
       <item value="btn Check" />
       <item value="tv Check" />
       <item value="generate" />
@@ -21,7 +31,6 @@
       <item value="iv Picture" />
       <item value="is Cut" />
       <item value="ALIGN PARENT BOTTOM" />
-      <item value="get Layout Params" />
       <item value="set Image Resource" />
       <item value="layout margin Bottom" />
       <item value="image Editor Res" />
@@ -44,20 +53,11 @@
       <item value="layout align Bottom" />
       <item value="ALIGN PARENT LEFT" />
       <item value="Margin Layout Params" />
-      <item value="tv Duration" />
-      <item value="duration Gravity" />
-      <item value="get Adapter Duration Gravity" />
-      <item value="Relative Layout" />
-      <item value="set Background Resource" />
-      <item value="get Adapter Duration Text Size" />
-      <item value="set Compound Drawables Relative With Intrinsic Bounds" />
-      <item value="check Style Validity" />
-      <item value="get Adapter Duration Drawable Left" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="471" />
-        <entry key="ENGLISH" value="465" />
+        <entry key="CHINESE" value="482" />
+        <entry key="ENGLISH" value="476" />
         <entry key="BULGARIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
