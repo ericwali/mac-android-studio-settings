@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="select Color Filter" />
+      <item value="default Color Filter" />
+      <item value="Color Filter" />
+      <item value="btn Check" />
       <item value="create Blend Mode Color Filter Compat" />
       <item value="get Color" />
       <item value="Context Compat" />
@@ -13,7 +17,6 @@
       <item value="is Direct Return Single" />
       <item value="get Layout Params" />
       <item value="iv Picture" />
-      <item value="btn Check" />
       <item value="tv Check" />
       <item value="If the cut" />
       <item value="set Editor Image" />
@@ -50,18 +53,15 @@
       <item value="Image View" />
       <item value="Square Relative Layout" />
       <item value="is Has Gif" />
-      <item value="set Adapter" />
-      <item value="A resource failed to call close." />
-      <item value="tv media tag" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="498" />
-        <entry key="ENGLISH" value="490" />
+        <entry key="CHINESE" value="502" />
+        <entry key="ENGLISH" value="493" />
         <entry key="BULGARIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
-        <entry key="VIETNAMESE" value="7" />
+        <entry key="VIETNAMESE" value="8" />
       </map>
     </option>
   </component>
