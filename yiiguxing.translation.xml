@@ -3,8 +3,40 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
-      <item value="is Selected" />
+      <item value="show Data Null" />
+      <item value="set Adapter Data Complete" />
+      <item value="init View Pager Data" />
+      <item value="Selected Manager" />
+      <item value="adapter Change" />
+      <item value="selector Style" />
+      <item value="send Change Sub Select Position Event" />
+      <item value="notify Select Number Style" />
+      <item value="set Selected Background" />
       <item value="selected Media" />
+      <item value="On Item Click Listener" />
+      <item value="Recently Non Null" />
+      <item value="New Api" />
+      <item value="Suppress Lint" />
+      <item value="set Position" />
+      <item value="get Selected Result" />
+      <item value="get Select Count" />
+      <item value="get Compare Local Media" />
+      <item value="current Media" />
+      <item value="compare" />
+      <item value="set Editor Image" />
+      <item value="current Local Media Folder" />
+      <item value="albumdatasource" />
+      <item value="all data source" />
+      <item value="selected preview result" />
+      <item value="get Top Result Mime Type" />
+      <item value="add All Select Result" />
+      <item value="add Select Result" />
+      <item value="clear Album Data Source" />
+      <item value="clear Select Result" />
+      <item value="selected result" />
+      <item value="Array List" />
+      <item value="check Complete Select Limit" />
+      <item value="is Selected" />
       <item value="File Selected Manager" />
       <item value="ADD" />
       <item value="dispatch Transform Result" />
@@ -21,45 +53,14 @@
       <item value="check Select Validity" />
       <item value="is With Video Image" />
       <item value="check Only Mime Type Validity" />
-      <item value="check With Mime Type Validity" />
-      <item value="selected Result" />
-      <item value="is Select Limit" />
-      <item value="SELECT NOT SUPPORT SELECT LIMIT" />
-      <item value="on Select Limit Tips Listener" />
-      <item value="on Select Filter" />
-      <item value="on Select Filter Listener" />
-      <item value="on Select Anim Listener" />
-      <item value="on Selected" />
-      <item value="Selected Manager" />
-      <item value="check Old Crop Validity" />
-      <item value="on Crop" />
-      <item value="on Item Long Click" />
-      <item value="Picture Cache Manager" />
-      <item value="get Selected Preview Result" />
-      <item value="add Selected Preview Result" />
-      <item value="start Activity Preview" />
-      <item value="on Save Instance State" />
-      <item value="current Local Media Folder" />
-      <item value="confirm Select" />
-      <item value="get Absolute Path" />
-      <item value="set empty PictureSelector Cache" />
-      <item value="delete State" />
-      <item value="On Item Bind" />
-      <item value="Provides the necessary information to bind an item in a collection to a view. This includes the variable id and the layout as well as any extra bindings you may want to provide." />
-      <item value="on Create View Holder" />
-      <item value="Medium Bold Text View" />
-      <item value="state selected" />
-      <item value="set Selected" />
-      <item value="adapter Position" />
-      <item value="is Display Camera" />
-      <item value="The media number of qq choose styles" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="666" />
-        <entry key="ENGLISH" value="651" />
+        <entry key="CHINESE" value="707" />
+        <entry key="ENGLISH" value="690" />
         <entry key="BULGARIAN" value="1" />
-        <entry key="AFRIKAANS" value="1" />
+        <entry key="AFRIKAANS" value="2" />
+        <entry key="FINNISH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
