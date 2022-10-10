@@ -3,6 +3,21 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="remove Rule" />
+      <item value="center vertical" />
+      <item value="ALIGN PARENT END" />
+      <item value="get Adapter Select Style Gravity" />
+      <item value="select Style Gravity" />
+      <item value="get Adapter Select Click Area" />
+      <item value="check Array Validity" />
+      <item value="set Background Resource" />
+      <item value="get Select Background" />
+      <item value="get Adapter Select Text Size" />
+      <item value="selection Mode" />
+      <item value="is Direct Return Single" />
+      <item value="iv Picture" />
+      <item value="is Select Number Style" />
+      <item value="select Main Style" />
       <item value="select Color Filter" />
       <item value="default Color Filter" />
       <item value="Color Filter" />
@@ -14,18 +29,14 @@
       <item value="selected Media" />
       <item value="set Color Filter" />
       <item value="set Selected" />
-      <item value="is Direct Return Single" />
       <item value="get Layout Params" />
-      <item value="iv Picture" />
       <item value="tv Check" />
       <item value="If the cut" />
       <item value="set Editor Image" />
       <item value="set Cut Path" />
       <item value="on Select Item Anim" />
       <item value="select Zoom" />
-      <item value="check Array Validity" />
       <item value="editor Gravity" />
-      <item value="set Background Resource" />
       <item value="tag Gravity" />
       <item value="generate" />
       <item value="is Max Select Enabled Mask" />
@@ -38,26 +49,15 @@
       <item value="get Select Count" />
       <item value="dispatch Handle Mask" />
       <item value="is Handle Mask" />
-      <item value="is Select Number Style" />
       <item value="is Cut" />
       <item value="ALIGN PARENT BOTTOM" />
       <item value="set Image Resource" />
       <item value="layout margin Bottom" />
-      <item value="image Editor Res" />
-      <item value="adapter Style" />
-      <item value="iv Editor" />
-      <item value="tv Media Tag" />
-      <item value="ps color transparent" />
-      <item value="Medium Bold Text View" />
-      <item value="ps long chart" />
-      <item value="Image View" />
-      <item value="Square Relative Layout" />
-      <item value="is Has Gif" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="502" />
-        <entry key="ENGLISH" value="493" />
+        <entry key="CHINESE" value="525" />
+        <entry key="ENGLISH" value="516" />
         <entry key="BULGARIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
