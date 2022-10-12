@@ -3,6 +3,20 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="Open PictureSelector" />
+      <item value="on Bind View Holder" />
+      <item value="on Create View Holder" />
+      <item value="get Item View Type" />
+      <item value="Picture Selector" />
+      <item value="translation Y" />
+      <item value="Slide In Bottom Animation Adapter" />
+      <item value="Alpha In Animation Adapter" />
+      <item value="animation Mode" />
+      <item value="disk Cache Strategy" />
+      <item value="with" />
+      <item value="choose Model" />
+      <item value="set On Checked Change Listener" />
+      <item value="set Supports Change Animations" />
       <item value="image Height" />
       <item value="imgae" />
       <item value="imgae Width" />
@@ -21,7 +35,6 @@
       <item value="Local Media Folder" />
       <item value="get Mime Type" />
       <item value="is Display Camera" />
-      <item value="get Item View Type" />
       <item value="is Data Empty" />
       <item value="isdataempty" />
       <item value="Suppress Lint" />
@@ -40,24 +53,11 @@
       <item value="is Enable Preview Image" />
       <item value="is Direct Return Single" />
       <item value="set On Click Listener" />
-      <item value="on Item Click" />
-      <item value="is Enable Preview Audio" />
-      <item value="is Preview" />
-      <item value="is Has Image" />
-      <item value="set On Long Click Listener" />
-      <item value="on Item Long Click" />
-      <item value="position" />
-      <item value="Object Animator" />
-      <item value="select Zoom" />
-      <item value="play Together" />
-      <item value="Animator Set" />
-      <item value="on Select Item Anim" />
-      <item value="On Grid Item Select Anim Listener" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="773" />
-        <entry key="ENGLISH" value="753" />
+        <entry key="CHINESE" value="788" />
+        <entry key="ENGLISH" value="768" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="FILIPINO" value="1" />
