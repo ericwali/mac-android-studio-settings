@@ -3,8 +3,36 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
-      <item value="Whether to turn on paging mode" />
+      <item value="Media Store" />
+      <item value="set Bucket Id" />
+      <item value="get Parent Folder Name" />
+      <item value="last Modified" />
+      <item value="set First Image Path" />
+      <item value="set First Mime Type" />
+      <item value="set Data" />
+      <item value="all Media Folder" />
+      <item value="parse Local Media" />
+      <item value="Internal use" />
+      <item value="会直接从Media Store拉取" />
+      <item value="get Folder Total Num" />
+      <item value="is Add Same Imp" />
+      <item value="get Page Selection" />
+      <item value="do In Background" />
+      <item value="result" />
+      <item value="query Args" />
+      <item value="load Page Media Data" />
+      <item value="load Only In App Dir All Media" />
+      <item value="loadMedia Page Data Error" />
+      <item value="Picture Thread Utils" />
+      <item value="get Page Selection Args" />
+      <item value="sort Local Media Added Time" />
+      <item value="execute By Io" />
+      <item value="obtain Media Data" />
+      <item value="I Bridge Media Loader" />
+      <item value="Local Media Page Loader" />
       <item value="is Page Strategy" />
+      <item value="is Filter Invalid File" />
+      <item value="Whether to turn on paging mode" />
       <item value="is External Preview" />
       <item value="is Has More" />
       <item value="remove Page Camera Repeat Data" />
@@ -25,39 +53,11 @@
       <item value="dispatch Watermark Result" />
       <item value="video Thumbnail" />
       <item value="video thumbnail" />
-      <item value="on Video Thumbnail" />
-      <item value="add Bitmap Watermark" />
-      <item value="get Video Thumbnail Dir" />
-      <item value="Thumbnail" />
-      <item value="get Absolute Path" />
-      <item value="target Path" />
-      <item value="fos" />
-      <item value="target File" />
-      <item value="result" />
-      <item value="File Output Stream" />
-      <item value="stream" />
-      <item value="transition" />
-      <item value="Bitmap" />
-      <item value="Me On Video Thumbnail Event Listener" />
-      <item value="on Load Cleared" />
-      <item value="on Resource Ready" />
-      <item value="Custom Target" />
-      <item value="Me Bitmap Watermark Event Listener" />
-      <item value="Me On Simple X Permission Denied Listener" />
-      <item value="Me On Permission Denied Listener" />
-      <item value="cb only dir" />
-      <item value="Only the resources in the specified directory are displayed" />
-      <item value="is Zoom Camera Preview" />
-      <item value="is Checked" />
-      <item value="set Title Album Background Resource" />
-      <item value="cb custom sandbox" />
-      <item value="is Original Control" />
-      <item value="Simple Camera X" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="888" />
-        <entry key="ENGLISH" value="864" />
+        <entry key="CHINESE" value="931" />
+        <entry key="ENGLISH" value="907" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="FILIPINO" value="1" />
