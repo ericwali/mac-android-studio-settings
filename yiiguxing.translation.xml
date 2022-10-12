@@ -3,68 +3,70 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
-      <item value="start Slide Selection" />
-      <item value="m Drag Select Touch Listener" />
-      <item value="vibrator" />
-      <item value="vibrate" />
-      <item value="confirm Select" />
-      <item value="is Max Select Enabled Mask" />
-      <item value="show Data Null" />
-      <item value="set Adapter Data Complete" />
-      <item value="init View Pager Data" />
-      <item value="Selected Manager" />
-      <item value="adapter Change" />
-      <item value="selector Style" />
-      <item value="send Change Sub Select Position Event" />
-      <item value="notify Select Number Style" />
-      <item value="set Selected Background" />
-      <item value="selected Media" />
-      <item value="On Item Click Listener" />
-      <item value="Recently Non Null" />
-      <item value="New Api" />
+      <item value="image Height" />
+      <item value="imgae" />
+      <item value="imgae Width" />
+      <item value="is Editor Image" />
+      <item value="Media Extra Info" />
+      <item value="set Image Resource" />
+      <item value="get Duration" />
+      <item value="layout Resource Id" />
+      <item value="parse Local Media" />
+      <item value="Check the original button to get the return value original path" />
+      <item value="video thumbnail path" />
+      <item value="is Gallery Enabled Mask" />
+      <item value="Whether the image has been edited" />
+      <item value="localmedia" />
+      <item value="Local Media" />
+      <item value="Local Media Folder" />
+      <item value="get Mime Type" />
+      <item value="is Display Camera" />
+      <item value="get Item View Type" />
+      <item value="is Data Empty" />
+      <item value="isdataempty" />
       <item value="Suppress Lint" />
-      <item value="set Position" />
-      <item value="get Selected Result" />
-      <item value="get Select Count" />
-      <item value="get Compare Local Media" />
-      <item value="current Media" />
-      <item value="compare" />
-      <item value="set Editor Image" />
-      <item value="current Local Media Folder" />
-      <item value="albumdatasource" />
-      <item value="all data source" />
-      <item value="selected preview result" />
-      <item value="get Top Result Mime Type" />
-      <item value="add All Select Result" />
-      <item value="add Select Result" />
-      <item value="clear Album Data Source" />
-      <item value="clear Select Result" />
-      <item value="selected result" />
-      <item value="Array List" />
-      <item value="check Complete Select Limit" />
-      <item value="is Selected" />
-      <item value="File Selected Manager" />
-      <item value="ADD" />
-      <item value="dispatch Transform Result" />
-      <item value="ADD SUCCESS" />
-      <item value="INVALID" />
-      <item value="is Check Select Validity" />
-      <item value="btn Check" />
-      <item value="tv Check" />
-      <item value="click sound effect id" />
-      <item value="soundpool" />
+      <item value="Notify Data Set Changed" />
+      <item value="notify Data Set Changed" />
+      <item value="set Data And Data Set Changed" />
+      <item value="notify Item Changed" />
+      <item value="File Selection Config" />
+      <item value="result" />
+      <item value="File Grid Adapter" />
+      <item value="notify Item Position Changed" />
+      <item value="ADAPTER TYPE AUDIO" />
+      <item value="Base File Recycler View Holder" />
+      <item value="Fully Grid Layout Manager" />
+      <item value="is Enable Preview Video" />
+      <item value="is Enable Preview Image" />
+      <item value="is Direct Return Single" />
+      <item value="set On Click Listener" />
+      <item value="on Item Click" />
+      <item value="is Enable Preview Audio" />
+      <item value="is Preview" />
+      <item value="is Has Image" />
+      <item value="set On Long Click Listener" />
+      <item value="on Item Long Click" />
+      <item value="position" />
+      <item value="Object Animator" />
+      <item value="select Zoom" />
+      <item value="play Together" />
+      <item value="Animator Set" />
+      <item value="on Select Item Anim" />
+      <item value="On Grid Item Select Anim Listener" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="713" />
-        <entry key="ENGLISH" value="696" />
+        <entry key="CHINESE" value="773" />
+        <entry key="ENGLISH" value="753" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="2" />
+        <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
-        <entry key="SPANISH" value="1" />
+        <entry key="SPANISH" value="2" />
+        <entry key="HINDI" value="1" />
         <entry key="VIETNAMESE" value="11" />
       </map>
     </option>
