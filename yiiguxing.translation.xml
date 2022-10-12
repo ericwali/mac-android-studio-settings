@@ -3,8 +3,44 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
-      <item value="is Original Control" />
+      <item value="video Path" />
+      <item value="set Video Thumbnail Path" />
+      <item value="setvideothumbnailpath" />
+      <item value="media.get Mime Type" />
+      <item value="available Path" />
+      <item value="Local Media" />
+      <item value="media" />
+      <item value="dispatch Watermark Result" />
+      <item value="video Thumbnail" />
+      <item value="video thumbnail" />
+      <item value="on Video Thumbnail" />
+      <item value="add Bitmap Watermark" />
+      <item value="get Video Thumbnail Dir" />
+      <item value="Thumbnail" />
+      <item value="get Absolute Path" />
+      <item value="target Path" />
+      <item value="fos" />
+      <item value="target File" />
+      <item value="result" />
+      <item value="File Output Stream" />
+      <item value="stream" />
+      <item value="transition" />
+      <item value="Bitmap" />
+      <item value="Me On Video Thumbnail Event Listener" />
+      <item value="on Load Cleared" />
+      <item value="on Resource Ready" />
+      <item value="Custom Target" />
+      <item value="Me Bitmap Watermark Event Listener" />
+      <item value="Me On Simple X Permission Denied Listener" />
+      <item value="Me On Permission Denied Listener" />
+      <item value="is Only Obtain Sandbox Dir" />
+      <item value="cb only dir" />
+      <item value="Only the resources in the specified directory are displayed" />
       <item value="is Zoom Camera Preview" />
+      <item value="is Checked" />
+      <item value="set Title Album Background Resource" />
+      <item value="cb custom sandbox" />
+      <item value="is Original Control" />
       <item value="Simple Camera X" />
       <item value="camera Mode" />
       <item value="create Camera Out Image Uri" />
@@ -17,47 +53,11 @@
       <item value="start Foreground Service" />
       <item value="On Camera Intercept Listener" />
       <item value="set Video Bit Rate" />
-      <item value="Me On Camera Intercept Listener" />
-      <item value="anim" />
-      <item value="activity Enter Animation" />
-      <item value="activity Exit Animation" />
-      <item value="album Window Style" />
-      <item value="set Activity Enter Animation" />
-      <item value="set Activity Exit Animation" />
-      <item value="ps anim down out" />
-      <item value="mAdapter.setSelectMax(maxSelectNum + maxSelectVideoNum);" />
-      <item value="on Checked Changed" />
-      <item value="get Layout Resource Id" />
-      <item value="on Layout Resource Listener" />
-      <item value="Me On Inject Layout Resource Listener" />
-      <item value="On Inject Layout Resource Listener" />
-      <item value="get Item Count" />
-      <item value="tv Duration" />
-      <item value="View Holder" />
-      <item value="Open PictureSelector" />
-      <item value="on Bind View Holder" />
-      <item value="on Create View Holder" />
-      <item value="get Item View Type" />
-      <item value="Picture Selector" />
-      <item value="translation Y" />
-      <item value="Slide In Bottom Animation Adapter" />
-      <item value="Alpha In Animation Adapter" />
-      <item value="animation Mode" />
-      <item value="disk Cache Strategy" />
-      <item value="with" />
-      <item value="choose Model" />
-      <item value="set On Checked Change Listener" />
-      <item value="set Supports Change Animations" />
-      <item value="image Height" />
-      <item value="imgae" />
-      <item value="imgae Width" />
-      <item value="is Editor Image" />
-      <item value="Media Extra Info" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="821" />
-        <entry key="ENGLISH" value="799" />
+        <entry key="CHINESE" value="870" />
+        <entry key="ENGLISH" value="846" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="FILIPINO" value="1" />
@@ -66,9 +66,10 @@
         <entry key="CZECH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
+        <entry key="PORTUGUESE" value="1" />
         <entry key="SPANISH" value="2" />
         <entry key="ITALIAN" value="1" />
-        <entry key="HINDI" value="1" />
+        <entry key="HINDI" value="2" />
         <entry key="VIETNAMESE" value="11" />
       </map>
     </option>
