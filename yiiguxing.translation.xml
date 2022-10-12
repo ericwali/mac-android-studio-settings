@@ -3,6 +3,18 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="Whether to turn on paging mode" />
+      <item value="is Page Strategy" />
+      <item value="is External Preview" />
+      <item value="is Has More" />
+      <item value="remove Page Camera Repeat Data" />
+      <item value="on Dismiss Popup Window" />
+      <item value="init Album List Pop Window" />
+      <item value="on Show Popup Window" />
+      <item value="is Only Obtain Sandbox Dir" />
+      <item value="date modified" />
+      <item value="DATE MODIFIED" />
+      <item value="set Query Sort Order" />
       <item value="video Path" />
       <item value="set Video Thumbnail Path" />
       <item value="setvideothumbnailpath" />
@@ -33,7 +45,6 @@
       <item value="Me Bitmap Watermark Event Listener" />
       <item value="Me On Simple X Permission Denied Listener" />
       <item value="Me On Permission Denied Listener" />
-      <item value="is Only Obtain Sandbox Dir" />
       <item value="cb only dir" />
       <item value="Only the resources in the specified directory are displayed" />
       <item value="is Zoom Camera Preview" />
@@ -42,22 +53,11 @@
       <item value="cb custom sandbox" />
       <item value="is Original Control" />
       <item value="Simple Camera X" />
-      <item value="camera Mode" />
-      <item value="create Camera Out Image Uri" />
-      <item value="on Selected Only Camera" />
-      <item value="open Image Camera" />
-      <item value="open Video Camera" />
-      <item value="on Intercept Camera Event" />
-      <item value="on Camera Intercept Listener" />
-      <item value="is Camera Foreground Service" />
-      <item value="start Foreground Service" />
-      <item value="On Camera Intercept Listener" />
-      <item value="set Video Bit Rate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="870" />
-        <entry key="ENGLISH" value="846" />
+        <entry key="CHINESE" value="888" />
+        <entry key="ENGLISH" value="864" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="FILIPINO" value="1" />
