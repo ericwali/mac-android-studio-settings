@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="start Slide Selection" />
+      <item value="m Drag Select Touch Listener" />
+      <item value="vibrator" />
+      <item value="vibrate" />
       <item value="confirm Select" />
       <item value="is Max Select Enabled Mask" />
       <item value="show Data Null" />
@@ -49,15 +53,11 @@
       <item value="tv Check" />
       <item value="click sound effect id" />
       <item value="soundpool" />
-      <item value="is Open Click Sound" />
-      <item value="SINGLE" />
-      <item value="check Select Validity" />
-      <item value="is With Video Image" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="709" />
-        <entry key="ENGLISH" value="692" />
+        <entry key="CHINESE" value="713" />
+        <entry key="ENGLISH" value="696" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="FINNISH" value="1" />
