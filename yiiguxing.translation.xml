@@ -3,6 +3,36 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="is Zoom Camera Preview" />
+      <item value="Simple Camera X" />
+      <item value="camera Mode" />
+      <item value="create Camera Out Image Uri" />
+      <item value="on Selected Only Camera" />
+      <item value="open Image Camera" />
+      <item value="open Video Camera" />
+      <item value="on Intercept Camera Event" />
+      <item value="on Camera Intercept Listener" />
+      <item value="is Camera Foreground Service" />
+      <item value="start Foreground Service" />
+      <item value="On Camera Intercept Listener" />
+      <item value="set Video Bit Rate" />
+      <item value="Me On Camera Intercept Listener" />
+      <item value="anim" />
+      <item value="activity Enter Animation" />
+      <item value="activity Exit Animation" />
+      <item value="album Window Style" />
+      <item value="set Activity Enter Animation" />
+      <item value="set Activity Exit Animation" />
+      <item value="ps anim down out" />
+      <item value="mAdapter.setSelectMax(maxSelectNum + maxSelectVideoNum);" />
+      <item value="on Checked Changed" />
+      <item value="get Layout Resource Id" />
+      <item value="on Layout Resource Listener" />
+      <item value="Me On Inject Layout Resource Listener" />
+      <item value="On Inject Layout Resource Listener" />
+      <item value="get Item Count" />
+      <item value="tv Duration" />
+      <item value="View Holder" />
       <item value="Open PictureSelector" />
       <item value="on Bind View Holder" />
       <item value="on Create View Holder" />
@@ -23,49 +53,21 @@
       <item value="is Editor Image" />
       <item value="Media Extra Info" />
       <item value="set Image Resource" />
-      <item value="get Duration" />
-      <item value="layout Resource Id" />
-      <item value="parse Local Media" />
-      <item value="Check the original button to get the return value original path" />
-      <item value="video thumbnail path" />
-      <item value="is Gallery Enabled Mask" />
-      <item value="Whether the image has been edited" />
-      <item value="localmedia" />
-      <item value="Local Media" />
-      <item value="Local Media Folder" />
-      <item value="get Mime Type" />
-      <item value="is Display Camera" />
-      <item value="is Data Empty" />
-      <item value="isdataempty" />
-      <item value="Suppress Lint" />
-      <item value="Notify Data Set Changed" />
-      <item value="notify Data Set Changed" />
-      <item value="set Data And Data Set Changed" />
-      <item value="notify Item Changed" />
-      <item value="File Selection Config" />
-      <item value="result" />
-      <item value="File Grid Adapter" />
-      <item value="notify Item Position Changed" />
-      <item value="ADAPTER TYPE AUDIO" />
-      <item value="Base File Recycler View Holder" />
-      <item value="Fully Grid Layout Manager" />
-      <item value="is Enable Preview Video" />
-      <item value="is Enable Preview Image" />
-      <item value="is Direct Return Single" />
-      <item value="set On Click Listener" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="788" />
-        <entry key="ENGLISH" value="768" />
+        <entry key="CHINESE" value="820" />
+        <entry key="ENGLISH" value="798" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="CATALAN" value="1" />
+        <entry key="CZECH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
         <entry key="SPANISH" value="2" />
+        <entry key="ITALIAN" value="1" />
         <entry key="HINDI" value="1" />
         <entry key="VIETNAMESE" value="11" />
       </map>
