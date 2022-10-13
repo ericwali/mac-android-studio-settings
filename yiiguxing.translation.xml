@@ -3,8 +3,21 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
-      <item value="Activity Result Contract" />
+      <item value="create Intent" />
+      <item value="EXTRA ACTIVITY OPTIONS BUNDLE" />
       <item value="Start Activity For Result" />
+      <item value="Start Intent Sender For Result" />
+      <item value="Get Content" />
+      <item value="Get Multiple Contents" />
+      <item value="Open Multiple Documents" />
+      <item value="Open Document Tree" />
+      <item value="Create Document" />
+      <item value="Pick Contact" />
+      <item value="Capture Video" />
+      <item value="Take Picture" />
+      <item value="get Synchronous Result" />
+      <item value="Activity Result" />
+      <item value="Activity Result Contract" />
       <item value="register For Activity Result" />
       <item value="Activity Result Launcher" />
       <item value="screen Size" />
@@ -16,7 +29,6 @@
       <item value="get Support Fragment Manager" />
       <item value="commit Allowing State Loss" />
       <item value="support Fragment Manager" />
-      <item value="Activity Result" />
       <item value="Ban Parcelable Usage" />
       <item value="inject System Room Fragment" />
       <item value="get Parcelable Array List" />
@@ -41,23 +53,11 @@
       <item value="get Clip Data" />
       <item value="MODE TYPE SYSTEM SOURCE" />
       <item value="EXTRA MODE TYPE SOURCE" />
-      <item value="Picture Selector System Fragment" />
-      <item value="is External Preview" />
-      <item value="immersive" />
-      <item value="EXTRA EXTERNAL PREVIEW DISPLAY DELETE" />
-      <item value="preview Result" />
-      <item value="position" />
-      <item value="Picture Selector Preview Fragment" />
-      <item value="on Inject Activity Preview Listener" />
-      <item value="MODE TYPE EXTERNAL PREVIEW SOURCE" />
-      <item value="window Animation Style" />
-      <item value="finish" />
-      <item value="setup Fragment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1247" />
-        <entry key="ENGLISH" value="1221" />
+        <entry key="CHINESE" value="1261" />
+        <entry key="ENGLISH" value="1235" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="FILIPINO" value="1" />
