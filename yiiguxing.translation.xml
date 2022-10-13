@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="Empower Fragment" />
       <item value="View Pager Group Fragment" />
       <item value="Tab Layout" />
       <item value="upload bg radius" />
@@ -52,12 +53,11 @@
       <item value="selected Position" />
       <item value="get Selection" />
       <item value="slide Selection Handler" />
-      <item value="is Fast Sliding Select" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1331" />
-        <entry key="ENGLISH" value="1303" />
+        <entry key="CHINESE" value="1332" />
+        <entry key="ENGLISH" value="1304" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="FILIPINO" value="2" />
