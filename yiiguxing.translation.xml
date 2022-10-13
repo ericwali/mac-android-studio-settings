@@ -3,6 +3,12 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="Activity Result Contract" />
+      <item value="Start Activity For Result" />
+      <item value="register For Activity Result" />
+      <item value="Activity Result Launcher" />
+      <item value="screen Size" />
+      <item value="config Changes" />
       <item value="go Intent Setting" />
       <item value="on Start Compress" />
       <item value="on Result Event" />
@@ -18,7 +24,6 @@
       <item value="Picture Selector Transparent Activity" />
       <item value="for System Result" />
       <item value="create Activity Result Launcher" />
-      <item value="Start Activity For Result" />
       <item value="Intent" />
       <item value="get Int Extra" />
       <item value="add To Back Stack" />
@@ -48,16 +53,11 @@
       <item value="window Animation Style" />
       <item value="finish" />
       <item value="setup Fragment" />
-      <item value="set Activity Size" />
-      <item value="start Activity For Result" />
-      <item value="intent" />
-      <item value="launcher" />
-      <item value="Activity Result Launcher" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1240" />
-        <entry key="ENGLISH" value="1214" />
+        <entry key="CHINESE" value="1247" />
+        <entry key="ENGLISH" value="1221" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="FILIPINO" value="1" />
