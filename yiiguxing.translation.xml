@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="kc file selector" />
       <item value="intent-filter" />
       <item value="set Inject Layout Resource Listener" />
       <item value="Me On Inject Layout Resource Listener" />
@@ -52,12 +53,11 @@
       <item value="get Support Fragment Manager" />
       <item value="commit Allowing State Loss" />
       <item value="support Fragment Manager" />
-      <item value="Ban Parcelable Usage" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1292" />
-        <entry key="ENGLISH" value="1266" />
+        <entry key="CHINESE" value="1293" />
+        <entry key="ENGLISH" value="1267" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="FILIPINO" value="1" />
