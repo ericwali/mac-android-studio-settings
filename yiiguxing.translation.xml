@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="bg bottom bar" />
+      <item value="person" />
+      <item value="man" />
+      <item value="amap man" />
       <item value="Tab Bar Activity" />
       <item value="network Security Config" />
       <item value="external-path" />
@@ -49,15 +53,11 @@
       <item value="Activity Result Contract" />
       <item value="register For Activity Result" />
       <item value="Activity Result Launcher" />
-      <item value="screen Size" />
-      <item value="config Changes" />
-      <item value="go Intent Setting" />
-      <item value="on Start Compress" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1299" />
-        <entry key="ENGLISH" value="1273" />
+        <entry key="CHINESE" value="1303" />
+        <entry key="ENGLISH" value="1277" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="FILIPINO" value="1" />
