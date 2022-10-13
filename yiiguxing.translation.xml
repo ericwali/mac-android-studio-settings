@@ -3,9 +3,23 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="Drive Segment List Adapter" />
+      <item value="configure List View" />
+      <item value="get Steps" />
+      <item value="Segment" />
+      <item value="Drive Segment" />
+      <item value="convert View" />
+      <item value="setup With View Pager" />
+      <item value="Binding View Pager Adapter" />
+      <item value="on Bind Binding" />
+      <item value="destroy Item" />
+      <item value="adapter" />
+      <item value="给View Pager设置adapter" />
+      <item value="Tab Layout On Page Change Listener" />
+      <item value="Tab Layout" />
+      <item value="个人" />
       <item value="Empower Fragment" />
       <item value="View Pager Group Fragment" />
-      <item value="Tab Layout" />
       <item value="upload bg radius" />
       <item value="box" />
       <item value="poi top box" />
@@ -39,25 +53,11 @@
       <item value="Example customization of dimensions originally defined in resvaluesdimens.xml (such as screen margins) for screens with more than 820dp of available width. This would include 7&quot; and 10&quot; devices in landscape (~960dp and ~1280dp respectively)." />
       <item value="rb white style" />
       <item value="kc file selector" />
-      <item value="intent-filter" />
-      <item value="set Inject Layout Resource Listener" />
-      <item value="Me On Inject Layout Resource Listener" />
-      <item value="Picture Selector Preview Fragment" />
-      <item value="set Internal Preview Data" />
-      <item value="On Preview Intercept Listener" />
-      <item value="set Inject Activity Preview Fragment" />
-      <item value="Slide Select Touch Listener" />
-      <item value="set Recycler View Header Count" />
-      <item value="m Drag Select Touch Listener" />
-      <item value="change Selection" />
-      <item value="selected Position" />
-      <item value="get Selection" />
-      <item value="slide Selection Handler" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1332" />
-        <entry key="ENGLISH" value="1304" />
+        <entry key="CHINESE" value="1350" />
+        <entry key="ENGLISH" value="1322" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="FILIPINO" value="2" />
