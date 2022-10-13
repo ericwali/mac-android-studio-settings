@@ -3,61 +3,61 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="Activity Result" />
+      <item value="Ban Parcelable Usage" />
+      <item value="inject System Room Fragment" />
+      <item value="get Parcelable Array List" />
+      <item value="support Fragment Manager" />
+      <item value="Picture Only Camera Fragment" />
+      <item value="Picture Selector Transparent Activity" />
+      <item value="for System Result" />
+      <item value="create Activity Result Launcher" />
+      <item value="Start Activity For Result" />
+      <item value="Intent" />
+      <item value="get Int Extra" />
+      <item value="add To Back Stack" />
+      <item value="set External Preview Data" />
+      <item value="begin Transaction" />
+      <item value="override Pending Transition" />
+      <item value="for Result Activity" />
+      <item value="Illegal State Exception" />
+      <item value="Illegal State Exception异常" />
+      <item value="get Parcelable Array List Extra" />
+      <item value="obtain Selector List" />
+      <item value="analytical Select Results" />
+      <item value="open System Album" />
+      <item value="Select Mime Type" />
+      <item value="get Clip Data" />
+      <item value="MODE TYPE SYSTEM SOURCE" />
+      <item value="EXTRA MODE TYPE SOURCE" />
+      <item value="Picture Selector System Fragment" />
+      <item value="is External Preview" />
+      <item value="immersive" />
+      <item value="EXTRA EXTERNAL PREVIEW DISPLAY DELETE" />
+      <item value="preview Result" />
+      <item value="position" />
+      <item value="Picture Selector Preview Fragment" />
+      <item value="on Inject Activity Preview Listener" />
+      <item value="MODE TYPE EXTERNAL PREVIEW SOURCE" />
+      <item value="window Animation Style" />
+      <item value="finish" />
+      <item value="setup Fragment" />
+      <item value="set Activity Size" />
+      <item value="start Activity For Result" />
+      <item value="intent" />
+      <item value="launcher" />
+      <item value="Activity Result Launcher" />
+      <item value="set Result" />
       <item value="build Local Media" />
       <item value="on Key Back Fragment Finish" />
       <item value="on Activity Result" />
       <item value="dispatch Transform Result" />
       <item value="parse Result" />
-      <item value="analytical Select Results" />
-      <item value="obtain Selector List" />
-      <item value="start Activity For Result" />
-      <item value="on Apply Permissions Event" />
-      <item value="on Permission Explain Event" />
-      <item value="create System Contracts" />
-      <item value="on View Created" />
-      <item value="Intent" />
-      <item value="override Pending Transition" />
-      <item value="Activity Result Contract" />
-      <item value="register For Activity Result" />
-      <item value="EXTRA ALLOW MULTIPLE" />
-      <item value="create Intent" />
-      <item value="open System Album" />
-      <item value="create Multiple Documents" />
-      <item value="create Single Documents" />
-      <item value="create Content" />
-      <item value="handle Permission Setting Result" />
-      <item value="on Destroy" />
-      <item value="Picture Common Fragment" />
-      <item value="SYSTEM ALL" />
-      <item value="Picture Selector System Fragment" />
-      <item value="inject System Room Fragment" />
-      <item value="commit Allowing State Loss" />
-      <item value="begin Transaction" />
-      <item value="fragment" />
-      <item value="I Bridge Picture Behavior" />
-      <item value="get Support Fragment Manager" />
-      <item value="is Check Read Storage" />
-      <item value="unregister" />
-      <item value="Activity Result Launcher" />
-      <item value="launch" />
-      <item value="for System Result Activity" />
-      <item value="Picture Only Camera Fragment" />
-      <item value="on Result" />
-      <item value="for Result Activity" />
-      <item value="launcher Result" />
-      <item value="request Code" />
-      <item value="resolve Activity" />
-      <item value="Start ACTION_IMAGE_CAPTURE" />
-      <item value="open Selected Camera" />
-      <item value="@param containerViewId Optional identifier of the container this fragment is to be placed in. If 0, it will not be placed in a container. @param fragment The fragment to be added. This fragment must not already be added to the activity. @param tag Optional tag name for the fragment, to later retrieve the fragment with {@link FragmentManagerfindFragmentByTag(String) FragmentManager.findFragmentByTag(String)}." />
-      <item value="add To Back Stack" />
-      <item value="target Fragment Tag" />
-      <item value="get Result Callback Listener" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1164" />
-        <entry key="ENGLISH" value="1138" />
+        <entry key="CHINESE" value="1230" />
+        <entry key="ENGLISH" value="1204" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="FILIPINO" value="1" />
