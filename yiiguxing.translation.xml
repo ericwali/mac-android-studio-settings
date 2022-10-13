@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="network Security Config" />
+      <item value="external-path" />
+      <item value="Example customization of dimensions originally defined in resvaluesdimens.xml (such as screen margins) for screens with more than 820dp of available width. This would include 7&quot; and 10&quot; devices in landscape (~960dp and ~1280dp respectively)." />
       <item value="rb white style" />
       <item value="kc file selector" />
       <item value="intent-filter" />
@@ -50,14 +53,11 @@
       <item value="go Intent Setting" />
       <item value="on Start Compress" />
       <item value="on Result Event" />
-      <item value="on Old Compress" />
-      <item value="get Support Fragment Manager" />
-      <item value="commit Allowing State Loss" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1294" />
-        <entry key="ENGLISH" value="1268" />
+        <entry key="CHINESE" value="1298" />
+        <entry key="ENGLISH" value="1272" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="FILIPINO" value="1" />
