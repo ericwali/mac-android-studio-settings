@@ -3,6 +3,12 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="exception Msg" />
+      <item value="Equals And Hash Code" />
+      <item value="dismiss" />
+      <item value="dismiss Dialog" />
+      <item value="dismiss Dialog Event" />
+      <item value="call" />
       <item value="Abstract base implementation of an Observer with support for cancelling a subscription via cancel() (synchronously) and calls onStart() when the subscription happens. All pre-implemented final methods are thread-safe. Use the protected cancel() to dispose the sequence from within an onNext implementation. Like all other consumers, DefaultObserver can be subscribed only once. Any subsequent attempt to subscribe it to a new source will yield an IllegalStateException with message &quot;It is not allowed to subscribe with a(n) &lt;class name&gt; multiple times.&quot;. Implementation of onStart(), onNext(Object), onError(Throwable) and onComplete() are not allowed to throw any unchecked exceptions. If for some reason this can't be avoided, use io.reactivex.Observable.safeSubscribe(Observer) instead of the standard subscribe() method." />
       <item value="Default Observer" />
       <item value="An abstract Observer that allows asynchronous cancellation of its subscription and associated resources. All pre-implemented final methods are thread-safe. To release the associated resources, one has to call dispose() in onError() and onComplete() explicitly. Use add(Disposable) to associate resources (as Disposables) with this ResourceObserver that will be cleaned up when dispose() is called. Removing previously associated resources is not possible but one can create a CompositeDisposable, associate it with this ResourceObserver and then addremove resources tofrom the CompositeDisposable freely. Use the dispose() to dispose the sequence from within an onNext implementation. Like all other consumers, ResourceObserver can be subscribed only once. Any subsequent attempt to subscribe it to a new source will yield an IllegalStateException with message &quot;It is not allowed to subscribe with a(n) &lt;class name&gt; multiple times.&quot;. Implementation of onStart(), onNext(Object), onError(Throwable) and onComplete() are not allowed to throw any unchecked exceptions. If for some reason this can't be avoided, use io.reactivex.Observable.safeSubscribe(Observer) instead of the standard subscribe() method." />
@@ -47,17 +53,11 @@
       <item value="On Child Attach State Change Listener" />
       <item value="Item Touch Helper" />
       <item value="Tip List Item Touch Util" />
-      <item value="Tip List Item Touch Helper" />
-      <item value="Helper" />
-      <item value="Tip List Item Touch Helper Callback" />
-      <item value="init Click Listener" />
-      <item value="on Create View Holder" />
-      <item value="Recycler View.Item Decoration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1427" />
-        <entry key="ENGLISH" value="1396" />
+        <entry key="CHINESE" value="1433" />
+        <entry key="ENGLISH" value="1402" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="FRENCH" value="3" />
