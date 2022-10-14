@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="Base Application" />
+      <item value="set Application" />
+      <item value="Scheduler Provider" />
       <item value="application" />
       <item value="builder" />
       <item value="@Singleton" />
@@ -26,8 +29,6 @@
       <item value="Database Info" />
       <item value="on Back Pressed" />
       <item value="ACTION DOWN" />
-      <item value="Base Application" />
-      <item value="set Application" />
       <item value="u can't instantiate me..." />
       <item value="Unsupported Operation Exception" />
       <item value="Static Field Leak" />
@@ -52,12 +53,11 @@
       <item value="dismiss" />
       <item value="dismiss Dialog" />
       <item value="dismiss Dialog Event" />
-      <item value="call" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1490" />
-        <entry key="ENGLISH" value="1457" />
+        <entry key="CHINESE" value="1496" />
+        <entry key="ENGLISH" value="1463" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="FRENCH" value="3" />
