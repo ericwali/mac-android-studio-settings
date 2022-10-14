@@ -3,6 +3,12 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="uses split APKs, but none of the 1 split apks are compatible with the current device with ABIs" />
+      <item value="Unable to determine application id: com.android.tools.idea.run.ApkProvisionException: The currently selected variant &quot;debug&quot; uses split APKs, but none of the 1 split apks are compatible with the current device with ABIs &quot;arm64-v8a&quot;." />
+      <item value="GradleLog ServerTypeOutput" />
+      <item value="LOG ENABLE" />
+      <item value="start Parameter" />
+      <item value="SERVER TYPE PREVIEW" />
       <item value="replace All" />
       <item value="Java Compile" />
       <item value="Returns a collection containing the objects in this collection of the given type. Equivalent to calling {@code withType(type).all(configureClosure)}." />
@@ -47,17 +53,11 @@
       <item value="Caoc Config" />
       <item value="BACKGROUND MODE CRASH" />
       <item value="BACKGROUND MODE SHOW CUSTOM" />
-      <item value="BACKGROUND MODE SILENT" />
-      <item value="background Mode" />
-      <item value="delete Due Logs" />
-      <item value="set Console Switch" />
-      <item value="set Global Tag" />
-      <item value="set Log Switch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1583" />
-        <entry key="ENGLISH" value="1543" />
+        <entry key="CHINESE" value="1589" />
+        <entry key="ENGLISH" value="1549" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="FRENCH" value="4" />
