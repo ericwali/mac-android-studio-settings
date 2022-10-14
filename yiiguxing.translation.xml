@@ -3,6 +3,11 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="replace All" />
+      <item value="Java Compile" />
+      <item value="Returns a collection containing the objects in this collection of the given type. Equivalent to calling {@code withType(type).all(configureClosure)}." />
+      <item value="with" />
+      <item value="with Type" />
       <item value="callsuper" />
       <item value="Project-wide Gradle settings. IDE (e.g. Android Studio) users: Gradle settings configured through the IDE will override any settings specified in this file. For more details on how to configure your build environment visit http:www.gradle.orgdocscurrentuserguidebuild_environment.html When configured, Gradle will run in incubating parallel mode. This option should only be used with decoupled projects. More details, visit" />
       <item value="Could not find method compile" />
@@ -48,16 +53,11 @@
       <item value="set Console Switch" />
       <item value="set Global Tag" />
       <item value="set Log Switch" />
-      <item value="on Activity Save Instance State" />
-      <item value="on Activity Resumed" />
-      <item value="on Activity Started" />
-      <item value="finish All Activity" />
-      <item value="kill Process" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1578" />
-        <entry key="ENGLISH" value="1538" />
+        <entry key="CHINESE" value="1583" />
+        <entry key="ENGLISH" value="1543" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="FRENCH" value="4" />
