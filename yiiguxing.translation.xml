@@ -3,12 +3,47 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="SEED DATABASE OPTIONS" />
+      <item value="provide Calligraphy Default Config" />
+      <item value="Calligraphy Config" />
+      <item value="Source Sans Pro-Regular" />
+      <item value="process" />
+      <item value="error activity" />
+      <item value="sets the error activity class to launch when a crash occurs. if null, the default error activity will be used." />
+      <item value="on Close App From Error Activity" />
+      <item value="on Restart App From Error Activity" />
+      <item value="Your Custom Event Listener" />
+      <item value="Your Custom Error Activity" />
+      <item value="error Activity" />
+      <item value="Caoc" />
+      <item value="Caoc Config" />
+      <item value="BACKGROUND MODE CRASH" />
+      <item value="BACKGROUND MODE SHOW CUSTOM" />
+      <item value="BACKGROUND MODE SILENT" />
+      <item value="background Mode" />
+      <item value="delete Due Logs" />
+      <item value="set Console Switch" />
+      <item value="set Global Tag" />
+      <item value="set Log Switch" />
+      <item value="on Activity Save Instance State" />
+      <item value="on Activity Resumed" />
+      <item value="on Activity Started" />
+      <item value="finish All Activity" />
+      <item value="kill Process" />
+      <item value="Runtime.get Runtime().exit(n)" />
+      <item value="finish" />
+      <item value="get Runtime" />
+      <item value="is Present" />
+      <item value="get Activity" />
+      <item value="activity Stack" />
+      <item value="get Activity Stack" />
+      <item value="instance" />
+      <item value="get App Manager" />
+      <item value="app Component" />
       <item value="Activity Lifecycle Callbacks" />
       <item value="register Activity Lifecycle Callbacks" />
-      <item value="finish" />
       <item value="on Activity Created" />
       <item value="on Activity Paused" />
-      <item value="app Component" />
       <item value="provide Protected Api Header" />
       <item value="provide Scheduler Provider" />
       <item value="Base Application" />
@@ -18,46 +53,11 @@
       <item value="builder" />
       <item value="@Singleton" />
       <item value="Identifies a type that the injector only instantiates once. Not inherited." />
-      <item value="get Application Context" />
-      <item value="Dagger Dialog Component" />
-      <item value="App Component" />
-      <item value="activity Module" />
-      <item value="perform Dependency Injection" />
-      <item value="Dagger App Component" />
-      <item value="Calligraphy Config" />
-      <item value="Binds Instance" />
-      <item value="retrofit" />
-      <item value="converter-gson" />
-      <item value="Singleton" />
-      <item value="Qualifier" />
-      <item value="Preference Info" />
-      <item value="Inject" />
-      <item value="Database Info" />
-      <item value="on Back Pressed" />
-      <item value="ACTION DOWN" />
-      <item value="u can't instantiate me..." />
-      <item value="Unsupported Operation Exception" />
-      <item value="Static Field Leak" />
-      <item value="bind To Lifecycle" />
-      <item value="Lifecycle Provider" />
-      <item value="Transformer" />
-      <item value="exception Transformer" />
-      <item value="schedulers Transformer" />
-      <item value="on Io Scheduler" />
-      <item value="subscribe On" />
-      <item value="upstream" />
-      <item value="on Error Resume Next" />
-      <item value="s View Weak Reference" />
-      <item value="add Call Adapter Factory" />
-      <item value="client" />
-      <item value="observe On" />
-      <item value="UNAUTH" />
-      <item value="on Complete" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1504" />
-        <entry key="ENGLISH" value="1471" />
+        <entry key="CHINESE" value="1551" />
+        <entry key="ENGLISH" value="1517" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="FRENCH" value="3" />
@@ -72,7 +72,7 @@
         <entry key="ITALIAN" value="1" />
         <entry key="HINDI" value="4" />
         <entry key="INDONESIAN" value="2" />
-        <entry key="VIETNAMESE" value="11" />
+        <entry key="VIETNAMESE" value="12" />
       </map>
     </option>
   </component>
