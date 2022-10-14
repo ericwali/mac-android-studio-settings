@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="application" />
+      <item value="builder" />
       <item value="@Singleton" />
       <item value="provide Protected Api Header" />
       <item value="Identifies a type that the injector only instantiates once. Not inherited." />
@@ -51,13 +53,11 @@
       <item value="dismiss Dialog" />
       <item value="dismiss Dialog Event" />
       <item value="call" />
-      <item value="Abstract base implementation of an Observer with support for cancelling a subscription via cancel() (synchronously) and calls onStart() when the subscription happens. All pre-implemented final methods are thread-safe. Use the protected cancel() to dispose the sequence from within an onNext implementation. Like all other consumers, DefaultObserver can be subscribed only once. Any subsequent attempt to subscribe it to a new source will yield an IllegalStateException with message &quot;It is not allowed to subscribe with a(n) &lt;class name&gt; multiple times.&quot;. Implementation of onStart(), onNext(Object), onError(Throwable) and onComplete() are not allowed to throw any unchecked exceptions. If for some reason this can't be avoided, use io.reactivex.Observable.safeSubscribe(Observer) instead of the standard subscribe() method." />
-      <item value="Default Observer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1488" />
-        <entry key="ENGLISH" value="1455" />
+        <entry key="CHINESE" value="1490" />
+        <entry key="ENGLISH" value="1457" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="FRENCH" value="3" />
