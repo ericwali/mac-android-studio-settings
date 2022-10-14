@@ -3,6 +3,16 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="exception Transformer" />
+      <item value="subscribe On" />
+      <item value="check Login" />
+      <item value="is Whitespace" />
+      <item value="is Digits Only" />
+      <item value="view Initialization" />
+      <item value="clear Btn Visibility" />
+      <item value="login Name" />
+      <item value="login Password" />
+      <item value="Observable Field" />
       <item value="Point Recycler View Layout Util" />
       <item value="set Layout Manager" />
       <item value="attach To Recycler View" />
@@ -43,21 +53,11 @@
       <item value="on Bind Binding" />
       <item value="destroy Item" />
       <item value="adapter" />
-      <item value="给View Pager设置adapter" />
-      <item value="Tab Layout On Page Change Listener" />
-      <item value="Tab Layout" />
-      <item value="个人" />
-      <item value="Empower Fragment" />
-      <item value="View Pager Group Fragment" />
-      <item value="upload bg radius" />
-      <item value="box" />
-      <item value="poi top box" />
-      <item value="kc btn brown radius" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1394" />
-        <entry key="ENGLISH" value="1365" />
+        <entry key="CHINESE" value="1405" />
+        <entry key="ENGLISH" value="1376" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="FRENCH" value="1" />
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1665280545744" />
+    <option name="lastTrimTime" value="1665714373235" />
   </component>
   <component name="Settings">
     <option name="translator" value="YOUDAO" />
