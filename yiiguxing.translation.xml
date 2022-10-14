@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="in the individual module build.gradle files" />
+      <item value="Do not place your application dependencies here; they belong" />
       <item value="module Projects" />
       <item value="starts With" />
       <item value="Returns the set containing the subprojects of this project." />
@@ -51,13 +53,11 @@
       <item value="Runtime.get Runtime().exit(n)" />
       <item value="finish" />
       <item value="get Runtime" />
-      <item value="is Present" />
-      <item value="get Activity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1571" />
-        <entry key="ENGLISH" value="1531" />
+        <entry key="CHINESE" value="1575" />
+        <entry key="ENGLISH" value="1535" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="FRENCH" value="4" />
