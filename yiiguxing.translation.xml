@@ -3,19 +3,20 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="app Component" />
+      <item value="provide Protected Api Header" />
+      <item value="provide Scheduler Provider" />
       <item value="Base Application" />
       <item value="set Application" />
       <item value="Scheduler Provider" />
       <item value="application" />
       <item value="builder" />
       <item value="@Singleton" />
-      <item value="provide Protected Api Header" />
       <item value="Identifies a type that the injector only instantiates once. Not inherited." />
       <item value="get Application Context" />
       <item value="Dagger Dialog Component" />
       <item value="App Component" />
       <item value="activity Module" />
-      <item value="app Component" />
       <item value="perform Dependency Injection" />
       <item value="Dagger App Component" />
       <item value="Calligraphy Config" />
@@ -52,12 +53,11 @@
       <item value="Equals And Hash Code" />
       <item value="dismiss" />
       <item value="dismiss Dialog" />
-      <item value="dismiss Dialog Event" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1496" />
-        <entry key="ENGLISH" value="1463" />
+        <entry key="CHINESE" value="1499" />
+        <entry key="ENGLISH" value="1466" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="FRENCH" value="3" />
