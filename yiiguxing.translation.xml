@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="is In Analyzer Process" />
+      <item value="Smart Refresh Layout" />
+      <item value="set Default Refresh Initializer" />
+      <item value="set Default Refresh Header Creator" />
       <item value="Bugly" />
       <item value="uses split APKs, but none of the 1 split apks are compatible with the current device with ABIs" />
       <item value="Unable to determine application id: com.android.tools.idea.run.ApkProvisionException: The currently selected variant &quot;debug&quot; uses split APKs, but none of the 1 split apks are compatible with the current device with ABIs &quot;arm64-v8a&quot;." />
@@ -35,7 +39,6 @@
       <item value="jcenter" />
       <item value="noinspection JcenterRepositoryObsolete" />
       <item value="stop Bubbling" />
-      <item value="is In Analyzer Process" />
       <item value="Source Sans Pro" />
       <item value="m Calligraphy Config" />
       <item value="SEED DATABASE OPTIONS" />
@@ -50,14 +53,11 @@
       <item value="Your Custom Event Listener" />
       <item value="Your Custom Error Activity" />
       <item value="error Activity" />
-      <item value="Caoc" />
-      <item value="Caoc Config" />
-      <item value="BACKGROUND MODE CRASH" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1590" />
-        <entry key="ENGLISH" value="1549" />
+        <entry key="CHINESE" value="1595" />
+        <entry key="ENGLISH" value="1554" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="FRENCH" value="4" />
