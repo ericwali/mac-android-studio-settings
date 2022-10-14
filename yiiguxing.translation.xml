@@ -3,10 +3,19 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="components" />
+      <item value="rxpermissions" />
+      <item value="rxbinding" />
+      <item value="recyclerview" />
+      <item value="bindingcollectionadapter" />
+      <item value="viewpager 2" />
+      <item value="item Binding" />
+      <item value="observable List" />
+      <item value="horizontal" />
+      <item value="linear" />
       <item value="lifecycle" />
       <item value="compiler" />
       <item value="extensions" />
-      <item value="bindingcollectionadapter" />
       <item value="on Checked Changed" />
       <item value="on Touch Event" />
       <item value="Input Text Manager" />
@@ -44,22 +53,14 @@
       <item value="in the individual module build.gradle files" />
       <item value="Do not place your application dependencies here; they belong" />
       <item value="module Projects" />
-      <item value="starts With" />
-      <item value="Returns the set containing the subprojects of this project." />
-      <item value="application" />
-      <item value="aspectjx" />
-      <item value="android-aspectjx" />
-      <item value="external Native Build" />
-      <item value="bintray" />
-      <item value="captures" />
-      <item value="Obsolete" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1617" />
-        <entry key="ENGLISH" value="1570" />
+        <entry key="CHINESE" value="1634" />
+        <entry key="ENGLISH" value="1580" />
         <entry key="BULGARIAN" value="1" />
-        <entry key="AFRIKAANS" value="3" />
+        <entry key="AFRIKAANS" value="7" />
+        <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="4" />
         <entry key="FILIPINO" value="3" />
         <entry key="FINNISH" value="4" />
@@ -72,7 +73,7 @@
         <entry key="SPANISH" value="2" />
         <entry key="ITALIAN" value="2" />
         <entry key="HINDI" value="5" />
-        <entry key="INDONESIAN" value="7" />
+        <entry key="INDONESIAN" value="8" />
         <entry key="VIETNAMESE" value="12" />
       </map>
     </option>
