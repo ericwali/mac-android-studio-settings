@@ -3,6 +3,14 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="lifecycle" />
+      <item value="compiler" />
+      <item value="extensions" />
+      <item value="bindingcollectionadapter" />
+      <item value="on Checked Changed" />
+      <item value="on Touch Event" />
+      <item value="Input Text Manager" />
+      <item value="hidekeyboard" />
       <item value="Bundle" />
       <item value="setwindowanimations" />
       <item value="legacy" />
@@ -45,21 +53,13 @@
       <item value="bintray" />
       <item value="captures" />
       <item value="Obsolete" />
-      <item value="Jcenter Repository Obsolete" />
-      <item value="noinspection" />
-      <item value="jcenter" />
-      <item value="noinspection JcenterRepositoryObsolete" />
-      <item value="stop Bubbling" />
-      <item value="Source Sans Pro" />
-      <item value="m Calligraphy Config" />
-      <item value="SEED DATABASE OPTIONS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1608" />
-        <entry key="ENGLISH" value="1563" />
+        <entry key="CHINESE" value="1617" />
+        <entry key="ENGLISH" value="1570" />
         <entry key="BULGARIAN" value="1" />
-        <entry key="AFRIKAANS" value="2" />
+        <entry key="AFRIKAANS" value="3" />
         <entry key="FRENCH" value="4" />
         <entry key="FILIPINO" value="3" />
         <entry key="FINNISH" value="4" />
@@ -72,7 +72,7 @@
         <entry key="SPANISH" value="2" />
         <entry key="ITALIAN" value="2" />
         <entry key="HINDI" value="5" />
-        <entry key="INDONESIAN" value="6" />
+        <entry key="INDONESIAN" value="7" />
         <entry key="VIETNAMESE" value="12" />
       </map>
     </option>
