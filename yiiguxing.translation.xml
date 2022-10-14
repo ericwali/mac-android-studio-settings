@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="is In Analyzer Process" />
+      <item value="Source Sans Pro" />
+      <item value="m Calligraphy Config" />
       <item value="SEED DATABASE OPTIONS" />
       <item value="provide Calligraphy Default Config" />
       <item value="Calligraphy Config" />
@@ -50,17 +53,14 @@
       <item value="set Application" />
       <item value="Scheduler Provider" />
       <item value="application" />
-      <item value="builder" />
-      <item value="@Singleton" />
-      <item value="Identifies a type that the injector only instantiates once. Not inherited." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1551" />
-        <entry key="ENGLISH" value="1517" />
+        <entry key="CHINESE" value="1555" />
+        <entry key="ENGLISH" value="1520" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="2" />
-        <entry key="FRENCH" value="3" />
+        <entry key="FRENCH" value="4" />
         <entry key="FILIPINO" value="2" />
         <entry key="FINNISH" value="2" />
         <entry key="CATALAN" value="1" />
