@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="legacy" />
+      <item value="compat" />
+      <item value="appcompat" />
+      <item value="support-fragment" />
       <item value="qqopensdk" />
       <item value="legacy-support" />
       <item value="Shape View" />
@@ -49,15 +53,11 @@
       <item value="SEED DATABASE OPTIONS" />
       <item value="provide Calligraphy Default Config" />
       <item value="Calligraphy Config" />
-      <item value="Source Sans Pro-Regular" />
-      <item value="process" />
-      <item value="error activity" />
-      <item value="sets the error activity class to launch when a crash occurs. if null, the default error activity will be used." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1601" />
-        <entry key="ENGLISH" value="1559" />
+        <entry key="CHINESE" value="1606" />
+        <entry key="ENGLISH" value="1562" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="FRENCH" value="4" />
@@ -72,7 +72,7 @@
         <entry key="SPANISH" value="2" />
         <entry key="ITALIAN" value="2" />
         <entry key="HINDI" value="5" />
-        <entry key="INDONESIAN" value="3" />
+        <entry key="INDONESIAN" value="5" />
         <entry key="VIETNAMESE" value="12" />
       </map>
     </option>
