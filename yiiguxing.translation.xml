@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="include Compile Classpath" />
+      <item value="minify Enabled" />
+      <item value="consumer Proguard Files" />
+      <item value="add Manifest Placeholders" />
       <item value="SERVER TYPE PREVIEW" />
       <item value="Crash Report" />
       <item value="BUGLY ID" />
@@ -24,7 +28,6 @@
       <item value="WRITE EXTERNAL STORAGE" />
       <item value="READ EXTERNAL STORAGE" />
       <item value="Bugly" />
-      <item value="minify Enabled" />
       <item value="umeng" />
       <item value="Build Config" />
       <item value="generate Preview Build Config" />
@@ -50,14 +53,11 @@
       <item value="lifecycle" />
       <item value="compiler" />
       <item value="extensions" />
-      <item value="on Checked Changed" />
-      <item value="on Touch Event" />
-      <item value="Input Text Manager" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1660" />
-        <entry key="ENGLISH" value="1614" />
+        <entry key="CHINESE" value="1665" />
+        <entry key="ENGLISH" value="1619" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="7" />
         <entry key="GERMAN" value="2" />
