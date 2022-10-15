@@ -3,6 +3,15 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="WRITE EXTERNAL STORAGE" />
+      <item value="READ EXTERNAL STORAGE" />
+      <item value="Bugly" />
+      <item value="minify Enabled" />
+      <item value="umeng" />
+      <item value="Build Config" />
+      <item value="generate Preview Build Config" />
+      <item value="generate Release Build Config" />
+      <item value="after Evaluate" />
       <item value="build Types" />
       <item value="application Variants" />
       <item value="min Sdk Version" />
@@ -42,22 +51,13 @@
       <item value="Smart Refresh Layout" />
       <item value="set Default Refresh Initializer" />
       <item value="set Default Refresh Header Creator" />
-      <item value="Bugly" />
       <item value="uses split APKs, but none of the 1 split apks are compatible with the current device with ABIs" />
       <item value="Unable to determine application id: com.android.tools.idea.run.ApkProvisionException: The currently selected variant &quot;debug&quot; uses split APKs, but none of the 1 split apks are compatible with the current device with ABIs &quot;arm64-v8a&quot;." />
-      <item value="GradleLog ServerTypeOutput" />
-      <item value="LOG ENABLE" />
-      <item value="start Parameter" />
-      <item value="SERVER TYPE PREVIEW" />
-      <item value="replace All" />
-      <item value="Java Compile" />
-      <item value="Returns a collection containing the objects in this collection of the given type. Equivalent to calling {@code withType(type).all(configureClosure)}." />
-      <item value="with" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1636" />
-        <entry key="ENGLISH" value="1587" />
+        <entry key="CHINESE" value="1639" />
+        <entry key="ENGLISH" value="1595" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="7" />
         <entry key="GERMAN" value="2" />
@@ -70,10 +70,11 @@
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
+        <entry key="SWAHILI" value="2" />
         <entry key="SPANISH" value="2" />
         <entry key="ITALIAN" value="2" />
         <entry key="HINDI" value="5" />
-        <entry key="INDONESIAN" value="8" />
+        <entry key="INDONESIAN" value="9" />
         <entry key="VIETNAMESE" value="12" />
       </map>
     </option>
@@ -82,6 +83,7 @@
     <option name="lastTrimTime" value="1665714373235" />
   </component>
   <component name="Settings">
+    <option name="translator" value="YOUDAO" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="03d7d058148f84e9" />
