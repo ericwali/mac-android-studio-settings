@@ -3,14 +3,40 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="observe" />
+      <item value="Trigger a call to the currently added {@link OnBackPressedCallback callbacks} in reverse order in which they were added. Only if the most recently added callback is not {@link OnBackPressedCallbackisEnabled() enabled} will any previously added callback be called." />
+      <item value="It is strongly recommended to call {@link hasEnabledCallbacks()} prior to calling this method to determine if there are any enabled callbacks that will be triggered by this method as calling this method." />
+      <item value="On Back Pressed Callback" />
+      <item value="descending Iterator" />
+      <item value="m Fallback On Back Pressed" />
+      <item value="is Enabled" />
+      <item value="Called when the activity has detected the user's press of the back key. The {@link getOnBackPressedDispatcher() OnBackPressedDispatcher} will be given a chance to handle the back button before the default behavior of {@link android.app.ActivityonBackPressed()} is invoked." />
+      <item value="on Back Pressed" />
+      <item value="finish Event" />
+      <item value="on Back Pressed Event" />
+      <item value="start Activity Event" />
+      <item value="close Dialog Event" />
+      <item value="dismiss" />
+      <item value="dismiss Dialog Event" />
+      <item value="Observable" />
+      <item value="Single Live Event" />
+      <item value="show Dialog Event" />
+      <item value="create Live Data" />
+      <item value="ui Observable" />
+      <item value="ui Handle" />
+      <item value="base Ui" />
+      <item value="Change Live" />
+      <item value="compat" />
+      <item value="appcompat" />
+      <item value="Live Data" />
+      <item value="start Container Activity" />
+      <item value="show Dialog" />
       <item value="UI Change Live Data" />
       <item value="remove Observer" />
       <item value="observe Forever" />
       <item value="Lifecycle Owner" />
       <item value="do On Subscribe" />
       <item value="Composite Disposable" />
-      <item value="observe" />
-      <item value="start Container Activity" />
       <item value="add Subscribe" />
       <item value="disposable" />
       <item value="blocking First" />
@@ -27,37 +53,11 @@
       <item value="Parameter Field" />
       <item value="Suppress Warnings" />
       <item value="Marks a class as a LifecycleObserver. It does not have any methods, instead, relies on {@link OnLifecycleEvent} annotated methods." />
-      <item value="Lifecycle Observer" />
-      <item value="I Base View Model" />
-      <item value="remove Rx Bus" />
-      <item value="register Rx Bus" />
-      <item value="On Lifecycle Event" />
-      <item value="m Composite Disposable" />
-      <item value="App Compat Activity" />
-      <item value="Behavior Subject" />
-      <item value="on Next" />
-      <item value="lifecycle Subject" />
-      <item value="https:developer.android.comguidecomponentsactivitiestasks-and-back-stack?hl=zh-cn Managing Tasks" />
-      <item value="attach Base Context" />
-      <item value="mobileqq" />
-      <item value="No signature of method" />
-      <item value="No signature of method: build_51xayhyvlcyv8ah7fkqh68l9d.android() is applicable for argument types" />
-      <item value="for argument types" />
-      <item value="org.gradle.api.GradleScriptException: A problem occurred evaluating project ':ap" />
-      <item value="by: groovy.lang.MissingMethodException: No signature of method: build_51xayhyvlcyv8ah7fkqh68l9d.android() is applicable for argument types: (build_51xayhyvlcyv8ah7fkqh68l9d_run_closure1) values: [build_51xayhyvlcyv8ah7fkqh68l9d_run_closure1@3ff71924] at build_51xayhyvlcyv8ah7fkqh68l9d.run(UserswangxiangStudioProjectsorgkicc-collectappbuild.gradle:4) at org.gradle.groovy.scripts.internal.DefaultScriptRunnerFactoryScriptRunnerImpl.run(DefaultScriptRunnerFactory.java:91) ... 148 more" />
-      <item value="&gt; No signature of method: build_51xayhyvlcyv8ah7fkqh68l9d.android() is applicable for argument types: (build_51xayhyvlcyv8ah7fkqh68l9d_run_closure1) values: [build_51xayhyvlcyv8ah7fkqh68l9d_run_closure1@3ff71924]" />
-      <item value="No signature of method: java.lang.String.div() is applicable for argument types: (String) values: [)}] Possible solutions: is(java.lang.Object), wait(), trim(), size(), find(), any()" />
-      <item value="set Build Dir" />
-      <item value="Possible solutions: is(java.lang.Object), wait(), trim(), size(), find(), any()" />
-      <item value="common" />
-      <item value="without" />
-      <item value="nativecrashreport" />
-      <item value="m Navigation Adapter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1775" />
-        <entry key="ENGLISH" value="1719" />
+        <entry key="CHINESE" value="1811" />
+        <entry key="ENGLISH" value="1751" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="7" />
         <entry key="GERMAN" value="2" />
@@ -67,15 +67,15 @@
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ROMANIAN" value="1" />
+        <entry key="ROMANIAN" value="2" />
         <entry key="NORWEGIAN" value="4" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SWAHILI" value="2" />
         <entry key="SPANISH" value="2" />
-        <entry key="ITALIAN" value="2" />
+        <entry key="ITALIAN" value="3" />
         <entry key="HINDI" value="8" />
-        <entry key="INDONESIAN" value="15" />
-        <entry key="VIETNAMESE" value="12" />
+        <entry key="INDONESIAN" value="16" />
+        <entry key="VIETNAMESE" value="13" />
       </map>
     </option>
   </component>
