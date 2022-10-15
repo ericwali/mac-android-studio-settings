@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="UI Change Live Data" />
+      <item value="remove Observer" />
+      <item value="observe Forever" />
+      <item value="Lifecycle Owner" />
       <item value="do On Subscribe" />
       <item value="Composite Disposable" />
       <item value="observe" />
@@ -17,10 +21,8 @@
       <item value="notify Change" />
       <item value="set Lifecycle Owner" />
       <item value="lifecycle Owner" />
-      <item value="remove Observer" />
       <item value="this" />
       <item value="get Lifecycle Provider" />
-      <item value="UI Change Live Data" />
       <item value="Consumer" />
       <item value="Parameter Field" />
       <item value="Suppress Warnings" />
@@ -51,13 +53,11 @@
       <item value="without" />
       <item value="nativecrashreport" />
       <item value="m Navigation Adapter" />
-      <item value="m Lottie View" />
-      <item value="launch Mode" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1770" />
-        <entry key="ENGLISH" value="1714" />
+        <entry key="CHINESE" value="1775" />
+        <entry key="ENGLISH" value="1719" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="7" />
         <entry key="GERMAN" value="2" />
