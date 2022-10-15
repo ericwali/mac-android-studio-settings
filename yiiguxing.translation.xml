@@ -3,12 +3,21 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="TEMP FRAGMENT INSTANCE STATE" />
+      <item value="Temp FRAGMENT Instance State" />
+      <item value="Temp Instance State" />
+      <item value="on Save Instance State" />
+      <item value="saved Instance State" />
+      <item value="FRAGMENT CONTAINER CLASS" />
+      <item value="Fragment Container Name" />
+      <item value="CANONICAL NAME" />
+      <item value="CANONICAL" />
+      <item value="AP Pinter" />
       <item value="Fragment Container Activity" />
       <item value="Container Fragment Activity" />
       <item value="Base Fragment" />
       <item value="Container Activity" />
       <item value="Put a reference to a fragment in a Bundle. This Bundle can be persisted as saved state, and when later restoring {@link getFragment(Bundle, String)} will return the current instance of the same fragment." />
-      <item value="on Save Instance State" />
       <item value="put Fragment" />
       <item value="get Support Fragment Manager" />
       <item value="is Back Pressed" />
@@ -17,7 +26,6 @@
       <item value="Fragment Transaction" />
       <item value="init From Intent" />
       <item value="m Fragment" />
-      <item value="saved Instance State" />
       <item value="get Canonical Name" />
       <item value="m Composite Disposable" />
       <item value="close Dialog" />
@@ -45,19 +53,11 @@
       <item value="descending Iterator" />
       <item value="m Fallback On Back Pressed" />
       <item value="is Enabled" />
-      <item value="Called when the activity has detected the user's press of the back key. The {@link getOnBackPressedDispatcher() OnBackPressedDispatcher} will be given a chance to handle the back button before the default behavior of {@link android.app.ActivityonBackPressed()} is invoked." />
-      <item value="on Back Pressed" />
-      <item value="finish Event" />
-      <item value="on Back Pressed Event" />
-      <item value="start Activity Event" />
-      <item value="close Dialog Event" />
-      <item value="dismiss" />
-      <item value="dismiss Dialog Event" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1852" />
-        <entry key="ENGLISH" value="1792" />
+        <entry key="CHINESE" value="1862" />
+        <entry key="ENGLISH" value="1802" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="7" />
         <entry key="GERMAN" value="2" />
