@@ -3,6 +3,22 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="Fragment Container Activity" />
+      <item value="Container Fragment Activity" />
+      <item value="Base Fragment" />
+      <item value="Container Activity" />
+      <item value="Put a reference to a fragment in a Bundle. This Bundle can be persisted as saved state, and when later restoring {@link getFragment(Bundle, String)} will return the current instance of the same fragment." />
+      <item value="on Save Instance State" />
+      <item value="put Fragment" />
+      <item value="get Support Fragment Manager" />
+      <item value="is Back Pressed" />
+      <item value="commit Allowing State Loss" />
+      <item value="replace" />
+      <item value="Fragment Transaction" />
+      <item value="init From Intent" />
+      <item value="m Fragment" />
+      <item value="saved Instance State" />
+      <item value="get Canonical Name" />
       <item value="m Composite Disposable" />
       <item value="close Dialog" />
       <item value="canceled On Touch Outside" />
@@ -37,27 +53,11 @@
       <item value="close Dialog Event" />
       <item value="dismiss" />
       <item value="dismiss Dialog Event" />
-      <item value="Observable" />
-      <item value="Single Live Event" />
-      <item value="show Dialog Event" />
-      <item value="create Live Data" />
-      <item value="ui Observable" />
-      <item value="ui Handle" />
-      <item value="base Ui" />
-      <item value="Change Live" />
-      <item value="compat" />
-      <item value="appcompat" />
-      <item value="Live Data" />
-      <item value="start Container Activity" />
-      <item value="show Dialog" />
-      <item value="UI Change Live Data" />
-      <item value="remove Observer" />
-      <item value="observe Forever" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1831" />
-        <entry key="ENGLISH" value="1771" />
+        <entry key="CHINESE" value="1852" />
+        <entry key="ENGLISH" value="1792" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="7" />
         <entry key="GERMAN" value="2" />
