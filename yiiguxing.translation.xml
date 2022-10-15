@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="jni Debuggable" />
+      <item value="application Id Suffix" />
       <item value="density" />
       <item value="Parcel File Descriptor Rewinder" />
       <item value="adaptclassstrings" />
@@ -51,13 +53,11 @@
       <item value="Bugly" />
       <item value="umeng" />
       <item value="Build Config" />
-      <item value="generate Preview Build Config" />
-      <item value="generate Release Build Config" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1691" />
-        <entry key="ENGLISH" value="1638" />
+        <entry key="CHINESE" value="1693" />
+        <entry key="ENGLISH" value="1639" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="7" />
         <entry key="GERMAN" value="2" />
@@ -73,7 +73,7 @@
         <entry key="SWAHILI" value="2" />
         <entry key="SPANISH" value="2" />
         <entry key="ITALIAN" value="2" />
-        <entry key="HINDI" value="6" />
+        <entry key="HINDI" value="7" />
         <entry key="INDONESIAN" value="15" />
         <entry key="VIETNAMESE" value="12" />
       </map>
