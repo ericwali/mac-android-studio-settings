@@ -3,6 +3,24 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="SERVER TYPE PREVIEW" />
+      <item value="Crash Report" />
+      <item value="BUGLY ID" />
+      <item value="start Parameter" />
+      <item value="Server Type" />
+      <item value="test" />
+      <item value="assemble Release" />
+      <item value="Preview" />
+      <item value="task Name" />
+      <item value="Task Name Output" />
+      <item value="Gradle Log" />
+      <item value="GradleLog TaskNameOutput" />
+      <item value="task Names" />
+      <item value="Share" />
+      <item value="ext" />
+      <item value="properties" />
+      <item value="请自行替换 Bugly 上面的 AppID" />
+      <item value="HOST URL" />
       <item value="WRITE EXTERNAL STORAGE" />
       <item value="READ EXTERNAL STORAGE" />
       <item value="Bugly" />
@@ -35,34 +53,16 @@
       <item value="on Checked Changed" />
       <item value="on Touch Event" />
       <item value="Input Text Manager" />
-      <item value="hidekeyboard" />
-      <item value="Bundle" />
-      <item value="setwindowanimations" />
-      <item value="legacy" />
-      <item value="compat" />
-      <item value="appcompat" />
-      <item value="support-fragment" />
-      <item value="qqopensdk" />
-      <item value="legacy-support" />
-      <item value="Shape View" />
-      <item value="Easy Http" />
-      <item value="application Id" />
-      <item value="is In Analyzer Process" />
-      <item value="Smart Refresh Layout" />
-      <item value="set Default Refresh Initializer" />
-      <item value="set Default Refresh Header Creator" />
-      <item value="uses split APKs, but none of the 1 split apks are compatible with the current device with ABIs" />
-      <item value="Unable to determine application id: com.android.tools.idea.run.ApkProvisionException: The currently selected variant &quot;debug&quot; uses split APKs, but none of the 1 split apks are compatible with the current device with ABIs &quot;arm64-v8a&quot;." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1639" />
-        <entry key="ENGLISH" value="1595" />
+        <entry key="CHINESE" value="1660" />
+        <entry key="ENGLISH" value="1614" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="7" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="4" />
-        <entry key="FILIPINO" value="3" />
+        <entry key="FILIPINO" value="4" />
         <entry key="FINNISH" value="4" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
@@ -74,7 +74,7 @@
         <entry key="SPANISH" value="2" />
         <entry key="ITALIAN" value="2" />
         <entry key="HINDI" value="5" />
-        <entry key="INDONESIAN" value="9" />
+        <entry key="INDONESIAN" value="10" />
         <entry key="VIETNAMESE" value="12" />
       </map>
     </option>
