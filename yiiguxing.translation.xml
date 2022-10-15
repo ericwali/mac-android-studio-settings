@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="Utility Class" />
+      <item value="show Themed" />
+      <item value="material" />
       <item value="get Content View" />
       <item value="Parameter Field" />
       <item value="observe" />
@@ -50,14 +53,11 @@
       <item value="set Lifecycle Owner" />
       <item value="lifecycle Owner" />
       <item value="this" />
-      <item value="get Lifecycle Provider" />
-      <item value="Consumer" />
-      <item value="Suppress Warnings" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1813" />
-        <entry key="ENGLISH" value="1753" />
+        <entry key="CHINESE" value="1816" />
+        <entry key="ENGLISH" value="1756" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="7" />
         <entry key="GERMAN" value="2" />
