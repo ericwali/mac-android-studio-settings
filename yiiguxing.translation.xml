@@ -3,6 +3,11 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="by: groovy.lang.MissingMethodException: No signature of method: build_51xayhyvlcyv8ah7fkqh68l9d.android() is applicable for argument types: (build_51xayhyvlcyv8ah7fkqh68l9d_run_closure1) values: [build_51xayhyvlcyv8ah7fkqh68l9d_run_closure1@3ff71924] at build_51xayhyvlcyv8ah7fkqh68l9d.run(UserswangxiangStudioProjectsorgkicc-collectappbuild.gradle:4) at org.gradle.groovy.scripts.internal.DefaultScriptRunnerFactoryScriptRunnerImpl.run(DefaultScriptRunnerFactory.java:91) ... 148 more" />
+      <item value="&gt; No signature of method: build_51xayhyvlcyv8ah7fkqh68l9d.android() is applicable for argument types: (build_51xayhyvlcyv8ah7fkqh68l9d_run_closure1) values: [build_51xayhyvlcyv8ah7fkqh68l9d_run_closure1@3ff71924]" />
+      <item value="No signature of method: java.lang.String.div() is applicable for argument types: (String) values: [)}] Possible solutions: is(java.lang.Object), wait(), trim(), size(), find(), any()" />
+      <item value="set Build Dir" />
+      <item value="Possible solutions: is(java.lang.Object), wait(), trim(), size(), find(), any()" />
       <item value="common" />
       <item value="without" />
       <item value="nativecrashreport" />
@@ -48,16 +53,11 @@
       <item value="consumer Proguard Files" />
       <item value="add Manifest Placeholders" />
       <item value="SERVER TYPE PREVIEW" />
-      <item value="Crash Report" />
-      <item value="BUGLY ID" />
-      <item value="start Parameter" />
-      <item value="Server Type" />
-      <item value="test" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1717" />
-        <entry key="ENGLISH" value="1662" />
+        <entry key="CHINESE" value="1722" />
+        <entry key="ENGLISH" value="1667" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="7" />
         <entry key="GERMAN" value="2" />
