@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="build Types" />
+      <item value="application Variants" />
       <item value="min Sdk Version" />
       <item value="default Config" />
       <item value="Expired Target Sdk Version" />
@@ -51,13 +53,11 @@
       <item value="Java Compile" />
       <item value="Returns a collection containing the objects in this collection of the given type. Equivalent to calling {@code withType(type).all(configureClosure)}." />
       <item value="with" />
-      <item value="with Type" />
-      <item value="callsuper" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1636" />
-        <entry key="ENGLISH" value="1586" />
+        <entry key="ENGLISH" value="1587" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="7" />
         <entry key="GERMAN" value="2" />
