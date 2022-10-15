@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="init With" />
       <item value="jni Debuggable" />
       <item value="application Id Suffix" />
       <item value="density" />
@@ -52,12 +53,11 @@
       <item value="READ EXTERNAL STORAGE" />
       <item value="Bugly" />
       <item value="umeng" />
-      <item value="Build Config" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1693" />
-        <entry key="ENGLISH" value="1639" />
+        <entry key="CHINESE" value="1696" />
+        <entry key="ENGLISH" value="1642" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="7" />
         <entry key="GERMAN" value="2" />
