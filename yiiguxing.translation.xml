@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="Consumer" />
+      <item value="Composite Disposable" />
+      <item value="Parameter Field" />
       <item value="Suppress Warnings" />
       <item value="Marks a class as a LifecycleObserver. It does not have any methods, instead, relies on {@link OnLifecycleEvent} annotated methods." />
       <item value="Lifecycle Observer" />
@@ -11,8 +14,6 @@
       <item value="register Rx Bus" />
       <item value="On Lifecycle Event" />
       <item value="m Composite Disposable" />
-      <item value="Composite Disposable" />
-      <item value="Consumer" />
       <item value="App Compat Activity" />
       <item value="Behavior Subject" />
       <item value="on Next" />
@@ -52,12 +53,11 @@
       <item value="Parcel File Descriptor Rewinder" />
       <item value="adaptclassstrings" />
       <item value="lombok" />
-      <item value="design" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1746" />
-        <entry key="ENGLISH" value="1690" />
+        <entry key="CHINESE" value="1749" />
+        <entry key="ENGLISH" value="1693" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="7" />
         <entry key="GERMAN" value="2" />
