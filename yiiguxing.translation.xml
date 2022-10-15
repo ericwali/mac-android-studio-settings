@@ -3,6 +3,14 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="Lifecycle Provider" />
+      <item value="rxbinding" />
+      <item value="rxandroid" />
+      <item value="rxlifecycle" />
+      <item value="reactive" />
+      <item value="DEPENDENCIES" />
+      <item value="default Config" />
+      <item value="dependencies" />
       <item value="include Compile Classpath" />
       <item value="minify Enabled" />
       <item value="consumer Proguard Files" />
@@ -36,28 +44,20 @@
       <item value="build Types" />
       <item value="application Variants" />
       <item value="min Sdk Version" />
-      <item value="default Config" />
       <item value="Expired Target Sdk Version" />
       <item value="noinspection ExpiredTargetSdkVersion" />
       <item value="noinspection" />
       <item value="components" />
       <item value="rxpermissions" />
-      <item value="rxbinding" />
       <item value="recyclerview" />
       <item value="bindingcollectionadapter" />
       <item value="viewpager 2" />
       <item value="item Binding" />
-      <item value="observable List" />
-      <item value="horizontal" />
-      <item value="linear" />
-      <item value="lifecycle" />
-      <item value="compiler" />
-      <item value="extensions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1665" />
-        <entry key="ENGLISH" value="1619" />
+        <entry key="CHINESE" value="1674" />
+        <entry key="ENGLISH" value="1627" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="7" />
         <entry key="GERMAN" value="2" />
@@ -68,7 +68,7 @@
         <entry key="CATALAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="ROMANIAN" value="1" />
-        <entry key="NORWEGIAN" value="2" />
+        <entry key="NORWEGIAN" value="3" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SWAHILI" value="2" />
         <entry key="SPANISH" value="2" />
