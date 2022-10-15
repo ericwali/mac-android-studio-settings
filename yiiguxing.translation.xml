@@ -3,6 +3,21 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="Suppress Warnings" />
+      <item value="Marks a class as a LifecycleObserver. It does not have any methods, instead, relies on {@link OnLifecycleEvent} annotated methods." />
+      <item value="Lifecycle Observer" />
+      <item value="I Base View Model" />
+      <item value="remove Rx Bus" />
+      <item value="register Rx Bus" />
+      <item value="On Lifecycle Event" />
+      <item value="m Composite Disposable" />
+      <item value="Composite Disposable" />
+      <item value="Consumer" />
+      <item value="App Compat Activity" />
+      <item value="Behavior Subject" />
+      <item value="on Next" />
+      <item value="lifecycle Subject" />
+      <item value="https:developer.android.comguidecomponentsactivitiestasks-and-back-stack?hl=zh-cn Managing Tasks" />
       <item value="attach Base Context" />
       <item value="mobileqq" />
       <item value="No signature of method" />
@@ -38,26 +53,11 @@
       <item value="adaptclassstrings" />
       <item value="lombok" />
       <item value="design" />
-      <item value="appcompat" />
-      <item value="lifecycle" />
-      <item value="extensions" />
-      <item value="dependencies" />
-      <item value="converter-gson" />
-      <item value="retrofit" />
-      <item value="network" />
-      <item value="converter" />
-      <item value="rxjava" />
-      <item value="Lifecycle Provider" />
-      <item value="rxbinding" />
-      <item value="rxandroid" />
-      <item value="rxlifecycle" />
-      <item value="reactive" />
-      <item value="DEPENDENCIES" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1728" />
-        <entry key="ENGLISH" value="1672" />
+        <entry key="CHINESE" value="1746" />
+        <entry key="ENGLISH" value="1690" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="7" />
         <entry key="GERMAN" value="2" />
