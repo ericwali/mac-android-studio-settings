@@ -3,6 +3,11 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="converter-gson" />
+      <item value="retrofit" />
+      <item value="network" />
+      <item value="converter" />
+      <item value="rxjava" />
       <item value="Lifecycle Provider" />
       <item value="rxbinding" />
       <item value="rxandroid" />
@@ -48,16 +53,11 @@
       <item value="noinspection ExpiredTargetSdkVersion" />
       <item value="noinspection" />
       <item value="components" />
-      <item value="rxpermissions" />
-      <item value="recyclerview" />
-      <item value="bindingcollectionadapter" />
-      <item value="viewpager 2" />
-      <item value="item Binding" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1674" />
-        <entry key="ENGLISH" value="1627" />
+        <entry key="CHINESE" value="1679" />
+        <entry key="ENGLISH" value="1630" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="7" />
         <entry key="GERMAN" value="2" />
@@ -73,8 +73,8 @@
         <entry key="SWAHILI" value="2" />
         <entry key="SPANISH" value="2" />
         <entry key="ITALIAN" value="2" />
-        <entry key="HINDI" value="5" />
-        <entry key="INDONESIAN" value="10" />
+        <entry key="HINDI" value="6" />
+        <entry key="INDONESIAN" value="11" />
         <entry key="VIETNAMESE" value="12" />
       </map>
     </option>
