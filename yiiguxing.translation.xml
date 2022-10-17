@@ -3,6 +3,40 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="Mutable Live Data" />
+      <item value="has Active Observers" />
+      <item value="observable" />
+      <item value="Snackbar" />
+      <item value="Single Live Event" />
+      <item value="Snackbar Message" />
+      <item value="load Data With Base URL" />
+      <item value="render" />
+      <item value="view Model List" />
+      <item value="item Binding" />
+      <item value="item View" />
+      <item value="observable List" />
+      <item value="on Focus Change Command" />
+      <item value="current View" />
+      <item value="on Long Click Command" />
+      <item value="require All" />
+      <item value="swiperefreshlayout" />
+      <item value="Swipe Refresh Layout" />
+      <item value="Spinner" />
+      <item value="双向的Spinner View Adapter" />
+      <item value="Nest Scroll Data Wrapper" />
+      <item value="on Scroll Change Command" />
+      <item value="item Animator" />
+      <item value="on Load More Command" />
+      <item value="method Invoke" />
+      <item value="visible Item Count" />
+      <item value="lcodecore" />
+      <item value="Twinkling Refresh Layout" />
+      <item value="on Item Click Command" />
+      <item value="first Visible Item" />
+      <item value="on Scroll State Changed" />
+      <item value="scroll State" />
+      <item value="On Scroll Listener" />
+      <item value="on Scroll State Changed Command" />
       <item value="create Picasso Engine" />
       <item value="inline" />
       <item value="enqueue" />
@@ -19,45 +53,11 @@
       <item value="SHOW IMPLICIT" />
       <item value="show Soft Input" />
       <item value="INPUT METHOD SERVICE" />
-      <item value="get System Service" />
-      <item value="Input Method Manager" />
-      <item value="Binding Adapter" />
-      <item value="request Focus" />
-      <item value="set On Checked Change Listener" />
-      <item value="on Checked Changed Command" />
-      <item value="set Checked Changed" />
-      <item value="execute" />
-      <item value="binding Command" />
-      <item value="require All" />
-      <item value="Response Command" />
-      <item value="Binding Consumer" />
-      <item value="Reply Command" />
-      <item value="can Execute 0" />
-      <item value="MVVM Light" />
-      <item value="call" />
-      <item value="Binding Action" />
-      <item value="on Intercept Touch Event" />
-      <item value="Control Distribute Linear Layout" />
-      <item value="check Feed Back" />
-      <item value="require BindingCommand {@link com.kelin.mvvmlight.command.BindingCommand } to deal with view click event" />
-      <item value="require boolean value to decide whether requestFocus for view." />
-      <item value="styleable" />
-      <item value="Radio Group" />
-      <item value="View Group" />
-      <item value="on View Created" />
-      <item value="Whether the inflated hierarchy should be attached to the parent parameter. If false, parent is only used to create the correct subclass of LayoutParams for the root view in the XML." />
-      <item value="set Content View" />
-      <item value="container" />
-      <item value="parent" />
-      <item value="inflate" />
-      <item value="Layout Inflater" />
-      <item value="Data Binding Util" />
-      <item value="on Create View" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1942" />
-        <entry key="ENGLISH" value="1878" />
+        <entry key="ENGLISH" value="1879" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="7" />
         <entry key="GERMAN" value="2" />
