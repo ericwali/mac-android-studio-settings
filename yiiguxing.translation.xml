@@ -3,65 +3,65 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="set Variable" />
+      <item value="View Pump Context Wrapper" />
+      <item value="Messenger" />
+      <item value="CONTAINER FRAGMENT CLASS" />
+      <item value="get Start Activity Event" />
+      <item value="observe" />
+      <item value="viewModel.getUC().getShowDialogEvent().observe(this, new Observer&lt;String&gt;() {" />
+      <item value="register UI Change Live Data Call Back" />
+      <item value="register" />
+      <item value="protected" />
+      <item value="init View Data Binding" />
+      <item value="set Lifecycle Owner" />
+      <item value="Has Default View Model Provider Factory" />
+      <item value="View Model Providers" />
+      <item value="get Generic Superclass" />
+      <item value="get Actual Type Arguments" />
+      <item value="Parameterized Type" />
       <item value="model Class" />
+      <item value="Net Work View Model" />
+      <item value="New Instance Factory" />
+      <item value="App View Model Factory" />
+      <item value="Base View Model" />
+      <item value="newinstancefactory" />
+      <item value="init View Model" />
+      <item value="saved Instance State" />
+      <item value="param" />
+      <item value="init Content View" />
+      <item value="view Model" />
+      <item value="View Data Binding" />
+      <item value="m Dialog" />
+      <item value="view Model Id" />
+      <item value="init Param" />
+      <item value="init View Observable" />
+      <item value="set Requested Orientation" />
+      <item value="registor UI Change Live Data Call Back" />
+      <item value="m View Model Life Cycle Sync" />
+      <item value="Composite Disposable" />
+      <item value="m Composite Disposable" />
+      <item value="on Cleared" />
+      <item value="Android View Model" />
       <item value="TEMP FRAGMENT INSTANCE STATE" />
       <item value="Temp FRAGMENT Instance State" />
       <item value="Temp Instance State" />
       <item value="on Save Instance State" />
-      <item value="saved Instance State" />
       <item value="FRAGMENT CONTAINER CLASS" />
       <item value="Fragment Container Name" />
       <item value="CANONICAL NAME" />
       <item value="CANONICAL" />
       <item value="AP Pinter" />
       <item value="Fragment Container Activity" />
-      <item value="Container Fragment Activity" />
-      <item value="Base Fragment" />
-      <item value="Container Activity" />
-      <item value="Put a reference to a fragment in a Bundle. This Bundle can be persisted as saved state, and when later restoring {@link getFragment(Bundle, String)} will return the current instance of the same fragment." />
-      <item value="put Fragment" />
-      <item value="get Support Fragment Manager" />
-      <item value="is Back Pressed" />
-      <item value="commit Allowing State Loss" />
-      <item value="replace" />
-      <item value="Fragment Transaction" />
-      <item value="init From Intent" />
-      <item value="m Fragment" />
-      <item value="get Canonical Name" />
-      <item value="m Composite Disposable" />
-      <item value="close Dialog" />
-      <item value="canceled On Touch Outside" />
-      <item value="key Listener" />
-      <item value="show Themed" />
-      <item value="agree" />
-      <item value="import me.goldze.mvvmhabit.R;" />
-      <item value="progress Indeterminate Style" />
-      <item value="on Prepare Options Menu" />
-      <item value="progress" />
-      <item value="The string resource to display as the title. @param text The literal string to display as the title." />
-      <item value="Dialog Behavior" />
-      <item value="Jvm Static" />
-      <item value="DEFAULT BEHAVIOR" />
-      <item value="dialog Behavior" />
-      <item value="Utility Class" />
-      <item value="material" />
-      <item value="get Content View" />
-      <item value="Parameter Field" />
-      <item value="observe" />
-      <item value="Trigger a call to the currently added {@link OnBackPressedCallback callbacks} in reverse order in which they were added. Only if the most recently added callback is not {@link OnBackPressedCallbackisEnabled() enabled} will any previously added callback be called." />
-      <item value="It is strongly recommended to call {@link hasEnabledCallbacks()} prior to calling this method to determine if there are any enabled callbacks that will be triggered by this method as calling this method." />
-      <item value="On Back Pressed Callback" />
-      <item value="descending Iterator" />
-      <item value="m Fallback On Back Pressed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1863" />
-        <entry key="ENGLISH" value="1803" />
+        <entry key="CHINESE" value="1920" />
+        <entry key="ENGLISH" value="1856" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="7" />
         <entry key="GERMAN" value="2" />
-        <entry key="FRENCH" value="4" />
+        <entry key="FRENCH" value="5" />
         <entry key="FILIPINO" value="4" />
         <entry key="FINNISH" value="4" />
         <entry key="DUTCH" value="1" />
@@ -69,11 +69,11 @@
         <entry key="CZECH" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="NORWEGIAN" value="4" />
-        <entry key="PORTUGUESE" value="1" />
+        <entry key="PORTUGUESE" value="2" />
         <entry key="SWAHILI" value="2" />
         <entry key="SPANISH" value="2" />
         <entry key="ITALIAN" value="3" />
-        <entry key="HINDI" value="8" />
+        <entry key="HINDI" value="10" />
         <entry key="INDONESIAN" value="16" />
         <entry key="VIETNAMESE" value="13" />
       </map>
