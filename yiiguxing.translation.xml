@@ -3,11 +3,13 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="mark For Deletion" />
+      <item value="Weak Action And Token" />
+      <item value="event Type" />
       <item value="Disposable" />
       <item value="Disposable Container" />
       <item value="Weak Action" />
       <item value="weak Action" />
-      <item value="Weak Action And Token" />
       <item value="recipients Strict Action" />
       <item value="recipients Of Subclasses Action" />
       <item value="reference" />
@@ -36,7 +38,6 @@
       <item value="Provides the Observer with a new item to observe." />
       <item value="m Sticky Event Map" />
       <item value="cast" />
-      <item value="event Type" />
       <item value="Concurrent Hash Map" />
       <item value="Subject" />
       <item value="to Serialized" />
@@ -52,7 +53,6 @@
       <item value="view Model List" />
       <item value="item Binding" />
       <item value="item View" />
-      <item value="observable List" />
     </histories>
     <option name="languageScores">
       <map>
