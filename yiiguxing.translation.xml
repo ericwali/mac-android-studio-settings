@@ -3,15 +3,40 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="Picasso Engine" />
+      <item value="rb picasso" />
+      <item value="placeholder Res" />
+      <item value="placeholder" />
+      <item value="Request Options" />
+      <item value="set Focusable In Touch Mode" />
+      <item value="need Request Focus" />
+      <item value="SHOW IMPLICIT" />
+      <item value="show Soft Input" />
+      <item value="INPUT METHOD SERVICE" />
+      <item value="get System Service" />
+      <item value="Input Method Manager" />
+      <item value="Binding Adapter" />
+      <item value="request Focus" />
+      <item value="set On Checked Change Listener" />
+      <item value="on Checked Changed Command" />
+      <item value="set Checked Changed" />
+      <item value="execute" />
+      <item value="binding Command" />
+      <item value="require All" />
+      <item value="Response Command" />
+      <item value="Binding Consumer" />
+      <item value="Reply Command" />
+      <item value="can Execute 0" />
+      <item value="MVVM Light" />
+      <item value="call" />
+      <item value="Binding Action" />
       <item value="on Intercept Touch Event" />
       <item value="Control Distribute Linear Layout" />
       <item value="check Feed Back" />
-      <item value="Binding Action" />
       <item value="require BindingCommand {@link com.kelin.mvvmlight.command.BindingCommand } to deal with view click event" />
       <item value="require boolean value to decide whether requestFocus for view." />
       <item value="styleable" />
       <item value="Radio Group" />
-      <item value="on Checked Changed Command" />
       <item value="View Group" />
       <item value="on View Created" />
       <item value="Whether the inflated hierarchy should be attached to the parent parameter. If false, parent is only used to create the correct subclass of LayoutParams for the root view in the XML." />
@@ -28,31 +53,6 @@
       <item value="get Support Fragment Manager" />
       <item value="set Arguments" />
       <item value="Class Not Found Exception" />
-      <item value="Instantiation Exception" />
-      <item value="Supply the construction arguments for this fragment. The arguments supplied here will be retained across fragment destroy and creation." />
-      <item value="fragment Class" />
-      <item value="can not find page fragmentName" />
-      <item value="CONTAINER FRAGMENT NAME" />
-      <item value="FRAGMENT" />
-      <item value="you must provide a page info to display" />
-      <item value="init From Intent" />
-      <item value="saved Instance State" />
-      <item value="set Soft Input Mode" />
-      <item value="SOFT INPUT ADJUST PAN" />
-      <item value="fragment Transaction" />
-      <item value="begin Transaction" />
-      <item value="fragment" />
-      <item value="TEMP FRAGMENT INSTANCE STATE" />
-      <item value="使用此Activity盛装" />
-      <item value="Weak Reference" />
-      <item value="Rx App Compat Activity" />
-      <item value="rxlifecycle 4" />
-      <item value="BR的id" />
-      <item value="set Variable" />
-      <item value="View Pump Context Wrapper" />
-      <item value="Messenger" />
-      <item value="CONTAINER FRAGMENT CLASS" />
-      <item value="get Start Activity Event" />
     </histories>
     <option name="languageScores">
       <map>
