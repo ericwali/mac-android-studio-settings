@@ -3,7 +3,27 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="dimens" />
+      <item value="customactivityoncrash activity horizontal margin" />
+      <item value="in colors light" />
+      <item value="error activity more info button" />
+      <item value="error activity restart button" />
+      <item value="customactivityoncrash error image" />
+      <item value="EXTRA CONFIG" />
+      <item value="Extras passed to the error activity" />
+      <item value="ereza" />
+      <item value="activity" />
+      <item value="customactivityoncrash" />
       <item value="Custom Activity On Crash" />
+      <item value="Given an Intent, returns several error details including the stack trace extra from the intent." />
+      <item value="get All Error Details From Intent" />
+      <item value="close Application" />
+      <item value="restart Application" />
+      <item value="INTERNAL method that sets the configuration of the library. You must not use this, use CaocConfig.Builder.apply()" />
+      <item value="Interface to be called when events occur, so they can be reported by the app as, for example, Google Analytics events." />
+      <item value="Restrict To" />
+      <item value="LIBRARY" />
+      <item value="Given an Intent, returns the config extra from it." />
       <item value="exported" />
       <item value="Custom Activity On Crash Init Provider" />
       <item value="init Order" />
@@ -33,26 +53,6 @@
       <item value="Rx Bus Subscriber" />
       <item value="Observable On Subscribe" />
       <item value="observable" />
-      <item value="Observable.merge" />
-      <item value="to Observable Sticky" />
-      <item value="post Sticky" />
-      <item value="Provides the Observer with a new item to observe. &lt;p&gt; The {@link Observable} may call this method 0 or more times. &lt;p&gt; The {@code Observable} will not call this method again after it calls either {@link onComplete} or {@link onError}. @param t the item emitted by the Observable" />
-      <item value="of Type" />
-      <item value="to Observable" />
-      <item value="the item emitted by the Observable" />
-      <item value="Provides the Observer with a new item to observe." />
-      <item value="m Sticky Event Map" />
-      <item value="cast" />
-      <item value="Concurrent Hash Map" />
-      <item value="Subject" />
-      <item value="to Serialized" />
-      <item value="m Default Instance" />
-      <item value="Publish Subject" />
-      <item value="Mutable Live Data" />
-      <item value="has Active Observers" />
-      <item value="Snackbar" />
-      <item value="Single Live Event" />
-      <item value="Snackbar Message" />
     </histories>
     <option name="languageScores">
       <map>
