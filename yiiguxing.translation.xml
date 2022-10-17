@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="on Intercept Touch Event" />
+      <item value="Control Distribute Linear Layout" />
+      <item value="check Feed Back" />
+      <item value="Binding Action" />
       <item value="require BindingCommand {@link com.kelin.mvvmlight.command.BindingCommand } to deal with view click event" />
       <item value="require boolean value to decide whether requestFocus for view." />
       <item value="styleable" />
@@ -49,10 +53,6 @@
       <item value="Messenger" />
       <item value="CONTAINER FRAGMENT CLASS" />
       <item value="get Start Activity Event" />
-      <item value="observe" />
-      <item value="viewModel.getUC().getShowDialogEvent().observe(this, new Observer&lt;String&gt;() {" />
-      <item value="register UI Change Live Data Call Back" />
-      <item value="register" />
     </histories>
     <option name="languageScores">
       <map>
