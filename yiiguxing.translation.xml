@@ -3,6 +3,11 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="Custom Activity On Crash" />
+      <item value="exported" />
+      <item value="Custom Activity On Crash Init Provider" />
+      <item value="init Order" />
+      <item value="authorities" />
       <item value="mark For Deletion" />
       <item value="Weak Action And Token" />
       <item value="event Type" />
@@ -48,11 +53,6 @@
       <item value="Snackbar" />
       <item value="Single Live Event" />
       <item value="Snackbar Message" />
-      <item value="load Data With Base URL" />
-      <item value="render" />
-      <item value="view Model List" />
-      <item value="item Binding" />
-      <item value="item View" />
     </histories>
     <option name="languageScores">
       <map>
