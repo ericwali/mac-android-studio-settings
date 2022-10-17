@@ -3,11 +3,16 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="create Picasso Engine" />
+      <item value="inline" />
+      <item value="enqueue" />
+      <item value="image Loader" />
+      <item value="pause Requests" />
+      <item value="placeholder" />
       <item value="load Image" />
       <item value="Picasso Engine" />
       <item value="rb picasso" />
       <item value="placeholder Res" />
-      <item value="placeholder" />
       <item value="Request Options" />
       <item value="set Focusable In Touch Mode" />
       <item value="need Request Focus" />
@@ -48,11 +53,6 @@
       <item value="Layout Inflater" />
       <item value="Data Binding Util" />
       <item value="on Create View" />
-      <item value="Called to have the fragment instantiate its user interface view. This is optional, and non-graphical fragments can return null. This will be called between {@link onCreate(Bundle)} and {@link onViewCreated(View, Bundle)}. &lt;p&gt;A default View can be returned by calling {@link Fragment(int)} in your constructor. Otherwise, this method returns null. &lt;p&gt;It is recommended to &lt;strong&gt;only&lt;strong&gt; inflate the layout in this method and move logic that operates on the returned View to {@link onViewCreated(View, Bundle)}. &lt;p&gt;If you return a View from here, you will later be called in {@link onDestroyView} when the view is being released." />
-      <item value="is Back Pressed" />
-      <item value="find Fragment By Id" />
-      <item value="get Support Fragment Manager" />
-      <item value="set Arguments" />
     </histories>
     <option name="languageScores">
       <map>
