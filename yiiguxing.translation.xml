@@ -3,6 +3,11 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="require BindingCommand {@link com.kelin.mvvmlight.command.BindingCommand } to deal with view click event" />
+      <item value="require boolean value to decide whether requestFocus for view." />
+      <item value="styleable" />
+      <item value="Radio Group" />
+      <item value="on Checked Changed Command" />
       <item value="View Group" />
       <item value="on View Created" />
       <item value="Whether the inflated hierarchy should be attached to the parent parameter. If false, parent is only used to create the correct subclass of LayoutParams for the root view in the XML." />
@@ -48,11 +53,6 @@
       <item value="viewModel.getUC().getShowDialogEvent().observe(this, new Observer&lt;String&gt;() {" />
       <item value="register UI Change Live Data Call Back" />
       <item value="register" />
-      <item value="protected" />
-      <item value="init View Data Binding" />
-      <item value="set Lifecycle Owner" />
-      <item value="Has Default View Model Provider Factory" />
-      <item value="View Model Providers" />
     </histories>
     <option name="languageScores">
       <map>
