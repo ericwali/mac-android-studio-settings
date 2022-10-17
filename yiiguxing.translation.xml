@@ -3,7 +3,22 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="CONTAINER FRAGMENT NAME" />
+      <item value="FRAGMENT" />
+      <item value="you must provide a page info to display" />
+      <item value="init From Intent" />
+      <item value="saved Instance State" />
       <item value="set Soft Input Mode" />
+      <item value="SOFT INPUT ADJUST PAN" />
+      <item value="fragment Transaction" />
+      <item value="begin Transaction" />
+      <item value="fragment" />
+      <item value="TEMP FRAGMENT INSTANCE STATE" />
+      <item value="get Support Fragment Manager" />
+      <item value="使用此Activity盛装" />
+      <item value="Weak Reference" />
+      <item value="Rx App Compat Activity" />
+      <item value="rxlifecycle 4" />
       <item value="BR的id" />
       <item value="set Variable" />
       <item value="View Pump Context Wrapper" />
@@ -29,7 +44,6 @@
       <item value="Base View Model" />
       <item value="newinstancefactory" />
       <item value="init View Model" />
-      <item value="saved Instance State" />
       <item value="param" />
       <item value="init Content View" />
       <item value="view Model" />
@@ -39,25 +53,11 @@
       <item value="init Param" />
       <item value="init View Observable" />
       <item value="set Requested Orientation" />
-      <item value="registor UI Change Live Data Call Back" />
-      <item value="m View Model Life Cycle Sync" />
-      <item value="Composite Disposable" />
-      <item value="m Composite Disposable" />
-      <item value="on Cleared" />
-      <item value="Android View Model" />
-      <item value="TEMP FRAGMENT INSTANCE STATE" />
-      <item value="Temp FRAGMENT Instance State" />
-      <item value="Temp Instance State" />
-      <item value="on Save Instance State" />
-      <item value="FRAGMENT CONTAINER CLASS" />
-      <item value="Fragment Container Name" />
-      <item value="CANONICAL NAME" />
-      <item value="CANONICAL" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1922" />
-        <entry key="ENGLISH" value="1858" />
+        <entry key="CHINESE" value="1942" />
+        <entry key="ENGLISH" value="1878" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="7" />
         <entry key="GERMAN" value="2" />
@@ -83,7 +83,12 @@
     <option name="lastTrimTime" value="1665714373235" />
   </component>
   <component name="Settings">
-    <option name="translator" value="YOUDAO" />
+    <option name="aliTranslateSettings">
+      <app-key>
+        <option name="appId" value="LTAI5t85mrsuLgmwGXwuxkT4" />
+      </app-key>
+    </option>
+    <option name="translator" value="ALI" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="03d7d058148f84e9" />
