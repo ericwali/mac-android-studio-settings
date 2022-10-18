@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="WRITE EXTERNAL STORAGE" />
+      <item value="READ EXTERNAL STORAGE" />
+      <item value="READ PHONE STATE" />
       <item value="Result Response" />
       <item value="Form Url Encoded" />
       <item value="mapper" />
@@ -50,9 +53,6 @@
       <item value="authorities" />
       <item value="mark For Deletion" />
       <item value="Weak Action And Token" />
-      <item value="event Type" />
-      <item value="Disposable" />
-      <item value="Disposable Container" />
     </histories>
     <option name="languageScores">
       <map>
