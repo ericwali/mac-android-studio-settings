@@ -3,11 +3,28 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="CACHE Size" />
+      <item value="CACHE TIMEOUT" />
+      <item value="Create a cache of at most [maxSize] bytes in [directory]." />
+      <item value="Create a cache of at most [maxSize] bytes in [directory]" />
+      <item value="Sometimes a request will result in a conditional cache hit. If the cache contains a stale copy of the response, the client will issue a conditional GET. The server will then send either the updated response if it has changed, or a short 'not modified' response if the client's copy is still valid. Such responses increment both the network count and hit count. The best way to improve the cache hit rate is by configuring the web server to return cacheable responses. Although this client honors all HTTP1.1 (RFC 7234) cache headers, it doesn't cache partial responses." />
+      <item value="HTTP and HTTPS responses to the filesystem so they may be reused, saving time and bandwidth. Cache Optimization To measure cache effectiveness, this class tracks three statistics: Request Count: the number of HTTP requests issued since this cache was created. Network Count: the number of those requests that required network use. Hit Count: the number of those requests whose responses were served by the" />
+      <item value="max Size" />
+      <item value="Client Config" />
+      <item value="SECONDS" />
+      <item value="File Provider" />
+      <item value="Return the Application object. &lt;p&gt;Main process get app by UtilsFileProvider, and other process get app by reflect.&lt;p&gt;" />
+      <item value="get Internal App Cache Path" />
+      <item value="is SD Card Enable By Environment" />
+      <item value="get Cache Path External First" />
+      <item value="get Absolute Path" />
+      <item value="Utils Activity Lifecycle Impl" />
+      <item value="get Cache Dir" />
+      <item value="Sets the response cache to be used to read and write cached responses" />
       <item value="Mapper Scope" />
       <item value="App Preferences Helper" />
       <item value="perform Dependency Injection" />
       <item value="http Cache Directory" />
-      <item value="get Cache Dir" />
       <item value="Retrofit Client Util" />
       <item value="Lifecycle Provider" />
       <item value="dispatch On Context Available" />
@@ -36,23 +53,6 @@
       <item value="VIEW" />
       <item value="exception Transformer" />
       <item value="READ PHONE STATE" />
-      <item value="SUCCESS" />
-      <item value="WRITE EXTERNAL STORAGE" />
-      <item value="READ EXTERNAL STORAGE" />
-      <item value="Result Response" />
-      <item value="Form Url Encoded" />
-      <item value="mapper" />
-      <item value="m Login Service" />
-      <item value="Login Repository" />
-      <item value="children" />
-      <item value="Tree Entity" />
-      <item value="parent Id" />
-      <item value="parcelable" />
-      <item value="parcelable Flags" />
-      <item value="describe Contents" />
-      <item value="Binder" />
-      <item value="write Binder List" />
-      <item value="get Parcelable Array List" />
     </histories>
     <option name="languageScores">
       <map>
