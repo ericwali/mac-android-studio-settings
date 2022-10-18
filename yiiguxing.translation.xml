@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="SUCCESS" />
       <item value="WRITE EXTERNAL STORAGE" />
       <item value="READ EXTERNAL STORAGE" />
       <item value="READ PHONE STATE" />
@@ -52,7 +53,6 @@
       <item value="init Order" />
       <item value="authorities" />
       <item value="mark For Deletion" />
-      <item value="Weak Action And Token" />
     </histories>
     <option name="languageScores">
       <map>
