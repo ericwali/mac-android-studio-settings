@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="App Preferences Helper" />
+      <item value="perform Dependency Injection" />
+      <item value="http Cache Directory" />
+      <item value="get Cache Dir" />
       <item value="Retrofit Client Util" />
       <item value="Lifecycle Provider" />
       <item value="dispatch On Context Available" />
@@ -49,10 +53,6 @@
       <item value="write Binder List" />
       <item value="get Parcelable Array List" />
       <item value="create From Parcel" />
-      <item value="I Binder" />
-      <item value="create Binder Array List" />
-      <item value="In isPageStrategy mode, there is no data for the first time" />
-      <item value="read Long" />
     </histories>
     <option name="languageScores">
       <map>
