@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="Base Observable" />
       <item value="dimens" />
       <item value="customactivityoncrash activity horizontal margin" />
       <item value="in colors light" />
@@ -52,7 +53,6 @@
       <item value="Subscriber" />
       <item value="Rx Bus Subscriber" />
       <item value="Observable On Subscribe" />
-      <item value="observable" />
     </histories>
     <option name="languageScores">
       <map>
