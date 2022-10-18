@@ -3,6 +3,20 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="Retrofit Client Util" />
+      <item value="Lifecycle Provider" />
+      <item value="dispatch On Context Available" />
+      <item value="Restore the Saved State first so that it is available to OnContextAvailableListener instances" />
+      <item value="dispatch Create" />
+      <item value="handle Lifecycle Event" />
+      <item value="Lifecycle Observer" />
+      <item value="ON START" />
+      <item value="On Lifecycle Event" />
+      <item value="Rx App Compat Activity" />
+      <item value="on Cleared" />
+      <item value="ON CREATE" />
+      <item value="provide Calligraphy Default Config" />
+      <item value="view Model" />
       <item value="Open Source Adapter" />
       <item value="get Support Fragment Manager" />
       <item value="proxy Provide Context" />
@@ -39,20 +53,6 @@
       <item value="create Binder Array List" />
       <item value="In isPageStrategy mode, there is no data for the first time" />
       <item value="read Long" />
-      <item value="Base Observable" />
-      <item value="dimens" />
-      <item value="customactivityoncrash activity horizontal margin" />
-      <item value="in colors light" />
-      <item value="error activity more info button" />
-      <item value="error activity restart button" />
-      <item value="customactivityoncrash error image" />
-      <item value="EXTRA CONFIG" />
-      <item value="Extras passed to the error activity" />
-      <item value="ereza" />
-      <item value="activity" />
-      <item value="customactivityoncrash" />
-      <item value="Custom Activity On Crash" />
-      <item value="Given an Intent, returns several error details including the stack trace extra from the intent." />
     </histories>
     <option name="languageScores">
       <map>
