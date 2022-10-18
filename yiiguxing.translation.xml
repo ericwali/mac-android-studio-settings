@@ -3,6 +3,17 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="Add a call adapter factory for supporting service method return types other than {@link" />
+      <item value="add Call Adapter Factory" />
+      <item value="add Converter Factory" />
+      <item value="time Unit" />
+      <item value="keep Alive Duration" />
+      <item value="connect Timeout" />
+      <item value="public, only-if-cached, max-stale" />
+      <item value="Cache-Control" />
+      <item value="Pragma" />
+      <item value="check NetworkAvailable" />
+      <item value="is Available" />
       <item value="get Instance" />
       <item value="Trust Manager Factory" />
       <item value="通过ssl Context获取SSL Socket Factory对象" />
@@ -42,17 +53,6 @@
       <item value="http Cache Directory" />
       <item value="Retrofit Client Util" />
       <item value="Lifecycle Provider" />
-      <item value="dispatch On Context Available" />
-      <item value="Restore the Saved State first so that it is available to OnContextAvailableListener instances" />
-      <item value="dispatch Create" />
-      <item value="handle Lifecycle Event" />
-      <item value="Lifecycle Observer" />
-      <item value="ON START" />
-      <item value="On Lifecycle Event" />
-      <item value="Rx App Compat Activity" />
-      <item value="on Cleared" />
-      <item value="ON CREATE" />
-      <item value="provide Calligraphy Default Config" />
     </histories>
     <option name="languageScores">
       <map>
