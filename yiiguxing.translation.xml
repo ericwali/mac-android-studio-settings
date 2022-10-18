@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="get Support Fragment Manager" />
+      <item value="proxy Provide Context" />
       <item value="Singleton" />
       <item value="provide Data Manager" />
       <item value="View Model Provider Factory" />
@@ -51,8 +53,6 @@
       <item value="Custom Activity On Crash" />
       <item value="Given an Intent, returns several error details including the stack trace extra from the intent." />
       <item value="get All Error Details From Intent" />
-      <item value="close Application" />
-      <item value="restart Application" />
     </histories>
     <option name="languageScores">
       <map>
