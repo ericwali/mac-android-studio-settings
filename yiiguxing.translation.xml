@@ -3,10 +3,10 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="READ PHONE STATE" />
       <item value="SUCCESS" />
       <item value="WRITE EXTERNAL STORAGE" />
       <item value="READ EXTERNAL STORAGE" />
-      <item value="READ PHONE STATE" />
       <item value="Result Response" />
       <item value="Form Url Encoded" />
       <item value="mapper" />
