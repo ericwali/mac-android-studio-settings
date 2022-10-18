@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="Singleton" />
+      <item value="provide Data Manager" />
+      <item value="View Model Provider Factory" />
+      <item value="Feed View Model" />
       <item value="check Token" />
       <item value="tencent" />
       <item value="DEFAULT" />
@@ -49,10 +53,6 @@
       <item value="get All Error Details From Intent" />
       <item value="close Application" />
       <item value="restart Application" />
-      <item value="INTERNAL method that sets the configuration of the library. You must not use this, use CaocConfig.Builder.apply()" />
-      <item value="Interface to be called when events occur, so they can be reported by the app as, for example, Google Analytics events." />
-      <item value="Restrict To" />
-      <item value="LIBRARY" />
     </histories>
     <option name="languageScores">
       <map>
