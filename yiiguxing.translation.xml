@@ -3,6 +3,11 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="get Instance" />
+      <item value="Trust Manager Factory" />
+      <item value="通过ssl Context获取SSL Socket Factory对象" />
+      <item value="X 509 Trust Manager" />
+      <item value="get Ssl Socket Factory Base" />
       <item value="headers" />
       <item value="Rx Java 2 Call Adapter Factory" />
       <item value="Gson Converter Factory" />
@@ -48,16 +53,11 @@
       <item value="on Cleared" />
       <item value="ON CREATE" />
       <item value="provide Calligraphy Default Config" />
-      <item value="view Model" />
-      <item value="Open Source Adapter" />
-      <item value="get Support Fragment Manager" />
-      <item value="proxy Provide Context" />
-      <item value="Singleton" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1942" />
-        <entry key="ENGLISH" value="1879" />
+        <entry key="ENGLISH" value="1880" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="7" />
         <entry key="GERMAN" value="2" />
