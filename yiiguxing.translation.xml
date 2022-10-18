@@ -3,6 +3,13 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="Rx Java 2 Call Adapter Factory" />
+      <item value="Gson Converter Factory" />
+      <item value="Returns a request that includes a credential to satisfy an authentication challenge in response. Returns null if the challenge cannot be satisfied. The route is best effort, it currently may not always be provided even when logically available. It may also not be provided when an authenticator is re-used manually in an application interceptor, such as when implementing client-specific retries." />
+      <item value="When reactive authentication is requested by a proxy server, the response code is 407 and the implementation should respond with a new request that sets the &quot;Proxy-Authorization&quot; heade" />
+      <item value="If your authentication may be flaky and requires retries you should apply some policy to limit the retries by the class of errors and number of attempts. To get the number of attempts to the current point use this function." />
+      <item value="authenticate" />
+      <item value="authenticator" />
       <item value="Singleton Holder" />
       <item value="Retrofit" />
       <item value="CACHE Size" />
@@ -46,13 +53,6 @@
       <item value="proxy Provide Context" />
       <item value="Singleton" />
       <item value="provide Data Manager" />
-      <item value="View Model Provider Factory" />
-      <item value="Feed View Model" />
-      <item value="check Token" />
-      <item value="tencent" />
-      <item value="DEFAULT" />
-      <item value="BROWSABLE" />
-      <item value="VIEW" />
     </histories>
     <option name="languageScores">
       <map>
