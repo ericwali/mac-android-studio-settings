@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="check Token" />
       <item value="tencent" />
       <item value="DEFAULT" />
       <item value="BROWSABLE" />
@@ -52,7 +53,6 @@
       <item value="Interface to be called when events occur, so they can be reported by the app as, for example, Google Analytics events." />
       <item value="Restrict To" />
       <item value="LIBRARY" />
-      <item value="Given an Intent, returns the config extra from it." />
     </histories>
     <option name="languageScores">
       <map>
