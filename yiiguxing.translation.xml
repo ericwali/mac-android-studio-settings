@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="request Builder" />
       <item value="Call the next interceptor in the chain." />
       <item value="execute your customer API For example: MyApiService service = RetrofitClient.getInstance(MainActivity.this).create(MyApiService.class);" />
       <item value="execute" />
@@ -52,7 +53,6 @@
       <item value="Sets the response cache to be used to read and write cached responses" />
       <item value="Mapper Scope" />
       <item value="App Preferences Helper" />
-      <item value="perform Dependency Injection" />
     </histories>
     <option name="languageScores">
       <map>
