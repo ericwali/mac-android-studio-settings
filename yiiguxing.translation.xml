@@ -3,6 +3,14 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="orientation" />
+      <item value="keyboard Hidden" />
+      <item value="config Changes" />
+      <item value="Context Wrapper" />
+      <item value="APPLICATION DETAILS SETTINGS" />
+      <item value="get Application Context" />
+      <item value="package Context" />
+      <item value="get Application By Reflect" />
       <item value="subscribe Load Progress" />
       <item value="m Subscription" />
       <item value="dest" />
@@ -45,14 +53,6 @@
       <item value="check NetworkAvailable" />
       <item value="is Available" />
       <item value="get Instance" />
-      <item value="Trust Manager Factory" />
-      <item value="通过ssl Context获取SSL Socket Factory对象" />
-      <item value="X 509 Trust Manager" />
-      <item value="get Ssl Socket Factory Base" />
-      <item value="headers" />
-      <item value="Rx Java 2 Call Adapter Factory" />
-      <item value="Gson Converter Factory" />
-      <item value="Returns a request that includes a credential to satisfy an authentication challenge in response. Returns null if the challenge cannot be satisfied. The route is best effort, it currently may not always be provided even when logically available. It may also not be provided when an authenticator is re-used manually in an application interceptor, such as when implementing client-specific retries." />
     </histories>
     <option name="languageScores">
       <map>
