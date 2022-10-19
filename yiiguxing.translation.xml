@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="privacy Compliance" />
+      <item value="verify Permissions" />
       <item value="Core App Component" />
       <item value="create Intent" />
       <item value="input – the input required to execute an ActivityResultContract." />
@@ -51,8 +53,6 @@
       <item value="Call Back" />
       <item value="File Subscriber" />
       <item value="subscribe" />
-      <item value="bytes Read" />
-      <item value="sink" />
     </histories>
     <option name="languageScores">
       <map>
