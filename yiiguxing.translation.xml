@@ -3,6 +3,22 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="subscribe Load Progress" />
+      <item value="m Subscription" />
+      <item value="dest" />
+      <item value="dest File Dir" />
+      <item value="upload" />
+      <item value="File Mapper" />
+      <item value="download" />
+      <item value="Download Subscriber Call" />
+      <item value="Download Subscriber Call Back" />
+      <item value="Download Subscriber" />
+      <item value="Call Back" />
+      <item value="File Subscriber" />
+      <item value="subscribe" />
+      <item value="bytes Read" />
+      <item value="sink" />
+      <item value="Response Body" />
       <item value="The executor used for Callback methods on a Call. This may be null, in which case callbacks should be made synchronously on the background thread." />
       <item value="The executor used for {@link Callback} methods on a {@link Call}. This may be {@code null}, in which case callbacks should be made synchronously on the background thread." />
       <item value="Forwarding Source" />
@@ -37,22 +53,6 @@
       <item value="Rx Java 2 Call Adapter Factory" />
       <item value="Gson Converter Factory" />
       <item value="Returns a request that includes a credential to satisfy an authentication challenge in response. Returns null if the challenge cannot be satisfied. The route is best effort, it currently may not always be provided even when logically available. It may also not be provided when an authenticator is re-used manually in an application interceptor, such as when implementing client-specific retries." />
-      <item value="When reactive authentication is requested by a proxy server, the response code is 407 and the implementation should respond with a new request that sets the &quot;Proxy-Authorization&quot; heade" />
-      <item value="If your authentication may be flaky and requires retries you should apply some policy to limit the retries by the class of errors and number of attempts. To get the number of attempts to the current point use this function." />
-      <item value="authenticate" />
-      <item value="authenticator" />
-      <item value="Singleton Holder" />
-      <item value="Retrofit" />
-      <item value="CACHE Size" />
-      <item value="CACHE TIMEOUT" />
-      <item value="Create a cache of at most [maxSize] bytes in [directory]." />
-      <item value="Create a cache of at most [maxSize] bytes in [directory]" />
-      <item value="Sometimes a request will result in a conditional cache hit. If the cache contains a stale copy of the response, the client will issue a conditional GET. The server will then send either the updated response if it has changed, or a short 'not modified' response if the client's copy is still valid. Such responses increment both the network count and hit count. The best way to improve the cache hit rate is by configuring the web server to return cacheable responses. Although this client honors all HTTP1.1 (RFC 7234) cache headers, it doesn't cache partial responses." />
-      <item value="HTTP and HTTPS responses to the filesystem so they may be reused, saving time and bandwidth. Cache Optimization To measure cache effectiveness, this class tracks three statistics: Request Count: the number of HTTP requests issued since this cache was created. Network Count: the number of those requests that required network use. Hit Count: the number of those requests whose responses were served by the" />
-      <item value="max Size" />
-      <item value="Client Config" />
-      <item value="SECONDS" />
-      <item value="File Provider" />
     </histories>
     <option name="languageScores">
       <map>
@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1665714373235" />
+    <option name="lastTrimTime" value="1666146600726" />
   </component>
   <component name="Settings">
     <option name="aliTranslateSettings">
