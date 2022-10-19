@@ -3,6 +3,14 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="Forwarding Source" />
+      <item value="proceed" />
+      <item value="headers To Redact" />
+      <item value="Time Builder" />
+      <item value="redact Header" />
+      <item value="log Header" />
+      <item value="intercept" />
+      <item value="body Has Unknown Encoding" />
       <item value="request Builder" />
       <item value="Call the next interceptor in the chain." />
       <item value="execute your customer API For example: MyApiService service = RetrofitClient.getInstance(MainActivity.this).create(MyApiService.class);" />
@@ -45,14 +53,6 @@
       <item value="File Provider" />
       <item value="Return the Application object. &lt;p&gt;Main process get app by UtilsFileProvider, and other process get app by reflect.&lt;p&gt;" />
       <item value="get Internal App Cache Path" />
-      <item value="is SD Card Enable By Environment" />
-      <item value="get Cache Path External First" />
-      <item value="get Absolute Path" />
-      <item value="Utils Activity Lifecycle Impl" />
-      <item value="get Cache Dir" />
-      <item value="Sets the response cache to be used to read and write cached responses" />
-      <item value="Mapper Scope" />
-      <item value="App Preferences Helper" />
     </histories>
     <option name="languageScores">
       <map>
