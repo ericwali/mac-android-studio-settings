@@ -3,6 +3,21 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="Adapter View" />
+      <item value="width for ResizeOptions (use Fresco to load bitmap)." />
+      <item value="placeholder Res" />
+      <item value="request height" />
+      <item value="Simple Drawee View" />
+      <item value="Nested Scroll View" />
+      <item value="dimen" />
+      <item value="Environment.get External Storage Directory" />
+      <item value="integer" />
+      <item value="window anim duration" />
+      <item value="primary dark" />
+      <item value="color Primary Dark" />
+      <item value="Color Hint" />
+      <item value="text Color Hint" />
+      <item value="btn tit" />
       <item value="Core App Component" />
       <item value="Dagger does not support injection into private fields" />
       <item value="data Initialization" />
@@ -38,21 +53,6 @@
       <item value="keyboard Hidden" />
       <item value="config Changes" />
       <item value="Context Wrapper" />
-      <item value="APPLICATION DETAILS SETTINGS" />
-      <item value="get Application Context" />
-      <item value="package Context" />
-      <item value="get Application By Reflect" />
-      <item value="subscribe Load Progress" />
-      <item value="m Subscription" />
-      <item value="dest" />
-      <item value="dest File Dir" />
-      <item value="upload" />
-      <item value="File Mapper" />
-      <item value="download" />
-      <item value="Download Subscriber Call" />
-      <item value="Download Subscriber Call Back" />
-      <item value="Download Subscriber" />
-      <item value="Call Back" />
     </histories>
     <option name="languageScores">
       <map>
