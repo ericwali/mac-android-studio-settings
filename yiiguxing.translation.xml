@@ -3,6 +3,12 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="Map Logistics Service" />
+      <item value="provide Map Logistics Service" />
+      <item value="provide Map Logistics Mapper" />
+      <item value="Map Logistics Mapper" />
+      <item value="Dagger Collections" />
+      <item value="PRIVACT AGREE STATE" />
       <item value="Route Detail Activity" />
       <item value="Single Route Calculate Activity" />
       <item value="Tab Bar Activity" />
@@ -47,12 +53,6 @@
       <item value="window No Title" />
       <item value="color" />
       <item value="Installation did not succeed. The application could not be installed: INSTALL_FAILED_NO_MATCHING_ABIS List of apks: [0] 'UserswangxiangStudioProjectsmyAndroidProjectbuildappoutputsapkdebugAndroidProject_v1.0_debug.apk' Installation failed due to: 'INSTALL_FAILED_NO_MATCHING_ABIS: INSTALL_FAILED_NO_MATCHING_ABIS: Failed to extract native libraries, res=-113' Retry Failed to launch an application on all devices" />
-      <item value="WARN: Unable to load JNA library" />
-      <item value="dialog ui round size" />
-      <item value="Dark Action Bar" />
-      <item value="No Action Bar" />
-      <item value="App Theme" />
-      <item value="Countdown View Style" />
     </histories>
     <option name="languageScores">
       <map>
