@@ -3,6 +3,20 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="Runtime JAR file has version 1.4 which is older than required for API version 1.5" />
+      <item value="w: Runtime JAR files in the classpath have the version 1.4, which is older than the API version 1.5. Consider using the runtime of version 1.5, or pass '-api-version 1.4' explicitly to restrict the available APIs to the runtime of version 1.4. You can also pass '-language-version 1.4' instead, which will restrict not only the APIs to the specified version, but also the language features" />
+      <item value="65 actionable tasks: 8 executed, 57 up-to-date Build Analyzer results available" />
+      <item value="org.gradle.api.tasks.TaskExecutionException: Execution failed for task ':app:processReleaseMainManifest'. at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.lambdaexecuteIfValid1(ExecuteActionsTaskExecuter.java:188) at org.gradle.internal.TryFailure.ifSuccessfulOrElse(Try.java:282) at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.executeIfValid(ExecuteActionsTaskExecuter.java:186) at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.execute(ExecuteActionsTaskExecuter.java:174) at org.gradle.api.internal.tasks.execution.CleanupStaleOutputsExecuter.execute(CleanupStaleOutputsExecuter.java:109) at org.gradle.api.internal.tasks.execution.FinalizePropertiesTaskExecuter.execute(FinalizePropertiesTaskExecuter.java:46) at org.gradle.api.internal.tasks.execution.ResolveTaskExecutionModeExecuter.execute(ResolveTaskExecutionModeExecuter.java:51) at org.gradle.api.internal.tasks.execution.SkipTaskWithNoActionsExecuter.execute(SkipTaskWithNoActionsExecuter.java:57) at org.gradle.api.internal.tasks.execution.SkipOnlyIfTaskExecuter.execute(SkipOnlyIfTaskExecuter.java:56) at org.gradle.api.internal.tasks.execution.CatchExceptionTaskExecuter.execute(CatchExceptionTaskExecuter.java:36) at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter1.executeTask(EventFiringTaskExecuter.java:77) at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter1.call(EventFiringTaskExecuter.java:55) at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter1.call(EventFiringTaskExecuter.java:52) at org.gradle.internal.operations.DefaultBuildOperationRunnerCallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:200) at org.gradle.internal.operations.DefaultBuildOperationRunnerCallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:195) at org.gradle.internal.operations.DefaultBuildOperationRunner3.execute(DefaultBuildOperationRunner.java:75) at org.gradle.internal.operations.DefaultBuildOperationRunner3.execute(DefaultBuildOperationRunner.java:68) at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:153) at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:68) at org.gradle.internal.operations.DefaultBuildOperationRunner.call(DefaultBuildOperationRunner.java:62) at org.gradle.internal.operations.DefaultBuildOperationExecutor.lambdacall2(DefaultBuildOperationExecutor.java:79) at org.gradle.internal.operations.UnmanagedBuildOperationWrapper.callWithUnmanagedSupport(UnmanagedBuildOperationWrapper.java:54) at org.gradle.internal.operations.DefaultBuildOperationExecutor.call(DefaultBuildOperationExecutor.java:79) at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter.execute(EventFiringTaskExecuter.java:52) at org.gradle.execution.plan.LocalTaskNodeExecutor.execute(LocalTaskNodeExecutor.java:74) at org.gradle.execution.taskgraph.DefaultTaskExecutionGraphInvokeNodeExecutorsAction.execute(DefaultTaskExecutionGraph.java:402) at org.gradle.execution.taskgraph.DefaultTaskExecutionGraphInvokeNodeExecutorsAction.execute(DefaultTaskExecutionGraph.java:389) at org.gradle.execution.taskgraph.DefaultTaskExecutionGraphBuildOperationAwareExecutionAction.execute(DefaultTaskExecutionGraph.java:382) at org.gradle.execution.taskgraph.DefaultTaskExecutionGraphBuildOperationAwareExecutionAction.execute(DefaultTaskExecutionGraph.java:368) at org.gradle.execution.plan.DefaultPlanExecutorExecutorWorker.lambdarun0(DefaultPlanExecutor.java:127) at org.gradle.execution.plan.DefaultPlanExecutorExecutorWorker.execute(DefaultPlanExecutor.java:191) at org.gradle.execution.plan.DefaultPlanExecutorExecutorWorker.executeNextNode(DefaultPlanExecutor.java:182) at org.gradle.execution.plan.DefaultPlanExecutorExecutorWorker.run(DefaultPlanExecutor.java:124) at org.gradle.internal.concurrent.ExecutorPolicyCatchAndRecordFailures.onExecute(ExecutorPolicy.java:64) at org.gradle.internal.concurrent.ManagedExecutorImpl1.run(ManagedExecutorImpl.java:48) at java.basejava.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) at java.basejava.util.concurrent.ThreadPoolExecutorWorker.run(ThreadPoolExecutor.java:628) at org.gradle.internal.concurrent.ThreadFactoryImplManagedThreadRunnable.run(ThreadFactoryImpl.java:61) at java.basejava.lang.Thread.run(Thread.java:829) Caused by: java.lang.RuntimeException: Manifest merger failed with multiple errors, see logs" />
+      <item value="Manifest merger failed with multiple errors, see logs" />
+      <item value="----------- What went wrong: Execution failed for task ':app:processDebugMainManifest'. &gt; Manifest merger failed with multiple errors, see logs" />
+      <item value="FAILURE: Build completed with 2 failures." />
+      <item value="Manifest merger failed : Attribute application@label value=(KICC收样APP Debug 版) from AndroidManifest.xml:30:9-36 is also present at [me.majiajie:pager-bottom-tab-strip:2.2.5] AndroidManifest.xml:11:18-50 value=(@stringapp_name). Suggestion: add 'tools:replace=&quot;android:label&quot;' to &lt;application&gt; element at AndroidManifest.xml:26:5-84:19 to override." />
+      <item value="Manifest merger failed : Attribute application@label value=(KICC收样APP Debug 版) from AndroidManifest.xml:30:9-36" />
+      <item value="tencent" />
+      <item value="BROWSABLE" />
+      <item value="App Link Url Error" />
+      <item value="Manifest merger failed : android:exported needs to be explicitly specified for &lt;activity&gt;. Apps targeting Android 12 and higher are required to specify an explicit value for `android:exported` when the corresponding component has an intent filter defined. See https:developer.android.comguidetopicsmanifestactivity-elementexported for details." />
+      <item value="android:exported needs to be explicitly specified for &lt;activity&gt;. Apps targeting Android 12 and higher are required to specify an explicit value for `android:exported` when the corresponding component has an intent filter defined. See https:developer.android.comguidetopicsmanifestactivity-elementexported for details." />
       <item value="leakcanary" />
       <item value="implementation" />
       <item value="nativecrashreport" />
@@ -39,25 +53,11 @@
       <item value="supports Rtl" />
       <item value="resizeable Activity" />
       <item value="request Legacy External Storage" />
-      <item value="allow Backup" />
-      <item value="ACCESS LOCATION EXTRA COMMANDS" />
-      <item value="Power Manager" />
-      <item value="Wake Locks" />
-      <item value="CHANGE WIFI STATE" />
-      <item value="READ PHONE STATE" />
-      <item value="Scoped Storage" />
-      <item value="kc btn brown radius bg" />
-      <item value="android Test" />
-      <item value="unit Test" />
-      <item value="item box text" />
-      <item value="user Bar Img" />
-      <item value="user Item Linear Layout" />
-      <item value="form Edit Text Form Gary" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1942" />
-        <entry key="ENGLISH" value="1882" />
+        <entry key="ENGLISH" value="1885" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="7" />
         <entry key="GERMAN" value="2" />
