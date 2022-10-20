@@ -3,6 +3,11 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="leakcanary" />
+      <item value="implementation" />
+      <item value="nativecrashreport" />
+      <item value="crashreport" />
+      <item value="lifecycle" />
       <item value="is greater than this module's compileSdkVersion (android-30)." />
       <item value="specified in a dependency's AAR metadata" />
       <item value="The minCompileSdk (31) specified in a" />
@@ -48,11 +53,6 @@
       <item value="user Bar Img" />
       <item value="user Item Linear Layout" />
       <item value="form Edit Text Form Gary" />
-      <item value="form Report Layout" />
-      <item value="poion Bttombtn" />
-      <item value="text View Font Right" />
-      <item value="layout margin Top" />
-      <item value="layout margin Left" />
     </histories>
     <option name="languageScores">
       <map>
