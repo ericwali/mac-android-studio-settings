@@ -3,6 +3,14 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="is greater than this module's compileSdkVersion (android-30)." />
+      <item value="specified in a dependency's AAR metadata" />
+      <item value="The minCompileSdk (31) specified in a" />
+      <item value="camera" />
+      <item value="The minCompileSdk (31) specified in a dependency's AAR metadata (META-INFcomandroidbuildgradleaar-metadata.properties) is greater than this module's compileSdkVersion (android-30). Dependency: androidx.camera:camera-view:1.2.0-alpha01." />
+      <item value="One or more issues found when checking AAR metadata values:" />
+      <item value="dependency's AAR metadata (META-INFcomandroidbuildgradleaar-metadata.properties) is greater than this module's compileSdkVersion (android-30)." />
+      <item value="SKIP" />
       <item value="UserswangxiangStudioProjectsorgkicc-collectlibrarycoresrcmainjavacomkicccoreentityCommonEntity.java:16: 警告: Generating equalshashCode implementation but without a call to superclass, even though this class does not extend java.lang.Object. If this is intentional, add '@EqualsAndHashCode(callSuper=false)' to your type." />
       <item value="Map Logistics Service" />
       <item value="provide Map Logistics Service" />
@@ -45,14 +53,6 @@
       <item value="text View Font Right" />
       <item value="layout margin Top" />
       <item value="layout margin Left" />
-      <item value="text View Second Leve" />
-      <item value="text view second leve" />
-      <item value="window Fullscreen" />
-      <item value="Recycler View" />
-      <item value="Actionbar" />
-      <item value="UserswangxiangStudioProjectsorgkicc-collectlibrarycoresrcmainjavacomkicccoreentityTreeEntity.java:18: 警告: Generating equalshashCode implementation but without a call to superclass, even though this class does not extend java.lang.Object. If this is intentional, add '@EqualsAndHashCode(callSuper=false)' to your type." />
-      <item value="window No Title" />
-      <item value="color" />
     </histories>
     <option name="languageScores">
       <map>
