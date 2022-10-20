@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="UserswangxiangStudioProjectsorgkicc-collectlibrarycoresrcmainjavacomkicccoreentityTreeEntity.java:18: 警告: Generating equalshashCode implementation but without a call to superclass, even though this class does not extend java.lang.Object. If this is intentional, add '@EqualsAndHashCode(callSuper=false)' to your type." />
       <item value="window No Title" />
       <item value="color" />
       <item value="Installation did not succeed. The application could not be installed: INSTALL_FAILED_NO_MATCHING_ABIS List of apks: [0] 'UserswangxiangStudioProjectsmyAndroidProjectbuildappoutputsapkdebugAndroidProject_v1.0_debug.apk' Installation failed due to: 'INSTALL_FAILED_NO_MATCHING_ABIS: INSTALL_FAILED_NO_MATCHING_ABIS: Failed to extract native libraries, res=-113' Retry Failed to launch an application on all devices" />
@@ -52,12 +53,11 @@
       <item value="set Result" />
       <item value="create Picasso Engine" />
       <item value="Glide Engine" />
-      <item value="exported" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1942" />
-        <entry key="ENGLISH" value="1880" />
+        <entry key="ENGLISH" value="1881" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="7" />
         <entry key="GERMAN" value="2" />
