@@ -3,13 +3,15 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="Dark Action Bar" />
+      <item value="No Action Bar" />
+      <item value="App Theme" />
+      <item value="Countdown View Style" />
       <item value="edit View Color" />
       <item value="tab color" />
       <item value="color Accent" />
       <item value="Accent" />
       <item value="kc btn brown radius" />
-      <item value="Dark Action Bar" />
-      <item value="No Action Bar" />
       <item value="Adapter View" />
       <item value="width for ResizeOptions (use Fresco to load bitmap)." />
       <item value="placeholder Res" />
@@ -51,8 +53,6 @@
       <item value="window Fullscreen" />
       <item value="screen Orientation" />
       <item value="theme" />
-      <item value="launch Mode" />
-      <item value="name" />
     </histories>
     <option name="languageScores">
       <map>
