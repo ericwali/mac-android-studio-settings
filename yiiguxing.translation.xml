@@ -3,6 +3,19 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="supports Rtl" />
+      <item value="resizeable Activity" />
+      <item value="request Legacy External Storage" />
+      <item value="allow Backup" />
+      <item value="ACCESS LOCATION EXTRA COMMANDS" />
+      <item value="Power Manager" />
+      <item value="Wake Locks" />
+      <item value="CHANGE WIFI STATE" />
+      <item value="READ PHONE STATE" />
+      <item value="Scoped Storage" />
+      <item value="kc btn brown radius bg" />
+      <item value="android Test" />
+      <item value="unit Test" />
       <item value="item box text" />
       <item value="user Bar Img" />
       <item value="user Item Linear Layout" />
@@ -40,19 +53,6 @@
       <item value="Nested Scroll View" />
       <item value="dimen" />
       <item value="Environment.get External Storage Directory" />
-      <item value="integer" />
-      <item value="window anim duration" />
-      <item value="primary dark" />
-      <item value="color Primary Dark" />
-      <item value="Color Hint" />
-      <item value="text Color Hint" />
-      <item value="btn tit" />
-      <item value="Core App Component" />
-      <item value="Dagger does not support injection into private fields" />
-      <item value="data Initialization" />
-      <item value="privacy Compliance" />
-      <item value="verify Permissions" />
-      <item value="create Intent" />
     </histories>
     <option name="languageScores">
       <map>
