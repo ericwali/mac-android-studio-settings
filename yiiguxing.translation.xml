@@ -3,6 +3,12 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="This annotation required the usage of code generation or reflection, which should be avoided. Use {@link DefaultLifecycleObserver} or {@link LifecycleEventObserver} instead." />
+      <item value="Annotation that can be used to mark methods on {@link LifecycleObserver} implementations that should be invoked to handle lifecycle events. @deprecated This annotation required the usage of code generation or reflection, which should be avoided. Use {@link DefaultLifecycleObserver} or {@link LifecycleEventObserver} instead." />
+      <item value="finish" />
+      <item value="Nullable" />
+      <item value="print Stack Trace" />
+      <item value="finish Refreshing" />
       <item value="mmkv With ID" />
       <item value="KICC COLLECT TOKEN ENHANCER" />
       <item value="set Default Cache Disk Utils" />
@@ -37,7 +43,6 @@
       <item value="throttle First" />
       <item value="Shared Preferences Constant" />
       <item value="login Name" />
-      <item value="Nullable" />
       <item value="username Switch Event" />
       <item value="password Switch Event" />
       <item value="login Ui Observable" />
@@ -48,11 +53,6 @@
       <item value="switch Clean Username Visibility" />
       <item value="match parent" />
       <item value="gravity" />
-      <item value="bottom" />
-      <item value="iv switch clean username" />
-      <item value="INVISIBLE" />
-      <item value="VISIBLE" />
-      <item value="clear Btn Visibility" />
     </histories>
     <option name="languageScores">
       <map>
