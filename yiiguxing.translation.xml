@@ -3,10 +3,19 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="schedulers Transformer" />
+      <item value="data Initialization" />
+      <item value="Nullable" />
+      <item value="finish" />
+      <item value="finish Affinity" />
+      <item value="on Cleared" />
+      <item value="Lifecycle Owner" />
+      <item value="set Web View Client" />
+      <item value="Callback interface for listening to LifecycleOwner state changes. If a class implements both this interface and LifecycleEventObserver, then methods of DefaultLifecycleObserver will be called first, and then followed by the call of LifecycleEventObserver.onStateChanged(LifecycleOwner, Lifecycle.Event) If a class implements this interface and in the same time uses OnLifecycleEvent, then annotations will be ignored." />
+      <item value="Default Lifecycle Observer" />
+      <item value="Lifecycle Event Observer" />
       <item value="This annotation required the usage of code generation or reflection, which should be avoided. Use {@link DefaultLifecycleObserver} or {@link LifecycleEventObserver} instead." />
       <item value="Annotation that can be used to mark methods on {@link LifecycleObserver} implementations that should be invoked to handle lifecycle events. @deprecated This annotation required the usage of code generation or reflection, which should be avoided. Use {@link DefaultLifecycleObserver} or {@link LifecycleEventObserver} instead." />
-      <item value="finish" />
-      <item value="Nullable" />
       <item value="print Stack Trace" />
       <item value="finish Refreshing" />
       <item value="mmkv With ID" />
@@ -16,7 +25,6 @@
       <item value="get Declared Fields" />
       <item value="disposable" />
       <item value="do On Subscribe" />
-      <item value="on Cleared" />
       <item value="promise" />
       <item value="Rx Java 2 Call Adapter Factory" />
       <item value="Scheduler: doOnSubscribe does not operate by default on a particular Scheduler. Params: onSubscribe – the Consumer that gets called when an Observer subscribes to the current Observable Returns: the source ObservableSource modified so as to call this Consumer when appropriate See Also: ReactiveX operators documentation: Do" />
@@ -45,14 +53,6 @@
       <item value="login Name" />
       <item value="username Switch Event" />
       <item value="password Switch Event" />
-      <item value="login Ui Observable" />
-      <item value="visible Password Mark" />
-      <item value="Creates an empty observable object" />
-      <item value="clean Username Mark" />
-      <item value="switch Clean Username Mark" />
-      <item value="switch Clean Username Visibility" />
-      <item value="match parent" />
-      <item value="gravity" />
     </histories>
     <option name="languageScores">
       <map>
