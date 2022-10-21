@@ -3,6 +3,15 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="Unknown Entity Exception" />
+      <item value="Invalid Stack Frame Exception" />
+      <item value="Illegal State Exception" />
+      <item value="config.is Show Error Details" />
+      <item value="close Bugly" />
+      <item value="The display type must be specified" />
+      <item value="are you ok" />
+      <item value="Response Exception" />
+      <item value="Illegal Argument Exception" />
       <item value="Provides the Observer with the means of cancelling (disposing) the connection (channel) with the Observable in both synchronous (from within {@link onNext(Object)}) and asynchronous manner. @param d the Disposable instance whose {@link Disposabledispose()} can be called anytime to cancel the connection @since 2.0" />
       <item value="schedulers Transformer" />
       <item value="data Initialization" />
@@ -44,15 +53,6 @@
       <item value="username Focus Change Command" />
       <item value="username Clean Click Command" />
       <item value="usernameclean Switch Event" />
-      <item value="set Value" />
-      <item value="password Visible Click Command" />
-      <item value="password Click Command" />
-      <item value="password On Click Command" />
-      <item value="is Throttle First" />
-      <item value="throttle First" />
-      <item value="Shared Preferences Constant" />
-      <item value="login Name" />
-      <item value="username Switch Event" />
     </histories>
     <option name="languageScores">
       <map>
