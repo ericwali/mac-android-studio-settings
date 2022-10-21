@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="Execution failed for task ':app:processReleaseResources'. &gt; A failure occurred while executing com.android.build.gradle.internal.res.LinkApplicationAndroidResourcesTaskTaskAction &gt; Android resource linking failed ERROR:AAPT:" />
       <item value="core" />
       <item value="186 actionable tasks: 186 executed The build scan was not published due to a configuration problem. The Gradle Terms of Service have not been agreed to. For more information, please see https:gradle.comhelpplugin-terms-of-service. Alternatively, if you are using Gradle Enterprise, specify the server location. For more information, please see https:gradle.comhelpplugin-enterprise-config." />
       <item value="FAILURE: Build completed with 2 failures. 1: Task failed with an exception. ----------- What went wrong: Execution failed for task ':app:processDebugMainManifest'. &gt; Manifest merger failed with multiple errors, see logs Try: Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights. ============================================================================== 2: Task failed with an exception. ----------- What went wrong: Execution failed for task ':app:processReleaseMainManifest'. &gt; Manifest merger failed with multiple errors, see logs Try: Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights. ============================================================================== Get more help at https:help.gradle.org BUILD FAILED in 44s 186 actionable tasks: 186 executed The build scan was not published due to a configuration problem. The Gradle Terms of Service have not been agreed to. For more information, please see https:gradle.comhelpplugin-terms-of-service. Alternatively, if you are using Gradle Enterprise, specify the server location. For more information, please see https:gradle.comhelpplugin-enterprise-config." />
@@ -52,7 +53,6 @@
       <item value="single Task" />
       <item value="window Disable Preview" />
       <item value="window Is Translucent" />
-      <item value="grant Uri Permissions" />
     </histories>
     <option name="languageScores">
       <map>
