@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="login Click Command" />
       <item value="has Focus" />
       <item value="username Focus Change Command" />
       <item value="username Clean Click Command" />
@@ -52,7 +53,6 @@
       <item value="Crash Init Provider" />
       <item value="Custom Activity On Crash Init Provider" />
       <item value="Android Networking" />
-      <item value="ECustomActivityOnCrash: Your application class or your error activity have crashed, the custom activity will not be launched!" />
     </histories>
     <option name="languageScores">
       <map>
