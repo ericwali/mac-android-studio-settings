@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="Syntax error: no viable alternative at input '&lt;EOF&gt;'" />
+      <item value="EOF" />
+      <item value="Dagger does not support injection into private fields private MapLogisticsMapper mapLogisticsMapper;" />
+      <item value="UserswangxiangStudioProjectsorgkicc-collectappsrcmainjavacomkicccollectdicomponentMapperComponent.java:24: 错误: [DaggerMissingBinding] com.kicc.collect.service.Impl.MapLogisticsServiceImpl cannot be provided without an @Inject constructor or an @Provides-annotated method." />
       <item value="converter-gson" />
       <item value="post Catched Exception" />
       <item value="type Token" />
@@ -49,15 +53,11 @@
       <item value="The minCompileSdk (31) specified in a dependency's AAR metadata (META-INFcomandroidbuildgradleaar-metadata.properties) is greater than this module's compileSdkVersion (android-30). Dependency: androidx.camera:camera-view:1.2.0-alpha01." />
       <item value="One or more issues found when checking AAR metadata values:" />
       <item value="dependency's AAR metadata (META-INFcomandroidbuildgradleaar-metadata.properties) is greater than this module's compileSdkVersion (android-30)." />
-      <item value="SKIP" />
-      <item value="UserswangxiangStudioProjectsorgkicc-collectlibrarycoresrcmainjavacomkicccoreentityCommonEntity.java:16: 警告: Generating equalshashCode implementation but without a call to superclass, even though this class does not extend java.lang.Object. If this is intentional, add '@EqualsAndHashCode(callSuper=false)' to your type." />
-      <item value="Map Logistics Service" />
-      <item value="provide Map Logistics Service" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1942" />
-        <entry key="ENGLISH" value="1885" />
+        <entry key="ENGLISH" value="1886" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="7" />
         <entry key="GERMAN" value="2" />
