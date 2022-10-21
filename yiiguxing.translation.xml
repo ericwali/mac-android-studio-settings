@@ -3,6 +3,16 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="has Focus" />
+      <item value="username Focus Change Command" />
+      <item value="username Clean Click Command" />
+      <item value="usernameclean Switch Event" />
+      <item value="set Value" />
+      <item value="password Visible Click Command" />
+      <item value="password Click Command" />
+      <item value="password On Click Command" />
+      <item value="is Throttle First" />
+      <item value="throttle First" />
       <item value="Shared Preferences Constant" />
       <item value="login Name" />
       <item value="Nullable" />
@@ -43,16 +53,6 @@
       <item value="Custom Activity On Crash Init Provider" />
       <item value="Android Networking" />
       <item value="ECustomActivityOnCrash: Your application class or your error activity have crashed, the custom activity will not be launched!" />
-      <item value="java.lang.RuntimeException: Unable to create application com.kicc.collect.app.AppApplication: java.lang.NullPointerException: Attempt to invoke virtual method 'int io.github.inflationx.calligraphy3.CalligraphyConfig.getAttrId()' on a null object reference" />
-      <item value="full Sensor" />
-      <item value="Call stack: Context.getMainProject(Context.kt:117)←OnClickXmlDetector.visitAttribute(OnClickXmlDetector.kt:51)←ResourceVisitor.visitElement(ResourceVisitor.java:161)←ResourceVisitor.visitElement(ResourceVisitor.java:177)←ResourceVisitor.visitElement(ResourceVisitor.java:177)←ResourceVisitor.visitElement(ResourceVisitor.java:177)←ResourceVisitor.visitElement(ResourceVisitor.java:177)←ResourceVisitor.visitFile(ResourceVisitor.java:125)←LintDrivercheckResourceFolder1.run(LintDriver.kt:2221)←LintClient.runReadAction(LintClient.kt:1780)←LintDriverLintClientWrapper.runReadAction(LintDriver.kt:2647)←LintDriver.checkResourceFolder(LintDriver.kt:2216)←LintDriver.checkResFolder(LintDriver.kt:2169)←LintDriver.runFileDetectors(LintDriver.kt:1364)←LintDriver.checkProject(LintDriver.kt:1153)←LintDriver.checkProjectRoot(LintDriver.kt:629)←LintDriver.accesscheckProjectRoot(LintDriver.kt:154)←LintDriveranalyzeOnly1.invoke(LintDriver.kt:443)←LintDriveranalyzeOnly1.invoke(LintDriver.kt:436)←LintDriver.doAnalyze(LintDriver.kt:503) [LintError]" />
-      <item value="Execution failed for task ':app:lintDebug'. &gt; A failure occurred while executing com.android.build.gradle.internal.lint.AndroidLintTaskAndroidLintLauncherWorkAction &gt; There was a failure while executing work items &gt; A failure occurred while executing com.android.build.gradle.internal.lint.AndroidLintWorkAction &gt; Lint found errors in the project; aborting build." />
-      <item value="abort On Error" />
-      <item value="Contact the vendor of the lint issue to get it fixedupdated (if known, listed below), and in the meantime you can try to work around this by disabling the following issues: &quot;UsingOnClickInXml&quot; Issue Vendors: Vendor: Android Open Source Project (appcompat-1.3.1) Identifier: appcompat-1.3.1" />
-      <item value="This does not work correctly when running in AGP (7.0.4). In particular, there may be false positives or false negatives because the lint check may be using the minSdkVersion or manifest information from the library instead of any consuming app module." />
-      <item value="Error: The lint detector androidx.appcompat.view.OnClickXmlDetector" />
-      <item value="Error: The lint detector androidx.appcompat.view.OnClickXmlDetector called context.getMainProject() during module analysis." />
-      <item value="Android Lint Task Android Lint Launcher Work Action" />
     </histories>
     <option name="languageScores">
       <map>
