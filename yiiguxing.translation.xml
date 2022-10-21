@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="get Declared Fields" />
       <item value="disposable" />
       <item value="do On Subscribe" />
       <item value="on Cleared" />
@@ -52,7 +53,6 @@
       <item value="orientation" />
       <item value="vertical" />
       <item value="layout weight" />
-      <item value="set Image Resource" />
     </histories>
     <option name="languageScores">
       <map>
