@@ -3,6 +3,15 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="Purpose Trancesport Activity" />
+      <item value="enable Background Location" />
+      <item value="disable Background Location" />
+      <item value="on Resume" />
+      <item value="Tools Activity" />
+      <item value="Purpose Sign In Activity" />
+      <item value="Location Purpose Activity" />
+      <item value="Location Back Ground Activity" />
+      <item value="Diagnose Demo Activity" />
       <item value="WAKE LOCK" />
       <item value="ACCESS WIFI STATE" />
       <item value="REQUEST INSTALL PACKAGES" />
@@ -44,15 +53,6 @@
       <item value="Annotation that can be used to mark methods on {@link LifecycleObserver} implementations that should be invoked to handle lifecycle events. @deprecated This annotation required the usage of code generation or reflection, which should be avoided. Use {@link DefaultLifecycleObserver} or {@link LifecycleEventObserver} instead." />
       <item value="print Stack Trace" />
       <item value="finish Refreshing" />
-      <item value="mmkv With ID" />
-      <item value="KICC COLLECT TOKEN ENHANCER" />
-      <item value="set Default Cache Disk Utils" />
-      <item value="m Cache Memory Utils" />
-      <item value="get Declared Fields" />
-      <item value="disposable" />
-      <item value="do On Subscribe" />
-      <item value="promise" />
-      <item value="Rx Java 2 Call Adapter Factory" />
     </histories>
     <option name="languageScores">
       <map>
