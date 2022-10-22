@@ -3,7 +3,19 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="should Show Request Permission Rationale" />
+      <item value="should Show My Request Permission Rationale" />
+      <item value="show Missing Permission Dialog" />
+      <item value="verify Permissions" />
+      <item value="on Request Permissions Result" />
+      <item value="PERMISSON REQUESTCODE" />
+      <item value="on Resume" />
+      <item value="need Check Back Location" />
+      <item value="privacy Compliance" />
+      <item value="get Application Info" />
       <item value="ACCESS BACKGROUND LOCATION" />
+      <item value="BACK LOCATION PERMISSION" />
+      <item value="ACCESS COARSE LOCATION" />
       <item value="elapsed Realtime" />
       <item value="alarm Pi" />
       <item value="Alarm Manager" />
@@ -17,7 +29,6 @@
       <item value="Purpose Trancesport Activity" />
       <item value="enable Background Location" />
       <item value="disable Background Location" />
-      <item value="on Resume" />
       <item value="Tools Activity" />
       <item value="Purpose Sign In Activity" />
       <item value="Location Back Ground Activity" />
@@ -29,7 +40,6 @@
       <item value="WRITE EXTERNAL STORAGE" />
       <item value="ACCESS FINE LOCATION" />
       <item value="COARSE" />
-      <item value="ACCESS COARSE LOCATION" />
       <item value="Hide Returns Transformation Method" />
       <item value="Password Transformation Method" />
       <item value="set Transformation Method" />
@@ -43,16 +53,6 @@
       <item value="config.is Show Error Details" />
       <item value="close Bugly" />
       <item value="The display type must be specified" />
-      <item value="are you ok" />
-      <item value="Response Exception" />
-      <item value="Illegal Argument Exception" />
-      <item value="Provides the Observer with the means of cancelling (disposing) the connection (channel) with the Observable in both synchronous (from within {@link onNext(Object)}) and asynchronous manner. @param d the Disposable instance whose {@link Disposabledispose()} can be called anytime to cancel the connection @since 2.0" />
-      <item value="schedulers Transformer" />
-      <item value="data Initialization" />
-      <item value="Nullable" />
-      <item value="finish" />
-      <item value="finish Affinity" />
-      <item value="on Cleared" />
     </histories>
     <option name="languageScores">
       <map>
