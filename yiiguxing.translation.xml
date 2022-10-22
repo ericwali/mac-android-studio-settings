@@ -3,6 +3,11 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="Back Location" />
+      <item value="need Check Back Location" />
+      <item value="BACK LOCATION PERMISSION" />
+      <item value="need Request Permisson List" />
+      <item value="request Permissions" />
       <item value="should Show Request Permission Rationale" />
       <item value="should Show My Request Permission Rationale" />
       <item value="show Missing Permission Dialog" />
@@ -10,11 +15,9 @@
       <item value="on Request Permissions Result" />
       <item value="PERMISSON REQUESTCODE" />
       <item value="on Resume" />
-      <item value="need Check Back Location" />
       <item value="privacy Compliance" />
       <item value="get Application Info" />
       <item value="ACCESS BACKGROUND LOCATION" />
-      <item value="BACK LOCATION PERMISSION" />
       <item value="ACCESS COARSE LOCATION" />
       <item value="elapsed Realtime" />
       <item value="alarm Pi" />
@@ -50,9 +53,6 @@
       <item value="Unknown Entity Exception" />
       <item value="Invalid Stack Frame Exception" />
       <item value="Illegal State Exception" />
-      <item value="config.is Show Error Details" />
-      <item value="close Bugly" />
-      <item value="The display type must be specified" />
     </histories>
     <option name="languageScores">
       <map>
