@@ -3,10 +3,10 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="ACCESS BACKGROUND LOCATION" />
       <item value="elapsed Realtime" />
       <item value="alarm Pi" />
       <item value="Alarm Manager" />
-      <item value="ACCESS BACKGROUND LOCATION" />
       <item value="FOREGROUND SERVICE" />
       <item value="READ PHONE STATE" />
       <item value="WRITE SETTINGS" />
