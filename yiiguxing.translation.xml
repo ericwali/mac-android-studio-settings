@@ -3,6 +3,16 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="need Check Back Location" />
+      <item value="PERMISSON" />
+      <item value="REQUESTCODE" />
+      <item value="PERMISSON REQUESTCODE" />
+      <item value="verify Permissions" />
+      <item value="show Missing Permission Dialog" />
+      <item value="PERMISSION GRANTED" />
+      <item value="PERMISSION DENIED" />
+      <item value="DEFAULT KEYS DISABLE" />
+      <item value="on Request Permissions Result" />
       <item value="m Left View" />
       <item value="override Pending Transition" />
       <item value="kill Process" />
@@ -17,18 +27,13 @@
       <item value="update Privacy Show" />
       <item value="updateprivacyshow" />
       <item value="Maps Initializer" />
-      <item value="PERMISSON REQUESTCODE" />
       <item value="check Self Permission" />
       <item value="Back Location" />
-      <item value="need Check Back Location" />
       <item value="BACK LOCATION PERMISSION" />
       <item value="need Request Permisson List" />
       <item value="request Permissions" />
       <item value="should Show Request Permission Rationale" />
       <item value="should Show My Request Permission Rationale" />
-      <item value="show Missing Permission Dialog" />
-      <item value="verify Permissions" />
-      <item value="on Request Permissions Result" />
       <item value="on Resume" />
       <item value="get Application Info" />
       <item value="ACCESS BACKGROUND LOCATION" />
@@ -48,11 +53,6 @@
       <item value="disable Background Location" />
       <item value="Tools Activity" />
       <item value="Purpose Sign In Activity" />
-      <item value="Location Back Ground Activity" />
-      <item value="Diagnose Demo Activity" />
-      <item value="WAKE LOCK" />
-      <item value="ACCESS WIFI STATE" />
-      <item value="REQUEST INSTALL PACKAGES" />
     </histories>
     <option name="languageScores">
       <map>
