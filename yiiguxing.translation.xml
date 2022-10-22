@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="Hide Returns Transformation Method" />
+      <item value="Password Transformation Method" />
+      <item value="set Transformation Method" />
+      <item value="kc ic password show" />
       <item value="username Clean Visible Click Command" />
       <item value="username Visible Click Command" />
       <item value="visible" />
@@ -49,10 +53,6 @@
       <item value="rx Java" />
       <item value="observable" />
       <item value="Transform an ObservableSource by applying a particular Transformer function to it. &lt;p&gt; This method operates on the ObservableSource itself whereas {@link lift} operates on the ObservableSource's Observers. &lt;p&gt; If the operator you are creating is designed to act on the individual items emitted by a source ObservableSource, use {@link lift}. If your operator is designed to transform the source ObservableSource as a whole (for instance, by applying a particular set of existing RxJava operators to it) use {@code compose}. &lt;dl&gt; &lt;dt&gt;&lt;b&gt;Scheduler:&lt;b&gt;&lt;dt&gt; &lt;dd&gt;{@code compose} does not operate by default on a particular {@link Scheduler}.&lt;dd&gt; &lt;dl&gt;" />
-      <item value="compose" />
-      <item value="subscribe" />
-      <item value="login Click Command" />
-      <item value="has Focus" />
     </histories>
     <option name="languageScores">
       <map>
