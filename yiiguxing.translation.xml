@@ -3,6 +3,19 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="kill Process" />
+      <item value="Spannable" />
+      <item value="SPAN EXCLUSIVE EXCLUSIVE" />
+      <item value="Char Sequence" />
+      <item value="privacy Compliance" />
+      <item value="software Privacy Agreement" />
+      <item value="privacy Agreement" />
+      <item value="Compliance" />
+      <item value="update Privacy Agree" />
+      <item value="update Privacy Show" />
+      <item value="updateprivacyshow" />
+      <item value="Maps Initializer" />
+      <item value="PERMISSON REQUESTCODE" />
       <item value="check Self Permission" />
       <item value="Back Location" />
       <item value="need Check Back Location" />
@@ -14,9 +27,7 @@
       <item value="show Missing Permission Dialog" />
       <item value="verify Permissions" />
       <item value="on Request Permissions Result" />
-      <item value="PERMISSON REQUESTCODE" />
       <item value="on Resume" />
-      <item value="privacy Compliance" />
       <item value="get Application Info" />
       <item value="ACCESS BACKGROUND LOCATION" />
       <item value="ACCESS COARSE LOCATION" />
@@ -42,17 +53,6 @@
       <item value="REQUEST INSTALL PACKAGES" />
       <item value="Scoped Storage" />
       <item value="WRITE EXTERNAL STORAGE" />
-      <item value="ACCESS FINE LOCATION" />
-      <item value="COARSE" />
-      <item value="Hide Returns Transformation Method" />
-      <item value="Password Transformation Method" />
-      <item value="set Transformation Method" />
-      <item value="kc ic password show" />
-      <item value="username Clean Visible Click Command" />
-      <item value="username Visible Click Command" />
-      <item value="visible" />
-      <item value="Unknown Entity Exception" />
-      <item value="Invalid Stack Frame Exception" />
     </histories>
     <option name="languageScores">
       <map>
