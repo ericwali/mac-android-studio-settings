@@ -3,6 +3,11 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="Discount Valid" />
+      <item value="start Activity" />
+      <item value="m Order Info Text" />
+      <item value="add Valid" />
+      <item value="Single Call" />
       <item value="Discount Activity" />
       <item value="Constraint Layout" />
       <item value="Failed to find target with hash string 'android-25'" />
@@ -48,11 +53,6 @@
       <item value=": Not an array: class java.util.ArrayList" />
       <item value="java.lang.RuntimeException: Unable to resume activity {com.kicc.collect.debugcom.kicc.collect.ui.activity.LoginActivity}: java.lang.IllegalArgumentException: Not an array: class java.util.ArrayList" />
       <item value="EMobclickAgent: onStartSessionInternal can not be called in child process" />
-      <item value="Hide Returns Transformation Method" />
-      <item value="password Switch Event" />
-      <item value="password Visible Click Command" />
-      <item value="username Value Change Command" />
-      <item value="usernamevaluechangecommand" />
     </histories>
     <option name="languageScores">
       <map>
