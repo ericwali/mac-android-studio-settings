@@ -3,6 +3,19 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="Copyright (C) 2015 The Android Open Source Project Licensed under the Apache License, Version 2.0 (the &quot;License&quot;); you may not use this file except in compliance with the License. You may obtain a copy of the License at http:www.apache.orglicensesLICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an &quot;AS IS&quot; BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License" />
+      <item value="get Declared Field" />
+      <item value="m Message View" />
+      <item value="获取mAlert对象 Field mAlert = AlertDialog.class.getDeclaredField(&quot;mAlert&quot;); mAlert.setAccessible(true); Object mAlertController = mAlert.get(builder); 获取mTitleView并设置大小颜色 Field mTitle = mAlertController.getClass().getDeclaredField(&quot;mTitleView&quot;); mTitle.setAccessible(true); TextView mTitleView = (TextView) mTitle.get(mAlertController); mTitleView.setTypeface(Typeface.defaultFromStyle(Typeface.BOLD)); mTitleView.setTextColor(Color.YELLOW); mTitleView.setTextSize(40); 获取mMessageView并设置大小颜色 Field mMessage = mAlertController.getClass().getDeclaredField(&quot;mMessageView&quot;); mMessage.setAccessible(true); TextView mMessageView = (TextView) mMessage.get(mAlertController); mMessageView.setTypeface(Typeface.defaultFromStyle(Typeface.BOLD)); mMessageView.setTextColor(Color.RED); mMessageView.setTextSize(30);" />
+      <item value="Print Stream" />
+      <item value="print Stack Trace" />
+      <item value="UserInfo is disable" />
+      <item value="BOLD ITALIC" />
+      <item value="m Title View" />
+      <item value="set Accessible" />
+      <item value="BUTTON POSITIVE" />
+      <item value="BUTTON NEGATIVE" />
+      <item value="Spannable String Builder" />
       <item value="What went wrong: A problem occurred configuring project ':app'. &gt; Could not create task ':app:LoginActivity.main()'. &gt; SourceSet with name 'main' not found." />
       <item value="FAILURE: Build failed with an exception." />
       <item value="Source code recreated from a .class file by IntelliJ IDEA (powered by FernFlower decompiler)" />
@@ -40,24 +53,11 @@
       <item value="Creates an ObservableField that depends on {@code dependencies}. Typically, ObservableFields are passed as dependencies. When any dependency notifies changes, this ObservableField also notifies a change." />
       <item value="username Switch Event" />
       <item value="username Visible" />
-      <item value="on Focus Change Command" />
-      <item value="VISIBLE" />
-      <item value="INVISIBLE" />
-      <item value="start App Settings" />
-      <item value="set Cancelable" />
-      <item value="which" />
-      <item value="dialog" />
-      <item value="set Negative Button" />
-      <item value="PERMISSION GRANTED" />
-      <item value="set Positive Button" />
-      <item value="any Match" />
-      <item value="grant Results" />
-      <item value="verify Permissions" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1942" />
-        <entry key="ENGLISH" value="1887" />
+        <entry key="ENGLISH" value="1888" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="7" />
         <entry key="GERMAN" value="2" />
