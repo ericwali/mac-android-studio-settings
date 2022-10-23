@@ -3,6 +3,13 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="on Start" />
+      <item value="on Resume" />
+      <item value="on Stop" />
+      <item value="on Pause" />
+      <item value="android.content.ActivityNotFoundException: Unable to find explicit activity class {com.kicc.collect.debugcom.kicc.collect.ui.vm.PictureSelectorViewModel}; have you declared this activity in your AndroidManifest.xml, or does your intent not match its declared &lt;intent-filter&gt;?" />
+      <item value="EWindowManager: android.view.WindowLeaked: Activity com.kicc.collect.ui.activity.LoginActivity has leaked window DecorView@408afaf[LoginActivity] that was originally added here" />
+      <item value="that was originally added here" />
       <item value="java.lang.NullPointerException: Attempt to invoke virtual method 'com.kicc.core.bus.SingleLiveEvent com.kicc.core.listener.UiObservable.getCloseDialogEvent()' on a null object reference" />
       <item value="ECustomActivityOnCrash: App has crashed, executing CustomActivityOnCrash's UncaughtExceptionHandler" />
       <item value="Discount Valid" />
@@ -46,13 +53,6 @@
       <item value="invoke" />
       <item value="call Activity On Resume" />
       <item value="Caused by: java.lang.IllegalArgumentException: Not an array: class java.util.ArrayList" />
-      <item value="Uncaught Exception Handler" />
-      <item value="at android.app.ActivityThread.performResumeActivity(ActivityThread.java:4793)" />
-      <item value="at android.app.ActivityThread.performResumeActivity(ActivityThread.java:4793) at android.app.ActivityThread.handleResumeActivity(ActivityThread.java:4836)  at android.app.servertransaction.ResumeActivityItem.execute(ResumeActivityItem.java:54)  at android.app.servertransaction.ActivityTransactionItem.execute(ActivityTransactionItem.java:45)  at android.app.servertransaction.TransactionExecutor.executeLifecycleState(TransactionExecutor.java:176)  at android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:97)  at android.app.ActivityThreadH.handleMessage(ActivityThread.java:2308)" />
-      <item value="Runtime Init Method And Args Caller" />
-      <item value="java.lang.IllegalArgumentException: Not an array: class java.util.ArrayList" />
-      <item value=": Not an array: class java.util.ArrayList" />
-      <item value="java.lang.RuntimeException: Unable to resume activity {com.kicc.collect.debugcom.kicc.collect.ui.activity.LoginActivity}: java.lang.IllegalArgumentException: Not an array: class java.util.ArrayList" />
     </histories>
     <option name="languageScores">
       <map>
