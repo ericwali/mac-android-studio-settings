@@ -3,16 +3,33 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="start App Settings" />
+      <item value="set Cancelable" />
+      <item value="which" />
+      <item value="dialog" />
+      <item value="set Negative Button" />
+      <item value="PERMISSION GRANTED" />
+      <item value="set Positive Button" />
+      <item value="any Match" />
+      <item value="grant Results" />
+      <item value="verify Permissions" />
+      <item value="on Request Permissions Result" />
+      <item value="should Show My Request Permission Rationale" />
+      <item value="check My Self Permission" />
+      <item value="find Denied Permissions" />
+      <item value="check Self Permission" />
+      <item value="need Request Permisson List" />
+      <item value="need Request Permission List" />
+      <item value="Throwable" />
+      <item value="check Permissions" />
+      <item value="set Variable Id" />
       <item value="need Check Back Location" />
       <item value="PERMISSON" />
       <item value="REQUESTCODE" />
       <item value="PERMISSON REQUESTCODE" />
-      <item value="verify Permissions" />
       <item value="show Missing Permission Dialog" />
-      <item value="PERMISSION GRANTED" />
       <item value="PERMISSION DENIED" />
       <item value="DEFAULT KEYS DISABLE" />
-      <item value="on Request Permissions Result" />
       <item value="m Left View" />
       <item value="override Pending Transition" />
       <item value="kill Process" />
@@ -27,32 +44,15 @@
       <item value="update Privacy Show" />
       <item value="updateprivacyshow" />
       <item value="Maps Initializer" />
-      <item value="check Self Permission" />
       <item value="Back Location" />
       <item value="BACK LOCATION PERMISSION" />
-      <item value="need Request Permisson List" />
       <item value="request Permissions" />
       <item value="should Show Request Permission Rationale" />
-      <item value="should Show My Request Permission Rationale" />
       <item value="on Resume" />
       <item value="get Application Info" />
       <item value="ACCESS BACKGROUND LOCATION" />
       <item value="ACCESS COARSE LOCATION" />
       <item value="elapsed Realtime" />
-      <item value="alarm Pi" />
-      <item value="Alarm Manager" />
-      <item value="FOREGROUND SERVICE" />
-      <item value="READ PHONE STATE" />
-      <item value="WRITE SETTINGS" />
-      <item value="Caused by: java.net.SocketTimeoutException: Read timed out" />
-      <item value="on Activity Created" />
-      <item value="Location Purpose Activity" />
-      <item value="get Last Known Location" />
-      <item value="Purpose Trancesport Activity" />
-      <item value="enable Background Location" />
-      <item value="disable Background Location" />
-      <item value="Tools Activity" />
-      <item value="Purpose Sign In Activity" />
     </histories>
     <option name="languageScores">
       <map>
