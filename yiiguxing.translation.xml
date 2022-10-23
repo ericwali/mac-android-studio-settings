@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="EWindowManager: android.view.WindowLeaked: Activity com.kicc.collect.ui.activity.LoginActivity has leaked window DecorView@92a76fd[LoginActivity] that was originally added here" />
+      <item value="auto Login" />
+      <item value="internal" />
+      <item value="Alert Controller" />
       <item value="Copyright (C) 2015 The Android Open Source Project Licensed under the Apache License, Version 2.0 (the &quot;License&quot;); you may not use this file except in compliance with the License. You may obtain a copy of the License at http:www.apache.orglicensesLICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an &quot;AS IS&quot; BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License" />
       <item value="get Declared Field" />
       <item value="m Message View" />
@@ -49,10 +53,6 @@
       <item value="notify Change" />
       <item value="on Property Changed" />
       <item value="Dependency Callback" />
-      <item value="he Observables that this ObservableField depends on." />
-      <item value="Creates an ObservableField that depends on {@code dependencies}. Typically, ObservableFields are passed as dependencies. When any dependency notifies changes, this ObservableField also notifies a change." />
-      <item value="username Switch Event" />
-      <item value="username Visible" />
     </histories>
     <option name="languageScores">
       <map>
