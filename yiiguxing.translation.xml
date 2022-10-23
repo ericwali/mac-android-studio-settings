@@ -3,6 +3,11 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="username Switch Event" />
+      <item value="username Visible" />
+      <item value="on Focus Change Command" />
+      <item value="VISIBLE" />
+      <item value="INVISIBLE" />
       <item value="start App Settings" />
       <item value="set Cancelable" />
       <item value="which" />
@@ -48,11 +53,6 @@
       <item value="BACK LOCATION PERMISSION" />
       <item value="request Permissions" />
       <item value="should Show Request Permission Rationale" />
-      <item value="on Resume" />
-      <item value="get Application Info" />
-      <item value="ACCESS BACKGROUND LOCATION" />
-      <item value="ACCESS COARSE LOCATION" />
-      <item value="elapsed Realtime" />
     </histories>
     <option name="languageScores">
       <map>
