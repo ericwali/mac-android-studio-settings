@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="get Location Str" />
       <item value="cb Once Lastest" />
       <item value="m Bottom Layout" />
       <item value="ACCESS BACKGROUND LOCATION" />
@@ -52,7 +53,6 @@
       <item value="First Setting Activity" />
       <item value="Boot Receiver" />
       <item value="or does your intent not match its declared &lt;intent-filter&gt;?" />
-      <item value="EWindowManager: android.view.WindowLeaked: Activity com.kicc.collect.ui.activity.LoginActivity has leaked window DecorView@92a76fd[LoginActivity] that was originally added here" />
     </histories>
     <option name="languageScores">
       <map>
