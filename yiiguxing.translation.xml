@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="public static final int LOCATION_TYPE_MAP_FOLLOW = 2;" />
+      <item value="LOCATION TYPE LOCATE" />
+      <item value="MAP TYPE BUS" />
       <item value="lint Vital Release" />
       <item value="Factory Named Domain Object Container" />
       <item value="Move the tests to testsjava, testsres, etc... instrumentTest.setRoot('tests') Move the build types to build-types&lt;type&gt; For instance, build-typesdebugjava, build-typesdebugAndroidManifest.xml, ... This moves them out of them default location under src&lt;type&gt;... which would conflict with src being used by the main source set. Adding new build types or product flavors should be accompanied by a similar customization" />
@@ -50,9 +53,6 @@
       <item value="update Privacy Show" />
       <item value="on Activity Created" />
       <item value="set Location Purpose" />
-      <item value="Sign In" />
-      <item value="A Map Location Client Option" />
-      <item value="on Drive Route Searched" />
     </histories>
     <option name="languageScores">
       <map>
