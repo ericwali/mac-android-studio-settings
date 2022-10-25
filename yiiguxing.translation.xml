@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="register Ui Observable" />
+      <item value="init View Data Binding" />
       <item value="on View Created" />
       <item value="a Map Fragment" />
       <item value="Custom Map Style Options" />
@@ -51,8 +53,6 @@
       <item value="PERMISSION DENIED" />
       <item value="should Show Request Permission Rationale" />
       <item value="PERMISSION GRANTED" />
-      <item value="Toast Utils" />
-      <item value="wechat Login Click Command" />
     </histories>
     <option name="languageScores">
       <map>
