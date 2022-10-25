@@ -3,6 +3,13 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="Route Search" />
+      <item value="update Privacy Show" />
+      <item value="on Activity Created" />
+      <item value="set Location Purpose" />
+      <item value="Sign In" />
+      <item value="A Map Location Client Option" />
+      <item value="on Drive Route Searched" />
       <item value="Hight Accuracy" />
       <item value="require Activity" />
       <item value="Return the {@link FragmentActivity} this fragment is currently associated with. @throws IllegalStateException if not currently associated with an activity or if associated only with a context. @see getActivity()" />
@@ -46,13 +53,6 @@
       <item value="android.content.ActivityNotFoundException: Unable to find explicit activity class {com.kicc.collect.debugcom.kicc.collect.ui.vm.PictureSelectorViewModel}; have you declared this activity in your AndroidManifest.xml, or does your intent not match its declared &lt;intent-filter&gt;?" />
       <item value="EWindowManager: android.view.WindowLeaked: Activity com.kicc.collect.ui.activity.LoginActivity has leaked window DecorView@408afaf[LoginActivity] that was originally added here" />
       <item value="that was originally added here" />
-      <item value="java.lang.NullPointerException: Attempt to invoke virtual method 'com.kicc.core.bus.SingleLiveEvent com.kicc.core.listener.UiObservable.getCloseDialogEvent()' on a null object reference" />
-      <item value="ECustomActivityOnCrash: App has crashed, executing CustomActivityOnCrash's UncaughtExceptionHandler" />
-      <item value="Discount Valid" />
-      <item value="start Activity" />
-      <item value="m Order Info Text" />
-      <item value="add Valid" />
-      <item value="Single Call" />
     </histories>
     <option name="languageScores">
       <map>
