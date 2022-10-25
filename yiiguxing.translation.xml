@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="set Gesture Scale By Map Center" />
+      <item value="zoom bottom right" />
+      <item value="set All Gestures Enabled" />
       <item value="topbar" />
       <item value="public static final int LOCATION_TYPE_MAP_FOLLOW = 2;" />
       <item value="LOCATION TYPE LOCATE" />
@@ -50,9 +53,6 @@
       <item value="EWindowManager: android.view.WindowLeaked: Activity com.kicc.collect.ui.activity.LoginActivity has leaked window DecorView@21d12f0[LoginActivity] that was originally added here" />
       <item value="bt location" />
       <item value="定位停止" />
-      <item value="Route Search" />
-      <item value="update Privacy Show" />
-      <item value="on Activity Created" />
     </histories>
     <option name="languageScores">
       <map>
