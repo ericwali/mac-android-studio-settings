@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="topbar" />
       <item value="public static final int LOCATION_TYPE_MAP_FOLLOW = 2;" />
       <item value="LOCATION TYPE LOCATE" />
       <item value="MAP TYPE BUS" />
@@ -52,7 +53,6 @@
       <item value="Route Search" />
       <item value="update Privacy Show" />
       <item value="on Activity Created" />
-      <item value="set Location Purpose" />
     </histories>
     <option name="languageScores">
       <map>
