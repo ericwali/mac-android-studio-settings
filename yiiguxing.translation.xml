@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="set Map Custom Style" />
+      <item value="set Map Custom Style File" />
+      <item value="m Style Checkbox" />
+      <item value="set On Checked Change Listener" />
       <item value="Placeholder Fragment" />
       <item value="Custom View With Typeface Support" />
       <item value="italic" />
@@ -49,10 +53,6 @@
       <item value="Hight Accuracy" />
       <item value="require Activity" />
       <item value="Return the {@link FragmentActivity} this fragment is currently associated with. @throws IllegalStateException if not currently associated with an activity or if associated only with a context. @see getActivity()" />
-      <item value="location Client" />
-      <item value="init Location" />
-      <item value="m Location Client" />
-      <item value="get Location Str" />
     </histories>
     <option name="languageScores">
       <map>
