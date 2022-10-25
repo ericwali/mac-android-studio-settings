@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="a Map Fragment" />
       <item value="Custom Map Style Options" />
       <item value="map View" />
       <item value="get Fragment Manager" />
@@ -52,7 +53,6 @@
       <item value="Toast Utils" />
       <item value="wechat Login Click Command" />
       <item value="is Throttle First" />
-      <item value="password Switch Event" />
     </histories>
     <option name="languageScores">
       <map>
