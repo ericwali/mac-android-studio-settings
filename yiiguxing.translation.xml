@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="bt location" />
+      <item value="定位停止" />
       <item value="Route Search" />
       <item value="update Privacy Show" />
       <item value="on Activity Created" />
@@ -51,13 +53,11 @@
       <item value="on Stop" />
       <item value="on Pause" />
       <item value="android.content.ActivityNotFoundException: Unable to find explicit activity class {com.kicc.collect.debugcom.kicc.collect.ui.vm.PictureSelectorViewModel}; have you declared this activity in your AndroidManifest.xml, or does your intent not match its declared &lt;intent-filter&gt;?" />
-      <item value="EWindowManager: android.view.WindowLeaked: Activity com.kicc.collect.ui.activity.LoginActivity has leaked window DecorView@408afaf[LoginActivity] that was originally added here" />
-      <item value="that was originally added here" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1943" />
-        <entry key="ENGLISH" value="1888" />
+        <entry key="ENGLISH" value="1889" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="7" />
         <entry key="GERMAN" value="2" />
