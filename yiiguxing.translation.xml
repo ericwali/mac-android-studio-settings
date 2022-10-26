@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="set Gps First" />
+      <item value="A Map Location Client Option" />
       <item value="ent.setLocationListener(com.amap.api.location.AMapLocationListener)' on a null object reference" />
       <item value="set Cancelable" />
       <item value="GPS STATUS NOGPSPROVIDER" />
@@ -51,8 +53,6 @@
       <item value="get Fragment Manager" />
       <item value="get Support Fragment Manager" />
       <item value="Texture Support Map Fragment" />
-      <item value="Texture Map View" />
-      <item value="on Create" />
     </histories>
     <option name="languageScores">
       <map>
