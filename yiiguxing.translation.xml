@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="wake Up Screen" />
+      <item value="send Broadcast" />
+      <item value="Location Service" />
       <item value="current Time Millis" />
       <item value="set When" />
       <item value="notification Channel" />
@@ -50,9 +53,6 @@
       <item value="java.lang.IllegalArgumentException: com.kicc.collect.debug: Targeting S+ (version 31 and above) requires that one of FLAG_IMMUTABLE or FLAG_MUTABLE be specified when creating a PendingIntent." />
       <item value="CustomActivityOnCrash: App has crashed, executing CustomActivityOnCrash's UncaughtExceptionHandler java.lang.IllegalArgumentException: com.kicc.collect.debug: Targeting S+ (version 31 and above) requires that one of FLAG_IMMUTABLE or FLAG_MUTABLE be specified when creating a PendingIntent. Strongly consider using FLAG_IMMUTABLE, only use FLAG_MUTABLE if some functionality depends on the PendingIntent being mutable, e.g. if it needs to be used with inline replies or bubbles." />
       <item value="May be FLAG_ONE_SHOT, FLAG_NO_CREATE, FLAG_CANCEL_CURRENT, FLAG_UPDATE_CURRENT, FLAG_IMMUTABLE or any of the flags as supported by Intent.fillIn() to control which unspecified parts of the intent that can be supplied when the actual send happens." />
-      <item value="Standard name of the GNSS location provider. &lt;p&gt;If present, this provider determines location using GNSS satellites. The responsiveness and accuracy of location fixes may depend on GNSS signal conditions. &lt;p&gt;The extras Bundle for locations derived by this location provider may contain the following keyvalue pairs: &lt;ul&gt; &lt;li&gt; satellites - the number of satellites used to derive the fix" />
-      <item value="fix" />
-      <item value="KEY LOCATION CHANGED" />
     </histories>
     <option name="languageScores">
       <map>
