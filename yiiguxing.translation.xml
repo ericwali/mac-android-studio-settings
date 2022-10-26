@@ -3,16 +3,25 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="May be FLAG_ONE_SHOT, FLAG_NO_CREATE, FLAG_CANCEL_CURRENT, FLAG_UPDATE_CURRENT, FLAG_IMMUTABLE or any of the flags as supported by Intent.fillIn() to control which unspecified parts of the intent that can be supplied when the actual send happens." />
+      <item value="alarm Pending Intent" />
+      <item value="Pending Intent" />
+      <item value="Standard name of the GNSS location provider. &lt;p&gt;If present, this provider determines location using GNSS satellites. The responsiveness and accuracy of location fixes may depend on GNSS signal conditions. &lt;p&gt;The extras Bundle for locations derived by this location provider may contain the following keyvalue pairs: &lt;ul&gt; &lt;li&gt; satellites - the number of satellites used to derive the fix" />
+      <item value="fix" />
+      <item value="KEY LOCATION CHANGED" />
+      <item value="ACTION LOCALE SETTINGS" />
+      <item value="ACTION LOCALE CHANGED" />
+      <item value="LOCATION" />
+      <item value="alarmintent" />
+      <item value="Intent Filter" />
+      <item value="alarm Receiver" />
       <item value="start Location" />
       <item value="register Receiver" />
       <item value="get System Service" />
       <item value="alarm Pi" />
       <item value="get Broadcast" />
       <item value="Pending" />
-      <item value="Pending Intent" />
       <item value="定义一个Pending Intent对象" />
-      <item value="Intent Filter" />
-      <item value="LOCATION" />
       <item value="alarm Intent" />
       <item value="set Location Listener" />
       <item value="set Gps First" />
@@ -44,15 +53,6 @@
       <item value="Custom View With Typeface Support" />
       <item value="italic" />
       <item value="nThis is a TextView inflated from a ViewStub" />
-      <item value="add Custom Style" />
-      <item value="set Font Attr Id" />
-      <item value="Calligraphy Config" />
-      <item value="Calligraphy Interceptor" />
-      <item value="monospace" />
-      <item value="layout align Parent Bottom" />
-      <item value="gone" />
-      <item value="padding" />
-      <item value="center vertical" />
     </histories>
     <option name="languageScores">
       <map>
