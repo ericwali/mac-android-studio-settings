@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="Device Sensors" />
+      <item value="rg Geo Language" />
+      <item value="set Location Option" />
       <item value="set Gesture Scale By Map Center" />
       <item value="zoom bottom right" />
       <item value="set All Gestures Enabled" />
@@ -50,9 +53,6 @@
       <item value="SOFTWARE PRIVACY AGREEMENT AUTH" />
       <item value="SOFTWARE PRIVACY AGREEMENT" />
       <item value="SOFTWAREP RIVACY" />
-      <item value="EWindowManager: android.view.WindowLeaked: Activity com.kicc.collect.ui.activity.LoginActivity has leaked window DecorView@21d12f0[LoginActivity] that was originally added here" />
-      <item value="bt location" />
-      <item value="定位停止" />
     </histories>
     <option name="languageScores">
       <map>
