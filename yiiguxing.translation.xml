@@ -3,6 +3,18 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="start Location" />
+      <item value="register Receiver" />
+      <item value="get System Service" />
+      <item value="alarm Pi" />
+      <item value="get Broadcast" />
+      <item value="Pending" />
+      <item value="Pending Intent" />
+      <item value="定义一个Pending Intent对象" />
+      <item value="Intent Filter" />
+      <item value="LOCATION" />
+      <item value="alarm Intent" />
+      <item value="set Location Listener" />
       <item value="set Gps First" />
       <item value="A Map Location Client Option" />
       <item value="ent.setLocationListener(com.amap.api.location.AMapLocationListener)' on a null object reference" />
@@ -41,23 +53,11 @@
       <item value="gone" />
       <item value="padding" />
       <item value="center vertical" />
-      <item value="bottom layout" />
-      <item value="home bottom layout" />
-      <item value="on Pause" />
-      <item value="register Ui Observable" />
-      <item value="init View Data Binding" />
-      <item value="on View Created" />
-      <item value="a Map Fragment" />
-      <item value="Custom Map Style Options" />
-      <item value="map View" />
-      <item value="get Fragment Manager" />
-      <item value="get Support Fragment Manager" />
-      <item value="Texture Support Map Fragment" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1943" />
-        <entry key="ENGLISH" value="1889" />
+        <entry key="ENGLISH" value="1890" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="7" />
         <entry key="GERMAN" value="2" />
