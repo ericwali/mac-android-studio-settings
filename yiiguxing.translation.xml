@@ -3,6 +3,17 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="get Deliver" />
+      <item value="do In Background" />
+      <item value="is Schedule" />
+      <item value="Simple Task" />
+      <item value="public abstract static class SimpleTask&lt;T&gt; extends Task&lt;T&gt; {" />
+      <item value="Thread" />
+      <item value="is Check" />
+      <item value="run" />
+      <item value="on Start Command" />
+      <item value="start Location" />
+      <item value="send Broadcast" />
       <item value="stop Foreground" />
       <item value="WAKE LOCK" />
       <item value="PARTIAL WAKE LOCK" />
@@ -20,11 +31,9 @@
       <item value="backstage Keep Service" />
       <item value="Keep Service" />
       <item value="start Foreground" />
-      <item value="send Broadcast" />
       <item value="intent 1" />
       <item value="is Background" />
       <item value="Utils Context Of Gaode" />
-      <item value="on Start Command" />
       <item value="Keep" />
       <item value="Gaode Library Service" />
       <item value="foreground Service Type" />
@@ -44,15 +53,6 @@
       <item value="Wifi Auto Close Delegate" />
       <item value="I Wifi Auto Close Delegate" />
       <item value="set Small Icon" />
-      <item value="wake Up Screen" />
-      <item value="Location Service" />
-      <item value="current Time Millis" />
-      <item value="set When" />
-      <item value="notification Channel" />
-      <item value="create Notification Channel" />
-      <item value="Higher notification importance: shows everywhere, makes noise and peeks. May use full screen intents." />
-      <item value="Default notification importance: shows everywhere, makes noise, but does not visually intrude." />
-      <item value="IMPORTANCE MIN" />
     </histories>
     <option name="languageScores">
       <map>
