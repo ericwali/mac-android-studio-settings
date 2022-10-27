@@ -3,6 +3,13 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="Background Location Task Interval Time" />
+      <item value="Background Location Task Interval" />
+      <item value="Notification" />
+      <item value="set Small Icon" />
+      <item value="set View Visibility" />
+      <item value="Remote Views" />
+      <item value="set Sum Distance m" />
       <item value="close Gaode Service" />
       <item value="ACTION USER PRESENT" />
       <item value="ACTION SCREEN OFF" />
@@ -46,13 +53,6 @@
       <item value="Thread Pool Executor 4 Util" />
       <item value="priority Pools" />
       <item value="create Pool" />
-      <item value="TYPE PRIORITY POOLS" />
-      <item value="NORM PRIORITY" />
-      <item value="get Pool By Type And Priority" />
-      <item value="Executor Service" />
-      <item value="Initiates an orderly shutdown in which previously submitted tasks are executed, but no new tasks will be accepted. Invocation has no additional effect if already shut down. This method does not wait for previously submitted tasks to complete execution. Use awaitTermination to do that." />
-      <item value="shutdown" />
-      <item value="Cancel the given tasks. Params: tasks – The tasks to cancel." />
     </histories>
     <option name="languageScores">
       <map>
