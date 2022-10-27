@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="ACTION USER PRESENT" />
+      <item value="ACTION SCREEN ON" />
       <item value="acquire" />
       <item value="ACTION SCREEN OFF" />
       <item value="Held" />
@@ -16,8 +18,6 @@
       <item value="elapsed realtime wakeup" />
       <item value="has Screen On" />
       <item value="Broadcast Action: Sent when the user is present after device wakes up (e.g when the keyguard is gone). This is a protected intent that can only be sent by the system." />
-      <item value="ACTION USER PRESENT" />
-      <item value="ACTION SCREEN ON" />
       <item value="Wake Lock Screen Receiver" />
       <item value="upload" />
       <item value="register Power Wake Lock Receiver" />
