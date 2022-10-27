@@ -3,11 +3,17 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
-      <item value="set Location Listener" />
+      <item value="PERSON USER ID" />
+      <item value="TERMINATED" />
+      <item value="RUNNABLE" />
       <item value="is Register Power Wake Lock Receiver" />
+      <item value="Location Request Enum" />
+      <item value="is trace started" />
+      <item value="alarm Manager" />
+      <item value="register Receiver" />
+      <item value="set Location Listener" />
       <item value="sum Distance m" />
       <item value="creat Notification" />
-      <item value="is trace started" />
       <item value="distance Listen" />
       <item value="background Location Keep Front Service Intent" />
       <item value="notification Channel" />
@@ -24,7 +30,6 @@
       <item value="close Background Location Task" />
       <item value="close Gaode Service" />
       <item value="Alarm Location Receiver" />
-      <item value="register Receiver" />
       <item value="register Power Wake Lock Receiver" />
       <item value="close Service And Receiver" />
       <item value="has Reg Alarm" />
@@ -48,11 +53,6 @@
       <item value="Wake Lock" />
       <item value="power Manager" />
       <item value="track" />
-      <item value="Power Manager" />
-      <item value="Receiver" />
-      <item value="register Power" />
-      <item value="register Power Receiver" />
-      <item value="service Intent" />
     </histories>
     <option name="languageScores">
       <map>
