@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="notification Channel" />
       <item value="is Register Location Receiver" />
       <item value="start Background Location Task" />
       <item value="front Service" />
@@ -52,7 +53,6 @@
       <item value="set Small Icon" />
       <item value="set View Visibility" />
       <item value="Remote Views" />
-      <item value="set Sum Distance m" />
     </histories>
     <option name="languageScores">
       <map>
