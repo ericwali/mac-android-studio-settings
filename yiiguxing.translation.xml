@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="get Application Context" />
+      <item value="A Map Location Client" />
       <item value="send Broadcast" />
       <item value="start Foreground" />
       <item value="creat Notification" />
@@ -51,8 +53,6 @@
       <item value="Simple Task" />
       <item value="public abstract static class SimpleTask&lt;T&gt; extends Task&lt;T&gt; {" />
       <item value="Thread" />
-      <item value="is Check" />
-      <item value="run" />
     </histories>
     <option name="languageScores">
       <map>
