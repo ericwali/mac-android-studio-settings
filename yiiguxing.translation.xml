@@ -3,6 +3,11 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="WAKE LOCK" />
+      <item value="ACCESS LOCATION EXTRA COMMANDS" />
+      <item value="DISABLE KEYGUARD" />
+      <item value="REQUEST INSTALL PACKAGES" />
+      <item value="backstage Keep Service" />
       <item value="Keep Service" />
       <item value="stop Foreground" />
       <item value="start Foreground" />
@@ -48,11 +53,6 @@
       <item value="is Create Notification Channel" />
       <item value="NOTIFICATION CHANNEL NAME" />
       <item value="Background Location" />
-      <item value="Notification Channel" />
-      <item value="is Create Channel" />
-      <item value="get System Service" />
-      <item value="build Notification" />
-      <item value="var 1" />
     </histories>
     <option name="languageScores">
       <map>
