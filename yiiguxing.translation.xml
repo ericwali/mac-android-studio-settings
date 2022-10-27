@@ -3,6 +3,15 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="stop Foreground" />
+      <item value="start Foreground" />
+      <item value="send Broadcast" />
+      <item value="intent 1" />
+      <item value="is Background" />
+      <item value="Utils Context Of Gaode" />
+      <item value="on Start Command" />
+      <item value="Keep" />
+      <item value="Gaode Library Service" />
       <item value="foreground Service Type" />
       <item value="HIDDEN APPS CONFIG ACTIVITY" />
       <item value="A Map Location Listener" />
@@ -22,7 +31,6 @@
       <item value="I Wifi Auto Close Delegate" />
       <item value="set Small Icon" />
       <item value="wake Up Screen" />
-      <item value="send Broadcast" />
       <item value="Location Service" />
       <item value="current Time Millis" />
       <item value="set When" />
@@ -45,14 +53,6 @@
       <item value="build Notification" />
       <item value="var 1" />
       <item value="on Stop" />
-      <item value="enable Background Location" />
-      <item value="disable Background Location" />
-      <item value="set Location Listener" />
-      <item value="set Repeating" />
-      <item value="gps Request Time Interval" />
-      <item value="Interval" />
-      <item value="alarm Pending Intent" />
-      <item value="Pending Intent" />
     </histories>
     <option name="languageScores">
       <map>
