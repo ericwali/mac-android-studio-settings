@@ -3,6 +3,12 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="is Register Alarm Location Receiver" />
+      <item value="register Receiver And Power" />
+      <item value="background Location Keep Service Intent" />
+      <item value="start Background Location Task" />
+      <item value="close Background Location Task" />
+      <item value="close Gaode Service" />
       <item value="Alarm Location Receiver" />
       <item value="is Register Power Wake Lock Receiver" />
       <item value="register Receiver" />
@@ -41,18 +47,12 @@
       <item value="set View Visibility" />
       <item value="Remote Views" />
       <item value="set Sum Distance m" />
-      <item value="close Gaode Service" />
       <item value="Hight Accuracy" />
       <item value="get Sum Distance m" />
       <item value="set Draw Trace Listen" />
       <item value="stop Trace" />
       <item value="get Application Context" />
       <item value="A Map Location Client" />
-      <item value="send Broadcast" />
-      <item value="start Foreground" />
-      <item value="creat Notification" />
-      <item value="get Distance" />
-      <item value="is App Backstage" />
     </histories>
     <option name="languageScores">
       <map>
