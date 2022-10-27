@@ -3,7 +3,14 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="Wake Lock Screen Receiver" />
+      <item value="create Alarm Intent" />
+      <item value="stop Alarm" />
+      <item value="release" />
+      <item value="wake Lock.acquire();" />
+      <item value="acquire" />
       <item value="track:upload" />
+      <item value="PARTIAL WAKE LOCK" />
       <item value="new Wake Lock" />
       <item value="POWER SERVICE" />
       <item value="is Useful" />
@@ -46,13 +53,6 @@
       <item value="alarm Location Receiver" />
       <item value="Broadcast Receiver" />
       <item value="LOCATION" />
-      <item value="get Action" />
-      <item value="alarm Receiver" />
-      <item value="register Receiver" />
-      <item value="get Activity" />
-      <item value="Alarmmanager" />
-      <item value="FLAG IMMUTABLE" />
-      <item value="FLAG MUTABLE" />
     </histories>
     <option name="languageScores">
       <map>
