@@ -3,10 +3,12 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="LOCATION FRONT SERVICE NOTIFICATION ID" />
+      <item value="front" />
+      <item value="start Background Location Task" />
       <item value="is Register Alarm Location Receiver" />
       <item value="register Receiver And Power" />
       <item value="background Location Keep Service Intent" />
-      <item value="start Background Location Task" />
       <item value="close Background Location Task" />
       <item value="close Gaode Service" />
       <item value="Alarm Location Receiver" />
@@ -51,8 +53,6 @@
       <item value="get Sum Distance m" />
       <item value="set Draw Trace Listen" />
       <item value="stop Trace" />
-      <item value="get Application Context" />
-      <item value="A Map Location Client" />
     </histories>
     <option name="languageScores">
       <map>
