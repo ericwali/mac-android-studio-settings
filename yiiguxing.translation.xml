@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="close Gaode Service" />
+      <item value="ACTION USER PRESENT" />
+      <item value="ACTION SCREEN OFF" />
       <item value="Hight Accuracy" />
       <item value="get Sum Distance m" />
       <item value="set Draw Trace Listen" />
@@ -16,7 +19,6 @@
       <item value="is App Backstage" />
       <item value="on Start Command" />
       <item value="start Gaode Service" />
-      <item value="close Gaode Service" />
       <item value="close Background Location Task" />
       <item value="app Entry Backstage" />
       <item value="app Backstage" />
@@ -51,8 +53,6 @@
       <item value="Initiates an orderly shutdown in which previously submitted tasks are executed, but no new tasks will be accepted. Invocation has no additional effect if already shut down. This method does not wait for previously submitted tasks to complete execution. Use awaitTermination to do that." />
       <item value="shutdown" />
       <item value="Cancel the given tasks. Params: tasks – The tasks to cancel." />
-      <item value="get Deliver" />
-      <item value="do In Background" />
     </histories>
     <option name="languageScores">
       <map>
