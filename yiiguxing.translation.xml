@@ -3,6 +3,20 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="注: 某些输入文件使用了未经检查或不安全的操作。 注: 有关详细信息, 请使用 -Xlint:unchecked 重新编译。" />
+      <item value="某些输入文件使用了未经检查或不安全的操作。 注: 有关详细信息, 请使用 -Xlint:unchecked 重新编译。" />
+      <item value="unchecked" />
+      <item value="Unable to strip the following libraries, packaging them as they are: libAMapSDK_NAVI_v9_5_0.so, libBugly.so, libimage_processing_util_jni.so, libmmkv.so, libneonui_shared.so, libneonuijni_public.so, libumeng-spy.so." />
+      <item value="app:lintVitalRelease SKIPPED" />
+      <item value="Make sure all annotation processors are incremental to improve your build speed." />
+      <item value="Unable to strip the following libraries, packaging them as th" />
+      <item value="The following annotation processors are not incremental: dagger-compiler-2.17.jar (com.google.dagger:dagger-compiler:2.17)." />
+      <item value="The following annotation processors are not incremental: dagger-compiler-2.17.jar (com.google.dagger:dagger-compiler:2.17). Make sure all annotation processors are incremental to improve your build speed." />
+      <item value="supports Rtl" />
+      <item value="App Link Url Error" />
+      <item value="Task :library:umeng:processDebugManifest" />
+      <item value="ged at AndroidManifest.xml:30 to replace other declarations but no other declaration present" />
+      <item value="allow Backup" />
       <item value="Manifest merger failed : Attribute data@scheme at AndroidManifest.xml requires a placeholder substitution but no value for &lt;qqappid&gt; is provided." />
       <item value="activitycom.tencent.tauth.AuthActivity was tagged at AndroidManifest.xml:47 to replace another declaration but no other declaration present" />
       <item value="activitycom.tencent.tauth.AuthActivity was tagged at AndroidManifest.xml:47 to replace another declaration" />
@@ -39,25 +53,11 @@
       <item value="DEFAULT LIGHTS" />
       <item value="DEFAULT VIBRATE" />
       <item value="DEFAULT SOUND," />
-      <item value="defaults" />
-      <item value="Specifies which values should be taken from the defaults. To set, OR the desired from DEFAULT_SOUND, DEFAULT_VIBRATE, DEFAULT_LIGHTS. For all default values, use DEFAULT_ALL. Deprecated use NotificationChannel.getSound() and NotificationChannel.shouldShowLights() and NotificationChannel.shouldVibrate()." />
-      <item value="FLAG GROUP SUMMARY" />
-      <item value="notification" />
-      <item value="notification.defaults" />
-      <item value="enable Vibration" />
-      <item value="m Vibration Enabled" />
-      <item value="set Vibration Pattern" />
-      <item value="set Show Badge" />
-      <item value="GREEN" />
-      <item value="set Light Color" />
-      <item value="createnotificationchannel" />
-      <item value="android.app.RemoteServiceExceptionCannotPostForegroundServiceNotificationException: Bad notification for startForeground" />
-      <item value="create Notification Channel" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1944" />
-        <entry key="ENGLISH" value="1890" />
+        <entry key="ENGLISH" value="1892" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="7" />
         <entry key="GERMAN" value="2" />
