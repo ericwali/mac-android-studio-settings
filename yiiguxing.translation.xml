@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="allow Native Heap Pointer Tagging" />
+      <item value="Wc.collect.debug: Accessing hidden field LandroidviewinputmethodInputMethodManager;-&gt;mCurRootView:LandroidviewViewRootImpl; (blocked, reflection, denied)" />
       <item value="m Cur Root View" />
       <item value="(blocked, reflection, denied)" />
       <item value="Landroid" />
@@ -23,7 +25,6 @@
       <item value="Crash Report" />
       <item value="com.kicc.collect.ui.activity.TabBarActivity onDestroyed &lt;&lt;&lt;" />
       <item value="Alibc: Pointer tag for 0x6f07663550 was truncated, see 'https:source.android.comdevicestechdebugtagged-pointers'. Alibc: Fatal signal 6 (SIGABRT), code -1 (SI_QUEUE) in tid 24331 (GLThread 127), pid 24219 (c.collect.debug)" />
-      <item value="Wc.collect.debug: Accessing hidden field LandroidviewinputmethodInputMethodManager;-&gt;mCurRootView:LandroidviewViewRootImpl; (blocked, reflection, denied)" />
       <item value="D Crash Report:" />
       <item value="(blocked, reflection, denied) DCrashReport: &gt;&gt;&gt; com.kicc.collect.ui.activity.TabBarActivity onDestroyed &lt;&lt;&lt;" />
       <item value="Accessing hidden field LandroidviewinputmethodInputMethodManager;-&gt;mCurRootView:LandroidviewViewRootImpl; (blocked, reflection, denied)" />
@@ -52,7 +53,6 @@
       <item value="DCrashReport: &gt;&gt;&gt; com.kicc.collect.ui.activity.TabBarActivity onDestroyed &lt;&lt;&lt; DLeakCanary: Watching instance of android.widget.LinearLayout (com.kicc.collect.ui.fragment.TabBarHomeFragment received FragmentonDestroyView() callback (references to its views should be cleared to prevent leaks)) with key a2cfe05b-ca7f-4f7c-a45c-b548828e3243 DLeakCanary: Watching instance of androidx.loader.app.LoaderManagerImplLoaderViewModel (androidx.loader.app.LoaderManagerImplLoaderViewModel received ViewModelonCleared() callback) with key 923d2be8-4e03-4268-be14-5abe18b23f8e DLeakCanary: Watching instance of leakcanary.internal.ViewModelClearedWatcher (leakcanary.internal.ViewModelClearedWatcher received ViewModelonCleared() callback) with key 02050a52-a76b-4974-97a6-f156335df8c0 DLeakCanary: Watching instance of com.kicc.collect.ui.vm.TabBarHomeViewModel (com.kicc.collect.ui.vm.TabBarHomeViewModel received ViewModelonCleared() callback) with key 40b0ffc7-9b46-4131-a8cc-b12bb6631f67" />
       <item value="Alibc: Fatal signal 6 (SIGABRT), code -1 (SI_QUEUE) in tid 20101 (GLThread 129), pid 19987 (c.collect.debug)" />
       <item value="instance of androidx.fragment.app.FragmentManagerViewModel (androidx.fragment.app.FragmentManagerViewModel received ViewModelonCleared() callback) with key 61f3312b-7cee-48d6-8119-808d5e0d2e12 DLeakCanary: Watching instance of leakcanary.internal.ViewModelClearedWatcher (leakcanary.internal.ViewModelClearedWatcher received ViewModelonCleared() callback) with key 5be96165-d009-4f2d-be38-09945bee6c81 DLeakCanary: Watching instance of com.kicc.core.base.BaseViewModel (com.kicc.core.base.BaseViewModel received ViewModelonCleared() callback) with key c89854ce-c2b5-496d-8be7-e9f8cf1f4ea4 DLeakCanary: Watching instance of androidx.lifecycle.ReportFragment (androidx.lifecycle.ReportFragment received FragmentonDestroy() callback) with key 1cbe6f89-efaf-441c-81b7-5da14001ec75 Wc.collect.debug: Accessing hidden field LandroidviewinputmethodInputMethodManager;-&gt;mCurRootView:LandroidviewViewRootImpl; (blocked, reflection, denied) DLeakCanary: Watching instance of com.kicc.collect.ui.activity.TabBarActivity (com.kicc.collect.ui.activity.TabBarActivity received ActivityonDestroy() callback) with key 50cf5c26-7f2b-4bda-a21b-b6db9942627a DCrashReport: &gt;&gt;&gt; com.kicc.collect.ui.activity.TabBarActivity onDestroyed &lt;&lt;&lt; DLeakCanary: Watching instance of android.widget.LinearLayout (com.kicc.collect.ui.fragment.TabBarHomeFragment received FragmentonDestroyView() callback (references to its views should be cleared to prevent leaks)) with key e82575d6-7ab0-4e0b-952f-a8a6c33662c2 DLeakCanary: Watching instance of androidx.loader.app.LoaderManagerImplLoaderViewModel (androidx.loader.app.LoaderManagerImplLoaderViewModel received ViewModelonCleared() callback) with key 1960487b-2cbc-46c3-a6d3-fe77cd7a40ae DLeakCanary: Watching instance of leakcanary.internal.ViewModelClearedWatcher (leakcanary.internal.ViewModelClearedWatcher received ViewModelonCleared() callback) with key 0c59a05a-6113-4d7b-9dd5-303e08b8f1ec DLeakCanary: Watching instance of com.kicc.collect.ui.vm.TabBarHomeViewModel (com.kicc.collect.ui.vm.TabBarHomeViewModel received ViewModelonCleared() callback) with key e43a7d87-3077-4186-a794-ffa1c8f80902 Alibc:" />
-      <item value="DCrashReport: &gt;&gt;&gt; com.kicc.collect.ui.activity.TabBarActivity onDestroyed &lt;&lt;&lt;" />
     </histories>
     <option name="languageScores">
       <map>
