@@ -3,56 +3,56 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="ElibEGL: call to OpenGL ES API with no current context (logged once per thread) DTrafficStats: tagSocket(5) with statsTag=0xffffffff, statsUid=-1 DTrafficStats: tagSocket(5) with statsTag=0xffffffff, statsUid=-1" />
+      <item value="SQLiteLog: (28) double-quoted string literal: &quot;CoRiVtHO8PPeJXI+AJ2NqdsidwHrs2vfnhCWJxkZeXGtc3aeLBxOf9oH14VgFUHdzgiud9A2Bh2X Y6bNdjEM7OKcpu8aJsfc+5ti8amShW4JqJcp+NCGztaI0TprhS8HbPw3+ghXLOSpRsQk4xIS4P Diws0rM7w+OfkkKcbVFzk9Yj" />
+      <item value="Set native info: isAppForeground(false)" />
+      <item value="pp_time_stats: avg=506.23ms min=505.82ms max=506.64ms count=2 DCrashReport: &gt;&gt;&gt; com.kicc.collect.ui.activity.TabBarActivity onPaused &lt;&lt;&lt; DCrashReport: &gt;&gt;&gt; com.kicc.collect.ui.activity.TabBarActivity onStop &lt;&lt;&lt;" />
+      <item value="app_time_stats: avg=506.17ms min=505.07ms max=507.26ms count=2 DTrafficStats: tagSocket(83) with statsTag=0xffffffff, statsUid=-1" />
+      <item value="Accessing hidden field LandroidviewinputmethodInputMethodManager" />
+      <item value="NG! Crashreport closed by server, please check your APP ID correct and Version available, then uninstall and reinstall your app. DCrashReport: no crash need to be uploaded at this start DCrashReport: [Util] Try to unlock file: local_crash_lock (pid=24219 | tid=24259) DCrashReport: [Util] Successfully unlocked file: local_crash_lock (pid=24219 | tid=24259) DCrashReport: &gt;&gt;&gt; com.kicc.collect.ui.activity.TabBarActivity onPaused &lt;&lt;&lt; DEGL_emulat" />
+      <item value="Tab Bar Activity" />
+      <item value="on Stop" />
+      <item value="is App Foreground" />
+      <item value="Crash Report" />
+      <item value="com.kicc.collect.ui.activity.TabBarActivity onDestroyed &lt;&lt;&lt;" />
+      <item value="Alibc: Pointer tag for 0x6f07663550 was truncated, see 'https:source.android.comdevicestechdebugtagged-pointers'. Alibc: Fatal signal 6 (SIGABRT), code -1 (SI_QUEUE) in tid 24331 (GLThread 127), pid 24219 (c.collect.debug)" />
+      <item value="Wc.collect.debug: Accessing hidden field LandroidviewinputmethodInputMethodManager;-&gt;mCurRootView:LandroidviewViewRootImpl; (blocked, reflection, denied)" />
+      <item value="D Crash Report:" />
+      <item value="com.kicc.collect.ui.activity.TabBarActivity onDestroyed" />
+      <item value="(blocked, reflection, denied) DCrashReport: &gt;&gt;&gt; com.kicc.collect.ui.activity.TabBarActivity onDestroyed &lt;&lt;&lt;" />
+      <item value="Accessing hidden field LandroidviewinputmethodInputMethodManager;-&gt;mCurRootView:LandroidviewViewRootImpl; (blocked, reflection, denied)" />
+      <item value="m Cur Root View" />
+      <item value="Accessing hidden field" />
+      <item value="Wc.collect.debug" />
+      <item value="Installation did not succeed. The application could not be installed: INSTALL_PARSE_FAILED_MANIFEST_MALFORMED" />
+      <item value="test Instrumentation Runner" />
+      <item value="Alibc: Fatal signal 6 (SIGABRT), code -1 (SI_QUEUE) in tid 22091 (GLThread 128), pid 21978 (c.collect.debug)" />
+      <item value="D Traffic Stats" />
+      <item value="Wc.collect.debug:" />
+      <item value="Landroidview View Root Impl" />
+      <item value="D Crash Report" />
+      <item value="on Destroyed" />
+      <item value="ElibEGL: call to OpenGL ES API with no current context (logged once per thread)" />
+      <item value="DTrafficStats: tagSocket(96) with statsTag=0xa004, statsUid=-1 DTrafficStats: tagSocket(111) with statsTag=0xa004, statsUid=-1 DEGL_emulation: app_time_stats: avg=278.85ms min=102.33ms max=502.44ms count=4" />
+      <item value="A Map GL Texture View" />
+      <item value="mGLSurfaceView instanceof AMapGLTextureView:false" />
+      <item value="DEGL_emulation: app_time_stats: avg=502.47ms min=501.96ms max=502.97ms count=2 DTrafficStats: tagSocket(122) with statsTag=0xa004, statsUid=-1 ElibEGL: call to OpenGL ES API with no current context (logged once per thread) Dqyd: mGLSurfaceView instanceof AMapGLTextureView:false DTrafficStats: tagSocket(5) with statsTag=0xa004, statsUid=-1" />
+      <item value="&gt; Manifest merger failed with multiple errors, see logs" />
+      <item value="uses Cleartext Traffic" />
+      <item value="allow Backup" />
+      <item value="Wc.collect.debug: Accessing hidden field LandroidviewinputmethodInputMethodManager;-&gt;mCurRootView:LandroidviewViewRootImpl; (blocked, reflection, denied) DCrashReport: &gt;&gt;&gt; com.kicc.collect.ui.activity.TabBarActivity onDestroyed &lt;&lt;&lt;" />
+      <item value="Accessing hidden field LandroidviewinputmethodInputMethodManager;-&gt;mCurRootView:LandroidviewViewRootImpl;" />
+      <item value="Alibc: Fatal signal 6 (SIGABRT), code -1 (SI_QUEUE) in tid 21432 (GLThread 127), pid 21223 (c.collect.debug)" />
+      <item value="dcendents" />
+      <item value="DTrafficStats: tagSocket(5) with statsTag=0xffffffff, statsUid=-1 DTrafficStats: tagSocket(5) with statsTag=0xffffffff, statsUid=-1 DLeakCanary: Watching instance of androidx.fragment.app.FragmentManagerViewModel (androidx.fragment.app.FragmentManagerViewModel received ViewModelonCleared() callback) with key 7fa0ba4c-32c6-405e-9ef0-956fd98d9718 DLeakCanary: Watching instance of leakcanary.internal.ViewModelClearedWatcher (leakcanary.internal.ViewModelClearedWatcher received ViewModelonCleared() callback) with key 571efaa4-a36a-4837-8baa-a962a5cadf92 DLeakCanary: Watching instance of com.kicc.core.base.BaseViewModel (com.kicc.core.base.BaseViewModel received ViewModelonCleared() callback) with key 85d654cd-c370-4093-b954-20b5f3ee24bc DLeakCanary: Watching instance of androidx.lifecycle.ReportFragment (androidx.lifecycle.ReportFragment received FragmentonDestroy() callback) with key 94fd6ba4-681f-4bcf-ae61-fa03c58ace78 Wc.collect.debug: Accessing hidden field LandroidviewinputmethodInputMethodManager;-&gt;mCurRootView:LandroidviewViewRootImpl; (blocked, reflection, denied) DLeakCanary: Watching instance of com.kicc.collect.ui.activity.TabBarActivity (" />
+      <item value="DCrashReport: &gt;&gt;&gt; com.kicc.collect.ui.activity.TabBarActivity onDestroyed &lt;&lt;&lt; DLeakCanary: Watching instance of android.widget.LinearLayout (com.kicc.collect.ui.fragment.TabBarHomeFragment received FragmentonDestroyView() callback (references to its views should be cleared to prevent leaks)) with key a2cfe05b-ca7f-4f7c-a45c-b548828e3243 DLeakCanary: Watching instance of androidx.loader.app.LoaderManagerImplLoaderViewModel (androidx.loader.app.LoaderManagerImplLoaderViewModel received ViewModelonCleared() callback) with key 923d2be8-4e03-4268-be14-5abe18b23f8e DLeakCanary: Watching instance of leakcanary.internal.ViewModelClearedWatcher (leakcanary.internal.ViewModelClearedWatcher received ViewModelonCleared() callback) with key 02050a52-a76b-4974-97a6-f156335df8c0 DLeakCanary: Watching instance of com.kicc.collect.ui.vm.TabBarHomeViewModel (com.kicc.collect.ui.vm.TabBarHomeViewModel received ViewModelonCleared() callback) with key 40b0ffc7-9b46-4131-a8cc-b12bb6631f67" />
+      <item value="Alibc: Fatal signal 6 (SIGABRT), code -1 (SI_QUEUE) in tid 20101 (GLThread 129), pid 19987 (c.collect.debug)" />
+      <item value="instance of androidx.fragment.app.FragmentManagerViewModel (androidx.fragment.app.FragmentManagerViewModel received ViewModelonCleared() callback) with key 61f3312b-7cee-48d6-8119-808d5e0d2e12 DLeakCanary: Watching instance of leakcanary.internal.ViewModelClearedWatcher (leakcanary.internal.ViewModelClearedWatcher received ViewModelonCleared() callback) with key 5be96165-d009-4f2d-be38-09945bee6c81 DLeakCanary: Watching instance of com.kicc.core.base.BaseViewModel (com.kicc.core.base.BaseViewModel received ViewModelonCleared() callback) with key c89854ce-c2b5-496d-8be7-e9f8cf1f4ea4 DLeakCanary: Watching instance of androidx.lifecycle.ReportFragment (androidx.lifecycle.ReportFragment received FragmentonDestroy() callback) with key 1cbe6f89-efaf-441c-81b7-5da14001ec75 Wc.collect.debug: Accessing hidden field LandroidviewinputmethodInputMethodManager;-&gt;mCurRootView:LandroidviewViewRootImpl; (blocked, reflection, denied) DLeakCanary: Watching instance of com.kicc.collect.ui.activity.TabBarActivity (com.kicc.collect.ui.activity.TabBarActivity received ActivityonDestroy() callback) with key 50cf5c26-7f2b-4bda-a21b-b6db9942627a DCrashReport: &gt;&gt;&gt; com.kicc.collect.ui.activity.TabBarActivity onDestroyed &lt;&lt;&lt; DLeakCanary: Watching instance of android.widget.LinearLayout (com.kicc.collect.ui.fragment.TabBarHomeFragment received FragmentonDestroyView() callback (references to its views should be cleared to prevent leaks)) with key e82575d6-7ab0-4e0b-952f-a8a6c33662c2 DLeakCanary: Watching instance of androidx.loader.app.LoaderManagerImplLoaderViewModel (androidx.loader.app.LoaderManagerImplLoaderViewModel received ViewModelonCleared() callback) with key 1960487b-2cbc-46c3-a6d3-fe77cd7a40ae DLeakCanary: Watching instance of leakcanary.internal.ViewModelClearedWatcher (leakcanary.internal.ViewModelClearedWatcher received ViewModelonCleared() callback) with key 0c59a05a-6113-4d7b-9dd5-303e08b8f1ec DLeakCanary: Watching instance of com.kicc.collect.ui.vm.TabBarHomeViewModel (com.kicc.collect.ui.vm.TabBarHomeViewModel received ViewModelonCleared() callback) with key e43a7d87-3077-4186-a794-ffa1c8f80902 Alibc:" />
+      <item value="DCrashReport: &gt;&gt;&gt; com.kicc.collect.ui.activity.TabBarActivity onDestroyed &lt;&lt;&lt;" />
+      <item value="set My Location Enabled" />
       <item value="Alibc: Pointer tag for 0x6f07662090 was truncated, see 'https:source.android.comdevicestechdebugtagged-pointers'. Alibc: Fatal signal 6 (SIGABRT), code -1 (SI_QUEUE) in tid 15653 (GLThread 121), pid 15559 (c.collect.debug) Disconnected from the target VM, address: 'localhost:54972', transport: 'socket'" />
       <item value="IMPORTANCE DEFAULT" />
       <item value="FLAG UPDATE CURRENT" />
-      <item value="FLAG NO CLEAR" />
-      <item value="set Content Intent" />
-      <item value="set When" />
-      <item value="FLAG FOREGROUND SERVICE" />
-      <item value="set Defaults" />
-      <item value="set Auto Cancel" />
-      <item value="set Small Icon" />
-      <item value="setdefaults" />
-      <item value="location Status" />
-      <item value="Background Location Task" />
-      <item value="Thread" />
-      <item value="exported" />
-      <item value="location" />
-      <item value="foreground Service Type" />
-      <item value="Attempt to invoke virtual method 'void com.amap.api.location.AMapLocationClient.startLocation()' on a null object reference" />
-      <item value="init Location" />
-      <item value="location Client" />
-      <item value="disagree" />
-      <item value="PERSON USER ID" />
-      <item value="TERMINATED" />
-      <item value="RUNNABLE" />
-      <item value="is Register Power Wake Lock Receiver" />
-      <item value="Location Request Enum" />
-      <item value="is trace started" />
-      <item value="alarm Manager" />
-      <item value="register Receiver" />
-      <item value="set Location Listener" />
-      <item value="sum Distance m" />
-      <item value="creat Notification" />
-      <item value="distance Listen" />
-      <item value="background Location Keep Front Service Intent" />
-      <item value="notification Channel" />
-      <item value="is Register Location Receiver" />
-      <item value="start Background Location Task" />
-      <item value="front Service" />
-      <item value="Background Location Keep Service" />
-      <item value="front Desk" />
-      <item value="LOCATION FRONT SERVICE NOTIFICATION ID" />
-      <item value="front" />
-      <item value="is Register Alarm Location Receiver" />
-      <item value="register Receiver And Power" />
-      <item value="background Location Keep Service Intent" />
-      <item value="close Background Location Task" />
-      <item value="close Gaode Service" />
-      <item value="Alarm Location Receiver" />
-      <item value="register Power Wake Lock Receiver" />
-      <item value="close Service And Receiver" />
     </histories>
     <option name="languageScores">
       <map>
