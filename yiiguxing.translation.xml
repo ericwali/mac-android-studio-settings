@@ -3,8 +3,11 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
-      <item value="Missing class com.sun.tools.javac.processing.JavacFiler (referenced from: void lombok.javac.apt.Processor.findServices(java.lang.StringBuilder, javax.annotation.processing.Filer))" />
+      <item value="Expected stack map table for method with non-linear control flow. In later version of R8" />
+      <item value="AGPBI: {&quot;kind&quot;:&quot;warning&quot;,&quot;text&quot;:&quot;Expected stack map table for method with non-linear control flow. In later version of R8, the method may be assumed not reachable.&quot;,&quot;sources&quot;:[{&quot;file&quot;:&quot;Userswangxiang.gradlecachestransforms-3d1a7e16d87b32e4ed8d64df8e50de640transformedjetified-common-9.4.0.jar&quot;}],&quot;tool&quot;:&quot;R8&quot;}" />
       <item value="Expected stack map table for method with non-linear control flow. In later version of R8, the method may be assumed not reachable." />
+      <item value="Expected stack map table for method with non-linear control flow." />
+      <item value="Missing class com.sun.tools.javac.processing.JavacFiler (referenced from: void lombok.javac.apt.Processor.findServices(java.lang.StringBuilder, javax.annotation.processing.Filer))" />
       <item value="&gt; Supplied proguard configuration file name is unsupported. Valid values are: [proguard-android-optimize.txt, proguard-defaults.txt, proguard-android.txt]" />
       <item value="Runtime JAR file has version 1.4 which is older than required for API version 1.5" />
       <item value="kotlin" />
@@ -50,9 +53,6 @@
       <item value="replace another declaration but no other declaration present" />
       <item value="rseDebugLocalResources &gt; Task :library:umeng:packageDebugResources &gt; Task :library:umeng:dataBindingGenBaseClassesDebug &gt; Task :library:umeng:dataBindingTriggerDebug &gt; Task :library:umeng:generateDebugBuildConfig &gt; Task :library:umeng:parseDebugLocalResources" />
       <item value="ebugRenderscript NO-SOURCE &gt; Task :library:core:compileDebugRenderscript NO-SOURCE &gt; Task :library:core:dataBindingMergeDependencyArtifactsDebug &gt; Task :library:core:generateDebugResValues &gt; Task :library:core:generateDebugResources &gt; Task :library:core:dataBindingMergeGenClassesDebug &gt; Task :library:core:packageDebugResources &gt; Task :library:core:dataBindingGenBaseClassesDebug &gt; Task :library:core:dataBindingTriggerDebug" />
-      <item value="ry:umeng:dataBindingMergeDependencyArtifactsDebug &gt; Task :library:umeng:generateDebugResValues" />
-      <item value="BUILD SUCCESSFUL in 1m 19s 214 actionable tasks: 202 executed, 12 up-to-date Build Analyzer results available 21:38:34: Task execution finished 'build'." />
-      <item value="set Badge Icon Type" />
     </histories>
     <option name="languageScores">
       <map>
