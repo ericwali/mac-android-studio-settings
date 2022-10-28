@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="Ic.collect.debug: Explicit concurrent copying GC freed 41426(2254KB) AllocSpace objects, 53(1124KB) LOS objects, 24% free, 6728KB8971KB, paused 62us,32us total 30.027ms" />
+      <item value="map View" />
       <item value="Tab Bar Activity" />
       <item value="ReportFragment received FragmentonDestroy" />
       <item value="Report Fragment" />
@@ -51,8 +53,6 @@
       <item value="Installation did not succeed. The application could not be installed: INSTALL_PARSE_FAILED_MANIFEST_MALFORMED" />
       <item value="test Instrumentation Runner" />
       <item value="Alibc: Fatal signal 6 (SIGABRT), code -1 (SI_QUEUE) in tid 22091 (GLThread 128), pid 21978 (c.collect.debug)" />
-      <item value="D Traffic Stats" />
-      <item value="Wc.collect.debug:" />
     </histories>
     <option name="languageScores">
       <map>
