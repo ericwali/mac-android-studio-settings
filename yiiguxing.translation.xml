@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="Alibc: Pointer tag for 0x6f07662090 was truncated, see 'https:source.android.comdevicestechdebugtagged-pointers'. Alibc: Fatal signal 6 (SIGABRT), code -1 (SI_QUEUE) in tid 15653 (GLThread 121), pid 15559 (c.collect.debug) Disconnected from the target VM, address: 'localhost:54972', transport: 'socket'" />
       <item value="IMPORTANCE DEFAULT" />
       <item value="FLAG UPDATE CURRENT" />
       <item value="FLAG NO CLEAR" />
@@ -52,7 +53,6 @@
       <item value="Alarm Location Receiver" />
       <item value="register Power Wake Lock Receiver" />
       <item value="close Service And Receiver" />
-      <item value="has Reg Alarm" />
     </histories>
     <option name="languageScores">
       <map>
