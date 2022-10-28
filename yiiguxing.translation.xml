@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="m Cur Root View" />
       <item value="(blocked, reflection, denied)" />
       <item value="Landroid" />
       <item value="Accessing hidden field" />
@@ -26,7 +27,6 @@
       <item value="D Crash Report:" />
       <item value="(blocked, reflection, denied) DCrashReport: &gt;&gt;&gt; com.kicc.collect.ui.activity.TabBarActivity onDestroyed &lt;&lt;&lt;" />
       <item value="Accessing hidden field LandroidviewinputmethodInputMethodManager;-&gt;mCurRootView:LandroidviewViewRootImpl; (blocked, reflection, denied)" />
-      <item value="m Cur Root View" />
       <item value="Wc.collect.debug" />
       <item value="Installation did not succeed. The application could not be installed: INSTALL_PARSE_FAILED_MANIFEST_MALFORMED" />
       <item value="test Instrumentation Runner" />
