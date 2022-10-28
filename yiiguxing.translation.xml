@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="asms" />
+      <item value="java.lang.UnsatisfiedLinkError: UserswangxiangLibraryCachesGoogleAndroidStudio2021.2tmpjna15115663447630736156.tmp: dlopen(UserswangxiangLibraryCachesGoogleAndroidStudio2021.2tmpjna15115663447630736156.tmp, 0x0001): tried: 'UserswangxiangLibraryCachesGoogleAndroidStudio2021.2tmpjna15115663447630736156.tmp' (fat file, but missing compatible architecture (have 'i386,x86_64', need 'arm64')), 'SystemVolumesPrebootCryptexesOSUserswangxiangLibraryCachesGoogleAndroidStudio2021.2tmpjna15115663447630736156.tmp' (no such file), 'UserswangxiangLibraryCachesGoogleAndroidStudio2021.2tmpjna15115663447630736156.tmp' (fat file, but missing compatible architecture (have 'i386,x86_64', need 'arm64'))" />
       <item value="Expected stack map table for method with non-linear control flow. In later version of R8" />
       <item value="AGPBI: {&quot;kind&quot;:&quot;warning&quot;,&quot;text&quot;:&quot;Expected stack map table for method with non-linear control flow. In later version of R8, the method may be assumed not reachable.&quot;,&quot;sources&quot;:[{&quot;file&quot;:&quot;Userswangxiang.gradlecachestransforms-3d1a7e16d87b32e4ed8d64df8e50de640transformedjetified-common-9.4.0.jar&quot;}],&quot;tool&quot;:&quot;R8&quot;}" />
       <item value="Expected stack map table for method with non-linear control flow. In later version of R8, the method may be assumed not reachable." />
@@ -51,8 +53,6 @@
       <item value="activitycom.tencent.tauth.AuthActivity was tagged at AndroidManifest.xml:47 to replace another declaration but no other declaration present" />
       <item value="activitycom.tencent.tauth.AuthActivity was tagged at AndroidManifest.xml:47 to replace another declaration" />
       <item value="replace another declaration but no other declaration present" />
-      <item value="rseDebugLocalResources &gt; Task :library:umeng:packageDebugResources &gt; Task :library:umeng:dataBindingGenBaseClassesDebug &gt; Task :library:umeng:dataBindingTriggerDebug &gt; Task :library:umeng:generateDebugBuildConfig &gt; Task :library:umeng:parseDebugLocalResources" />
-      <item value="ebugRenderscript NO-SOURCE &gt; Task :library:core:compileDebugRenderscript NO-SOURCE &gt; Task :library:core:dataBindingMergeDependencyArtifactsDebug &gt; Task :library:core:generateDebugResValues &gt; Task :library:core:generateDebugResources &gt; Task :library:core:dataBindingMergeGenClassesDebug &gt; Task :library:core:packageDebugResources &gt; Task :library:core:dataBindingGenBaseClassesDebug &gt; Task :library:core:dataBindingTriggerDebug" />
     </histories>
     <option name="languageScores">
       <map>
