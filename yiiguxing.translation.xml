@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="start Foreground" />
       <item value="Returns: the base context as set by the constructor or setBaseContext" />
       <item value="Similar to startService(Intent), but with an implicit promise that the Service will call startForeground(int, android.app.Notification) once it begins running. The service is given an amount of time comparable to the ANR interval to do this, otherwise the system will automatically stop the service and declare the app ANR. Unlike the ordinary startService(Intent), this method can be used at any time, regardless of whether the app hosting the service is in a foreground state. Note: Beginning with SDK Version Build.VERSION_CODES.S, apps targeting SDK Version Build.VERSION_CODES.S or higher are not allowed to start foreground services from the background. See Behavior changes: Apps targeting Android 12 for more details. Params: service – Identifies the service to be started. The Intent must be fully explicit (supplying a component name). Additional values may be included in the Intent extras to supply arguments along with this specific start call. Returns: If the service is being started or is already running, the ComponentName of the actual service that was started is returned; else if the service does not exist null is returned. Throws: SecurityException – If the caller does not have permission to access the service or the service can not be found. android.app.ForegroundServiceStartNotAllowedException – If the caller app's targeting API is Build.VERSION_CODES.S or later, and the foreground service is restricted from start due to background restriction. See Also: stopService, android.app.Service.startForeground(int, android.app.Notification)" />
       <item value="Ic.collect.debug: Explicit concurrent copying GC freed 41426(2254KB) AllocSpace objects, 53(1124KB) LOS objects, 24% free, 6728KB8971KB, paused 62us,32us total 30.027ms" />
@@ -52,7 +53,6 @@
       <item value="(blocked, reflection, denied) DCrashReport: &gt;&gt;&gt; com.kicc.collect.ui.activity.TabBarActivity onDestroyed &lt;&lt;&lt;" />
       <item value="Accessing hidden field LandroidviewinputmethodInputMethodManager;-&gt;mCurRootView:LandroidviewViewRootImpl; (blocked, reflection, denied)" />
       <item value="Wc.collect.debug" />
-      <item value="Installation did not succeed. The application could not be installed: INSTALL_PARSE_FAILED_MANIFEST_MALFORMED" />
     </histories>
     <option name="languageScores">
       <map>
