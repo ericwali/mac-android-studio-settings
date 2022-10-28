@@ -3,6 +3,24 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="dontwarn" />
+      <item value="Missing class com.sun.tools.javac.processing.JavacFiler (referenced from: void lombok.javac.apt.Processor.findServices(java.lang.StringBuilder, javax.annotation.processing.Filer))" />
+      <item value="missing rules" />
+      <item value="Missing classes detected while running R8. Please add the missing classes or apply additional keep rules that are generated in UserswangxiangStudioProjectsorgkicc-collectbuildappoutputsmappingreleasemissing_rules.txt." />
+      <item value="Unexpected reference to missing service implementation class in META-INFserviceslombok.core.LombokApp: lombok.bytecode.PoolConstantsApp." />
+      <item value="jetified" />
+      <item value="Unexpected reference to missing service class: META-INFservicesorg.mapstruct.ap.spi.AstModifyingAnnotationProcessor." />
+      <item value="Unexpected reference to missing service implementation class in META-INFserviceslombok.core.LombokApp: lombok.core.PublicApiCreatorApp." />
+      <item value="Unable to extract native debug metadata from" />
+      <item value="Failed to apply plugin 'com.android.internal.application'. &gt; The option 'android.enableR8' is deprecated. It was removed in version 7.0 of the Android Gradle plugin. Please remove it from `gradle.properties`." />
+      <item value="Expected stack map table for method with non-linear control flow" />
+      <item value="Unexpected reference to missing service" />
+      <item value="minify Enabled" />
+      <item value="minify Release With R 8" />
+      <item value="Task :app:minifyReleaseWithR8" />
+      <item value="BUILD SUCCESSFUL in 51s 197 actionable tasks: 184 executed, 13 up-to-date Build Analyzer results available 23:21:44: Task execution finished 'build'." />
+      <item value="AGPBI: {&quot;kind&quot;:&quot;warning&quot;,&quot;text&quot;:&quot;Unexpected reference to missing service class: META-INFserviceslombok.core.LombokApp.&quot;,&quot;sources&quot;:[{&quot;file&quot;:&quot;UserswangxiangStudioProjectsorgkicc-collectbuildappintermediatesmerged_java_resreleasebase.jar&quot;}],&quot;tool&quot;:&quot;R8&quot;}" />
+      <item value="quiet" />
       <item value="abort On Error" />
       <item value="check Release Builds" />
       <item value="unchecked" />
@@ -35,24 +53,6 @@
       <item value="Notification Click Start Class" />
       <item value="Notification Start Class" />
       <item value="start Class" />
-      <item value="use NotificationChannel.getSound() and NotificationChannel.shouldShowLights() and NotificationChannel.shouldVibrate()." />
-      <item value="Notification Channel.enable Lights" />
-      <item value="Set which notification properties will be inherited from system defaults. The value should be one or more of the following fields combined with bitwise-or: DEFAULT_SOUND, DEFAULT_VIBRATE, DEFAULT_LIGHTS. For all default values, use DEFAULT_ALL. Deprecated use NotificationChannel.enableVibration(boolean) and NotificationChannel.enableLights(boolean) and NotificationChannel.setSound(Uri, AudioAttributes) instead." />
-      <item value="set Vibrate" />
-      <item value="set Sound" />
-      <item value="set Auto Cancel" />
-      <item value="FLAG FOREGROUND SERVICE" />
-      <item value="set Only Alert Once" />
-      <item value="set When" />
-      <item value="Notification Channel" />
-      <item value="IMPORTANCE DEFAULT" />
-      <item value="NOTIFICATION SERVICE" />
-      <item value="JELLY BEAN" />
-      <item value="Bad notification for startForeground" />
-      <item value="FLAG NO CLEAR" />
-      <item value="Notification Channel.should Vibrate()" />
-      <item value="Notification Channel.get Sound()" />
-      <item value="DEFAULT ALL" />
     </histories>
     <option name="languageScores">
       <map>
