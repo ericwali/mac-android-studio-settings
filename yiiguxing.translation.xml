@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="create From Parcel" />
+      <item value="The given class loader will be used to load any enclosed Parcelables." />
+      <item value="Read and return a new Object array from the parcel at the current dataPosition(). Returns null if the previously written array was null. The given class loader will be used to load any enclosed Parcelables." />
       <item value="Person Entity" />
       <item value="kicc user info" />
       <item value="new Lat Lng Bounds" />
@@ -50,9 +53,6 @@
       <item value="Missing class com.sun.tools.javac.processing.JavacFiler (referenced from: void lombok.javac.apt.Processor.findServices(java.lang.StringBuilder, javax.annotation.processing.Filer))" />
       <item value="&gt; Supplied proguard configuration file name is unsupported. Valid values are: [proguard-android-optimize.txt, proguard-defaults.txt, proguard-android.txt]" />
       <item value="Runtime JAR file has version 1.4 which is older than required for API version 1.5" />
-      <item value="kotlin" />
-      <item value="w: Runtime JAR files in the classpath have the version 1.4, which is older than the API version 1.5. Consider using the runtime of version 1.5, or pass '-api-version 1.4' explicitly to restrict the available APIs to the runtime of version 1.4. You can also pass '-language-version 1.4' instead, which will restrict not only the APIs to the specified version, but also the language features" />
-      <item value="Please add these rules to your existing keep rules in order to suppress warnings. This is generated automatically by the Android Gradle plugin.-dontwarn com.sun.tools.javac.processing.JavacFiler" />
     </histories>
     <option name="languageScores">
       <map>
