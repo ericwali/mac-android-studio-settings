@@ -3,15 +3,20 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="set Content View" />
+      <item value="request Window Feature" />
+      <item value="Relative Layout" />
+      <item value="add View" />
+      <item value="mlocation Client" />
+      <item value="Cancelable Callback" />
+      <item value="set Location Source" />
       <item value="java.lang.NullPointerException: Attempt to invoke virtual method 'android.view.View android.view.View.findViewById(int)' on a null object reference" />
       <item value="A Map Location Listener" />
       <item value="On Map Touch Listener" />
       <item value="Location Source" />
       <item value="to Screen Location" />
       <item value="set Position By Pixels" />
-      <item value="set Content View" />
       <item value="set My Location Enabled" />
-      <item value="set Location Source" />
       <item value="deactivate" />
       <item value="use Move To Location With Map Mode" />
       <item value="start Move Location And Map" />
@@ -48,11 +53,6 @@
       <item value="argb" />
       <item value="STROKE COLOR" />
       <item value="Lat Lng" />
-      <item value="options" />
-      <item value="On Location Changed Listener" />
-      <item value="A Map Location Client" />
-      <item value="get Last Known Location" />
-      <item value="portrait" />
     </histories>
     <option name="languageScores">
       <map>
