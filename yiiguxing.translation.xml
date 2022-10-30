@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="LOCATION TYPE LOCATION ROTATE NO CENTER" />
       <item value="start Change Location" />
       <item value="on Pause" />
       <item value="use Move To Location With Map Mode" />
@@ -52,7 +53,6 @@
       <item value="problem occurred evaluating project ':app'. &gt; Failed to apply plugin 'com.android.internal.application'. &gt; Android Gradle plugin requires Java 11 to run. You are currently using Java 1.8. You can try some of the following options: - changing the IDE settings. - changing the JAVA_HOME environment variable. - changing `org.gradle.java.home` in `gradle.properties`." />
       <item value="asms" />
       <item value="java.lang.UnsatisfiedLinkError: UserswangxiangLibraryCachesGoogleAndroidStudio2021.2tmpjna15115663447630736156.tmp: dlopen(UserswangxiangLibraryCachesGoogleAndroidStudio2021.2tmpjna15115663447630736156.tmp, 0x0001): tried: 'UserswangxiangLibraryCachesGoogleAndroidStudio2021.2tmpjna15115663447630736156.tmp' (fat file, but missing compatible architecture (have 'i386,x86_64', need 'arm64')), 'SystemVolumesPrebootCryptexesOSUserswangxiangLibraryCachesGoogleAndroidStudio2021.2tmpjna15115663447630736156.tmp' (no such file), 'UserswangxiangLibraryCachesGoogleAndroidStudio2021.2tmpjna15115663447630736156.tmp' (fat file, but missing compatible architecture (have 'i386,x86_64', need 'arm64'))" />
-      <item value="Expected stack map table for method with non-linear control flow. In later version of R8" />
     </histories>
     <option name="languageScores">
       <map>
