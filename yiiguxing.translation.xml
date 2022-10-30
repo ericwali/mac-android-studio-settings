@@ -3,13 +3,23 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="java.lang.NullPointerException: Attempt to invoke virtual method 'android.view.View android.view.View.findViewById(int)' on a null object reference" />
+      <item value="A Map Location Listener" />
+      <item value="On Map Touch Listener" />
+      <item value="Location Source" />
+      <item value="to Screen Location" />
+      <item value="set Position By Pixels" />
+      <item value="set Content View" />
+      <item value="set My Location Enabled" />
+      <item value="set Location Source" />
+      <item value="deactivate" />
+      <item value="use Move To Location With Map Mode" />
+      <item value="start Move Location And Map" />
       <item value="LOCATION TYPE LOCATION ROTATE NO CENTER" />
       <item value="start Change Location" />
       <item value="on Pause" />
-      <item value="use Move To Location With Map Mode" />
       <item value="activate" />
       <item value="stop Location" />
-      <item value="Location Source" />
       <item value="my Location Type" />
       <item value="create From Parcel" />
       <item value="The given class loader will be used to load any enclosed Parcelables." />
@@ -39,20 +49,10 @@
       <item value="STROKE COLOR" />
       <item value="Lat Lng" />
       <item value="options" />
-      <item value="set My Location Enabled" />
       <item value="On Location Changed Listener" />
-      <item value="deactivate" />
-      <item value="set Location Source" />
       <item value="A Map Location Client" />
       <item value="get Last Known Location" />
       <item value="portrait" />
-      <item value="screen Orientation" />
-      <item value="AMap.setMyLocationStyle(new MyLocationStyle().myLocationType(MyLocationStyle.LOCATION_TYPE_LOCATE));" />
-      <item value="set My Location Type" />
-      <item value="Create a new array of the Parcelable class. Params: size – Size of the array. Returns: Returns an array of the Parcelable class, with every entry initialized to null." />
-      <item value="problem occurred evaluating project ':app'. &gt; Failed to apply plugin 'com.android.internal.application'. &gt; Android Gradle plugin requires Java 11 to run. You are currently using Java 1.8. You can try some of the following options: - changing the IDE settings. - changing the JAVA_HOME environment variable. - changing `org.gradle.java.home` in `gradle.properties`." />
-      <item value="asms" />
-      <item value="java.lang.UnsatisfiedLinkError: UserswangxiangLibraryCachesGoogleAndroidStudio2021.2tmpjna15115663447630736156.tmp: dlopen(UserswangxiangLibraryCachesGoogleAndroidStudio2021.2tmpjna15115663447630736156.tmp, 0x0001): tried: 'UserswangxiangLibraryCachesGoogleAndroidStudio2021.2tmpjna15115663447630736156.tmp' (fat file, but missing compatible architecture (have 'i386,x86_64', need 'arm64')), 'SystemVolumesPrebootCryptexesOSUserswangxiangLibraryCachesGoogleAndroidStudio2021.2tmpjna15115663447630736156.tmp' (no such file), 'UserswangxiangLibraryCachesGoogleAndroidStudio2021.2tmpjna15115663447630736156.tmp' (fat file, but missing compatible architecture (have 'i386,x86_64', need 'arm64'))" />
     </histories>
     <option name="languageScores">
       <map>
