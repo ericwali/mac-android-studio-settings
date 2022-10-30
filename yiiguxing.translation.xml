@@ -3,6 +3,11 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="start Change Location" />
+      <item value="on Pause" />
+      <item value="use Move To Location With Map Mode" />
+      <item value="activate" />
+      <item value="stop Location" />
       <item value="Location Source" />
       <item value="my Location Type" />
       <item value="create From Parcel" />
@@ -36,7 +41,6 @@
       <item value="set My Location Enabled" />
       <item value="On Location Changed Listener" />
       <item value="deactivate" />
-      <item value="activate" />
       <item value="set Location Source" />
       <item value="A Map Location Client" />
       <item value="get Last Known Location" />
@@ -49,10 +53,6 @@
       <item value="asms" />
       <item value="java.lang.UnsatisfiedLinkError: UserswangxiangLibraryCachesGoogleAndroidStudio2021.2tmpjna15115663447630736156.tmp: dlopen(UserswangxiangLibraryCachesGoogleAndroidStudio2021.2tmpjna15115663447630736156.tmp, 0x0001): tried: 'UserswangxiangLibraryCachesGoogleAndroidStudio2021.2tmpjna15115663447630736156.tmp' (fat file, but missing compatible architecture (have 'i386,x86_64', need 'arm64')), 'SystemVolumesPrebootCryptexesOSUserswangxiangLibraryCachesGoogleAndroidStudio2021.2tmpjna15115663447630736156.tmp' (no such file), 'UserswangxiangLibraryCachesGoogleAndroidStudio2021.2tmpjna15115663447630736156.tmp' (fat file, but missing compatible architecture (have 'i386,x86_64', need 'arm64'))" />
       <item value="Expected stack map table for method with non-linear control flow. In later version of R8" />
-      <item value="AGPBI: {&quot;kind&quot;:&quot;warning&quot;,&quot;text&quot;:&quot;Expected stack map table for method with non-linear control flow. In later version of R8, the method may be assumed not reachable.&quot;,&quot;sources&quot;:[{&quot;file&quot;:&quot;Userswangxiang.gradlecachestransforms-3d1a7e16d87b32e4ed8d64df8e50de640transformedjetified-common-9.4.0.jar&quot;}],&quot;tool&quot;:&quot;R8&quot;}" />
-      <item value="Expected stack map table for method with non-linear control flow. In later version of R8, the method may be assumed not reachable." />
-      <item value="Expected stack map table for method with non-linear control flow." />
-      <item value="Missing class com.sun.tools.javac.processing.JavacFiler (referenced from: void lombok.javac.apt.Processor.findServices(java.lang.StringBuilder, javax.annotation.processing.Filer))" />
     </histories>
     <option name="languageScores">
       <map>
