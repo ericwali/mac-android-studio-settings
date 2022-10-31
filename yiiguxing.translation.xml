@@ -3,13 +3,14 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
-      <item value="set On Map Touch Listener" />
+      <item value="on Resume" />
       <item value="user Move To Location Mark" />
+      <item value="on Pause" />
+      <item value="set On Map Touch Listener" />
       <item value="user Move Map Move To Location W Mark" />
       <item value="use Move To Location With Map Mode" />
       <item value="Custom Location Mode Activity" />
       <item value="user Move Map Mark" />
-      <item value="on Pause" />
       <item value="READ PHONE STATE" />
       <item value="should Show Request Permission Rationale" />
       <item value="PERMISSION GRANTED" />
@@ -52,7 +53,6 @@
       <item value="SENSOR SERVICE" />
       <item value="TYPE ORIENTATION" />
       <item value="TYPE TEMPERATURE" />
-      <item value="A constant describing an orientation sensor type. See SensorEvent.values for more details. Deprecated use SensorManager.getOrientation() instead." />
     </histories>
     <option name="languageScores">
       <map>
