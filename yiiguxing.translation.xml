@@ -3,6 +3,31 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="methods" />
+      <item value="keepclasseswithmembernames" />
+      <item value="keepclassmembers" />
+      <item value="on Click" />
+      <item value="No issues found." />
+      <item value="&gt; Task :app:lintVitalRelease No issues found." />
+      <item value="Task :app:lintVitalRelease" />
+      <item value="lint Vital Release" />
+      <item value="show My Location Button Enabled" />
+      <item value="setLogoBottomMargin [" />
+      <item value="java.lang.NoSuchMethodException: com.amap.api.col.3nsl.j3.showMyLocationButtonEnabled" />
+      <item value="ECrashReport-Native: find cls error comtencentbuglycrashreportcrashjniNativeExceptionHandler ECrashReport-Native: back up bugly classes error" />
+      <item value="We want to keep methods in Activity that could be used in the XML attribute onClick" />
+      <item value="Web View" />
+      <item value="不混淆 Activity 在 XML 布局所设置的 onClick 属性值" />
+      <item value="verbose" />
+      <item value="dontskipnonpubliclibraryclasses" />
+      <item value="dontusemixedcaseclassnames" />
+      <item value="The remainder of this file is identical to the non-optimized version of the Proguard configuration file (except that the other file has flags to turn off optimization)." />
+      <item value="dontpreverify" />
+      <item value="allowaccessmodification" />
+      <item value="optimizationpasses" />
+      <item value="This file is no longer maintained and is not used by new (2.2+) versions of the Android plugin for Gradle. Instead, the Android plugin for Gradle generates the default rules at build time and stores them in the build directory. Optimizations: If you don't want to optimize, use the proguard-android.txt configuration file instead of this one, which turns off the optimization flags. Adding optimization introduces certain risks, since for example not all optimizations performed by ProGuard works on all versions of Dalvik. The following flags turn off various optimizations known to have issues, but the list may not be complete or up to date. (The &quot;arithmetic&quot; optimization can be used if you are only targeting Android 2.0 or later.) Make sure you test thoroughly if you go this route." />
+      <item value="simplification" />
+      <item value="Javascript Interface" />
       <item value="Get Static Method ID" />
       <item value="native Load" />
       <item value="JNI DETECTED ERROR IN APPLICATION: java_class == null" />
@@ -28,36 +53,11 @@
       <item value="3.0 f" />
       <item value="m Angle" />
       <item value="360" />
-      <item value="ROTATION_0" />
-      <item value="TYPE ACCELEROMETER" />
-      <item value="set Gps Marker" />
-      <item value="Override" />
-      <item value="set Rotate Angle" />
-      <item value="return" />
-      <item value="abs" />
-      <item value="last X" />
-      <item value="pitch" />
-      <item value="360.0 F" />
-      <item value="to Degrees" />
-      <item value="TIME SENSOR" />
-      <item value="get Orientation" />
-      <item value="get Rotation Matrix" />
-      <item value="geomagnetic" />
-      <item value="gravity" />
-      <item value="on Accuracy Changed" />
-      <item value="on Sensor Changed" />
-      <item value="set Current Marker" />
-      <item value="rate suitable for the user interface" />
-      <item value="rate (default) suitable for screen orientation changes" />
-      <item value="SENSOR DELAY NORMAL" />
-      <item value="un Register Sensor Listener" />
-      <item value="register Sensor Listener" />
-      <item value="magnetic Sensor" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1944" />
-        <entry key="ENGLISH" value="1893" />
+        <entry key="ENGLISH" value="1894" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="7" />
         <entry key="GERMAN" value="2" />
