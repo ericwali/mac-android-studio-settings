@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="Cancelable Callback" />
       <item value="set Position By Pixels" />
       <item value="get Position" />
       <item value="to Screen Location" />
@@ -32,7 +33,6 @@
       <item value="Relative Layout" />
       <item value="add View" />
       <item value="mlocation Client" />
-      <item value="Cancelable Callback" />
       <item value="set Location Source" />
       <item value="java.lang.NullPointerException: Attempt to invoke virtual method 'android.view.View android.view.View.findViewById(int)' on a null object reference" />
       <item value="A Map Location Listener" />
