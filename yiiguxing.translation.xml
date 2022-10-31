@@ -3,6 +3,23 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="set Position By Pixels" />
+      <item value="get Position" />
+      <item value="to Screen Location" />
+      <item value="get Projection" />
+      <item value="my Cancel Callback" />
+      <item value="on Cancel" />
+      <item value="on Finish" />
+      <item value="animate Camera" />
+      <item value="marker Location" />
+      <item value="user Move Map Mark" />
+      <item value="user Move Map" />
+      <item value="use Move Map" />
+      <item value="use Move To Location With Map Mode" />
+      <item value="set Position" />
+      <item value="start Change Location" />
+      <item value="location Marker" />
+      <item value="get Error Code" />
       <item value="location Listener" />
       <item value="TERMINATED" />
       <item value="location Client" />
@@ -21,14 +38,10 @@
       <item value="A Map Location Listener" />
       <item value="On Map Touch Listener" />
       <item value="Location Source" />
-      <item value="to Screen Location" />
-      <item value="set Position By Pixels" />
       <item value="set My Location Enabled" />
       <item value="deactivate" />
-      <item value="use Move To Location With Map Mode" />
       <item value="start Move Location And Map" />
       <item value="LOCATION TYPE LOCATION ROTATE NO CENTER" />
-      <item value="start Change Location" />
       <item value="on Pause" />
       <item value="activate" />
       <item value="stop Location" />
@@ -40,19 +53,6 @@
       <item value="kicc user info" />
       <item value="new Lat Lng Bounds" />
       <item value="new Lat Lng Bounds Rect" />
-      <item value="change Bearing Geo Center" />
-      <item value="change Bearing" />
-      <item value="new Lat Lng Zoom" />
-      <item value="new Lat Lng" />
-      <item value="zoom To" />
-      <item value="zoom In" />
-      <item value="resize Enable" />
-      <item value="pitch" />
-      <item value="LOCATION TYPE LOCATE" />
-      <item value="my Location Style" />
-      <item value="ZOOM POSITION RIGHT CENTER" />
-      <item value="radius Fill Color" />
-      <item value="amap Location" />
     </histories>
     <option name="languageScores">
       <map>
