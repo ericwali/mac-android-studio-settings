@@ -3,6 +3,23 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="SENSOR SERVICE" />
+      <item value="TYPE ORIENTATION" />
+      <item value="TYPE TEMPERATURE" />
+      <item value="A constant describing an orientation sensor type. See SensorEvent.values for more details. Deprecated use SensorManager.getOrientation() instead." />
+      <item value="get Default Sensor" />
+      <item value="Sensor Manager" />
+      <item value="时间精度" />
+      <item value="last Time" />
+      <item value="TIME SENSOR" />
+      <item value="on Accuracy Changed" />
+      <item value="current Time Millis" />
+      <item value="WINDOW SERVICE" />
+      <item value="get Screen Rotation On Phone" />
+      <item value="on Sensor Changed" />
+      <item value="on Flush Completed" />
+      <item value="Map Sensor Event Listener" />
+      <item value="Map Sensor Event Util" />
       <item value="Cancelable Callback" />
       <item value="set Position By Pixels" />
       <item value="get Position" />
@@ -36,28 +53,11 @@
       <item value="set Location Source" />
       <item value="java.lang.NullPointerException: Attempt to invoke virtual method 'android.view.View android.view.View.findViewById(int)' on a null object reference" />
       <item value="A Map Location Listener" />
-      <item value="On Map Touch Listener" />
-      <item value="Location Source" />
-      <item value="set My Location Enabled" />
-      <item value="deactivate" />
-      <item value="start Move Location And Map" />
-      <item value="LOCATION TYPE LOCATION ROTATE NO CENTER" />
-      <item value="on Pause" />
-      <item value="activate" />
-      <item value="stop Location" />
-      <item value="my Location Type" />
-      <item value="create From Parcel" />
-      <item value="The given class loader will be used to load any enclosed Parcelables." />
-      <item value="Read and return a new Object array from the parcel at the current dataPosition(). Returns null if the previously written array was null. The given class loader will be used to load any enclosed Parcelables." />
-      <item value="Person Entity" />
-      <item value="kicc user info" />
-      <item value="new Lat Lng Bounds" />
-      <item value="new Lat Lng Bounds Rect" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1944" />
-        <entry key="ENGLISH" value="1892" />
+        <entry key="ENGLISH" value="1893" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="7" />
         <entry key="GERMAN" value="2" />
