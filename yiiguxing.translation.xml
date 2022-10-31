@@ -3,9 +3,10 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="Get Static Method ID" />
+      <item value="native Load" />
       <item value="JNI DETECTED ERROR IN APPLICATION: java_class == null" />
       <item value="Dumping all threads without mutator lock held" />
-      <item value="Get Static Method ID" />
       <item value="Aom.kicc.collect: runtime.cc:675] native: 00 pc 000000000004de5c apexcom.android.runtimelib64bioniclibc.so (syscall+28) (BuildId: 058e3ec96fa600fb840a6a6956c6b64e)" />
       <item value="on Resume" />
       <item value="user Move To Location Mark" />
@@ -52,7 +53,6 @@
       <item value="un Register Sensor Listener" />
       <item value="register Sensor Listener" />
       <item value="magnetic Sensor" />
-      <item value="accelerometer Sensor" />
     </histories>
     <option name="languageScores">
       <map>
