@@ -3,6 +3,15 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="READ PHONE STATE" />
+      <item value="should Show Request Permission Rationale" />
+      <item value="PERMISSION GRANTED" />
+      <item value="need Request Permission List" />
+      <item value="PERMISSION DENIED" />
+      <item value="ACCESS FINE LOCATION" />
+      <item value="WRITE EXTERNAL STORAGE" />
+      <item value="READ EXTERNAL STORAGE" />
+      <item value="ACCESS COARSE LOCATION" />
       <item value="3.0 f" />
       <item value="m Angle" />
       <item value="360" />
@@ -44,15 +53,6 @@
       <item value="last Time" />
       <item value="current Time Millis" />
       <item value="WINDOW SERVICE" />
-      <item value="get Screen Rotation On Phone" />
-      <item value="on Flush Completed" />
-      <item value="Map Sensor Event Listener" />
-      <item value="Map Sensor Event Util" />
-      <item value="Cancelable Callback" />
-      <item value="set Position By Pixels" />
-      <item value="get Position" />
-      <item value="to Screen Location" />
-      <item value="get Projection" />
     </histories>
     <option name="languageScores">
       <map>
