@@ -3,6 +3,22 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="3.0 f" />
+      <item value="m Angle" />
+      <item value="360" />
+      <item value="ROTATION_0" />
+      <item value="TYPE ACCELEROMETER" />
+      <item value="set Gps Marker" />
+      <item value="on Pause" />
+      <item value="Override" />
+      <item value="set Rotate Angle" />
+      <item value="return" />
+      <item value="abs" />
+      <item value="last X" />
+      <item value="pitch" />
+      <item value="360.0 F" />
+      <item value="to Degrees" />
+      <item value="TIME SENSOR" />
       <item value="get Orientation" />
       <item value="get Rotation Matrix" />
       <item value="geomagnetic" />
@@ -17,7 +33,6 @@
       <item value="register Sensor Listener" />
       <item value="magnetic Sensor" />
       <item value="accelerometer Sensor" />
-      <item value="TYPE ACCELEROMETER" />
       <item value="TYPE MAGNETIC FIELD" />
       <item value="SENSOR SERVICE" />
       <item value="TYPE ORIENTATION" />
@@ -27,7 +42,6 @@
       <item value="Sensor Manager" />
       <item value="时间精度" />
       <item value="last Time" />
-      <item value="TIME SENSOR" />
       <item value="current Time Millis" />
       <item value="WINDOW SERVICE" />
       <item value="get Screen Rotation On Phone" />
@@ -39,20 +53,6 @@
       <item value="get Position" />
       <item value="to Screen Location" />
       <item value="get Projection" />
-      <item value="my Cancel Callback" />
-      <item value="on Cancel" />
-      <item value="on Finish" />
-      <item value="animate Camera" />
-      <item value="marker Location" />
-      <item value="user Move Map Mark" />
-      <item value="user Move Map" />
-      <item value="use Move Map" />
-      <item value="use Move To Location With Map Mode" />
-      <item value="set Position" />
-      <item value="start Change Location" />
-      <item value="location Marker" />
-      <item value="get Error Code" />
-      <item value="location Listener" />
     </histories>
     <option name="languageScores">
       <map>
