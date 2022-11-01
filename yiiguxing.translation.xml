@@ -3,6 +3,22 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="finish All Activity" />
+      <item value="FLAG ACTIVITY NEW TASK" />
+      <item value="throw If Fatal" />
+      <item value="Rx Java Plugins" />
+      <item value="on Response" />
+      <item value="is Flowable" />
+      <item value="on Error Resume Next" />
+      <item value="original Response" />
+      <item value="proceed" />
+      <item value="response" />
+      <item value="Response" />
+      <item value="new Builder" />
+      <item value="add Network Interceptor" />
+      <item value="add Interceptor" />
+      <item value="connection Pool" />
+      <item value="connect Timeout" />
       <item value="Got a deoptimization request on un-deoptimizable method retrofit2.Call com.kicc.collect.service.Impl.LoginServiceImpl.getUserInfo(" />
       <item value="java.lang.IllegalArgumentException: Unable to create converter for class com.kicc.collect.entity.User" />
       <item value="WSystem.err: java.net.SocketTimeoutException: failed to connect to dualstack-arestapi.amap.com198.18.7.169 (port 443) from 10.0.2.16 (port 55830) after 5000ms" />
@@ -37,22 +53,6 @@
       <item value="map Logistic Point" />
       <item value="map Task Preset Logistic Point" />
       <item value="methods" />
-      <item value="keepclasseswithmembernames" />
-      <item value="keepclassmembers" />
-      <item value="on Click" />
-      <item value="No issues found." />
-      <item value="&gt; Task :app:lintVitalRelease No issues found." />
-      <item value="Task :app:lintVitalRelease" />
-      <item value="lint Vital Release" />
-      <item value="show My Location Button Enabled" />
-      <item value="setLogoBottomMargin [" />
-      <item value="java.lang.NoSuchMethodException: com.amap.api.col.3nsl.j3.showMyLocationButtonEnabled" />
-      <item value="ECrashReport-Native: find cls error comtencentbuglycrashreportcrashjniNativeExceptionHandler ECrashReport-Native: back up bugly classes error" />
-      <item value="We want to keep methods in Activity that could be used in the XML attribute onClick" />
-      <item value="Web View" />
-      <item value="不混淆 Activity 在 XML 布局所设置的 onClick 属性值" />
-      <item value="verbose" />
-      <item value="dontskipnonpubliclibraryclasses" />
     </histories>
     <option name="languageScores">
       <map>
