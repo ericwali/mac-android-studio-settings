@@ -3,6 +3,20 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="WSystem.err: Caused by: com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field &quot;authority&quot; (class android.os.Bundle), not marked as ignorable (one known property: &quot;classLoader&quot;])" />
+      <item value="not marked as ignorable (one known property: &quot;classLoader&quot;])" />
+      <item value="WParcel: Expecting binder but got null!" />
+      <item value="WSystem.err: at [Source: (okhttp3.ResponseBodyBomAwareReader); line: 1, column: 268] (through reference chain: com.kicc.collect.entity.TokenEnhancer[&quot;user_info&quot;]-&gt;com.kicc.core.entity.KiccUser[&quot;authorities&quot;]-&gt;java.util.ArrayList[0]-&gt;android.os.Bundle[&quot;authority&quot;])" />
+      <item value="(class android.os.Bundle), not marked as ignorable (one known property: &quot;classLoader&quot;])" />
+      <item value="om.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field &quot;authority&quot;" />
+      <item value="om.google.gson.internal.LinkedTreeMap cannot be cast to com.kicc.collect.entity.User" />
+      <item value="com.google.gson.internal.LinkedTreeMap cannot be cast to com.kicc.collect.entity.User" />
+      <item value="Caused by: java.lang.ClassCastException: com.google.gson.internal.LinkedTreeMap cannot be cast to com.kicc.collect.entity.User" />
+      <item value="ed by: java.lang.IllegalArgumentException: class com.kicc.collect.entity.User declares multiple JSON fields named remarks" />
+      <item value="Platform class android.os.Bundle requires explicit JsonAdapter to be registered" />
+      <item value="The exception was not handled due to missing onError handler in the subscribe() method call. Further reading: https:github.comReactiveXRxJavawikiError-Handling | java.lang.IllegalArgumentException: Unable to create converter for class com.kicc.collect.entity.TokenEnhancer for method LoginMapper.login" />
+      <item value="The exception was not handled due to missing onError handler in the subscribe() method call. Further reading: https:github.comReactiveXRxJavawikiError-Handling | java.lang.IllegalArgumentException: Unable to create converter for class com.kicc.collect.entity.TokenEnhancer WSystem.err: for method LoginMapper.login" />
+      <item value="Unable to create converter for class com.kicc.collect.entity.TokenEnhancer" />
       <item value="Type Adapter" />
       <item value="the key and value type parameters always agree" />
       <item value="thread Calls" />
@@ -15,7 +29,6 @@
       <item value="nativecrashreport" />
       <item value="add Call Adapter Factory" />
       <item value="Post a normal task: com.tencent.bugly.crashreport.crash.c1" />
-      <item value="WSystem.err: Caused by: com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field &quot;authority&quot; (class android.os.Bundle), not marked as ignorable (one known property: &quot;classLoader&quot;])" />
       <item value="Input Stream Reader" />
       <item value="input Stream" />
       <item value="content Type" />
@@ -40,19 +53,6 @@
       <item value="Rx Java Plugins" />
       <item value="on Response" />
       <item value="is Flowable" />
-      <item value="on Error Resume Next" />
-      <item value="original Response" />
-      <item value="proceed" />
-      <item value="response" />
-      <item value="new Builder" />
-      <item value="add Network Interceptor" />
-      <item value="add Interceptor" />
-      <item value="connection Pool" />
-      <item value="connect Timeout" />
-      <item value="Got a deoptimization request on un-deoptimizable method retrofit2.Call com.kicc.collect.service.Impl.LoginServiceImpl.getUserInfo(" />
-      <item value="WSystem.err: java.net.SocketTimeoutException: failed to connect to dualstack-arestapi.amap.com198.18.7.169 (port 443) from 10.0.2.16 (port 55830) after 5000ms" />
-      <item value="call" />
-      <item value="observer" />
     </histories>
     <option name="languageScores">
       <map>
