@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="java.net.SocketException: Connection reset" />
+      <item value="android.os.Handler Thread.run(Handler Thread.java:67)" />
+      <item value="java.net.SocketTimeoutException: Read timed out WSystem.err: at java.net.SocketInputStream.socketRead0(Native Method) WSystem.err: at java.net.SocketInputStream.socketRead(SocketInputStream.java:118)" />
+      <item value="java.net.SocketTimeoutException: Read timed out" />
       <item value="bad array lengths" />
       <item value="read String 16" />
       <item value="read Int" />
@@ -49,10 +53,6 @@
       <item value="The exception was not handled due to missing onError handler in the subscribe() method call. Further reading: https:github.comReactiveXRxJavawikiError-Handling | java.lang.IllegalArgumentException: Unable to create converter for class com.kicc.collect.entity.TokenEnhancer for method LoginMapper.login" />
       <item value="The exception was not handled due to missing onError handler in the subscribe() method call. Further reading: https:github.comReactiveXRxJavawikiError-Handling | java.lang.IllegalArgumentException: Unable to create converter for class com.kicc.collect.entity.TokenEnhancer WSystem.err: for method LoginMapper.login" />
       <item value="Unable to create converter for class com.kicc.collect.entity.TokenEnhancer" />
-      <item value="Type Adapter" />
-      <item value="the key and value type parameters always agree" />
-      <item value="thread Calls" />
-      <item value="Future Type Adapter" />
     </histories>
     <option name="languageScores">
       <map>
