@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="java.lang.IllegalArgumentException: Unable to create converter for class com.kicc.collect.entity.User" />
       <item value="exceptiontransformer" />
       <item value="schedulers Transformer" />
       <item value="exception Transformer" />
@@ -28,7 +29,6 @@
       <item value="connection Pool" />
       <item value="connect Timeout" />
       <item value="Got a deoptimization request on un-deoptimizable method retrofit2.Call com.kicc.collect.service.Impl.LoginServiceImpl.getUserInfo(" />
-      <item value="java.lang.IllegalArgumentException: Unable to create converter for class com.kicc.collect.entity.User" />
       <item value="WSystem.err: java.net.SocketTimeoutException: failed to connect to dualstack-arestapi.amap.com198.18.7.169 (port 443) from 10.0.2.16 (port 55830) after 5000ms" />
       <item value="call" />
       <item value="observer" />
