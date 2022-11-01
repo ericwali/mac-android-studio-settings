@@ -3,6 +3,14 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="create From Parcel" />
+      <item value="Attempt to get length of null array" />
+      <item value="map Logistic" />
+      <item value="map Data" />
+      <item value="upload Gps" />
+      <item value="on Error" />
+      <item value="on Complete" />
+      <item value="get Map Data By Courier User Id" />
       <item value="map Logistic Id" />
       <item value="WSystem.err: Caused by: com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field &quot;authorities&quot; (class com.kicc.core.entity.KiccUser), not marked as ignorable (10 known properties: &quot;deptId&quot;, &quot;enabled&quot;, &quot;credentialsNonExpired&quot;, &quot;accountNonExpired&quot;, &quot;username&quot;, &quot;accountNonLocked&quot;, &quot;id&quot;, &quot;phone&quot;, &quot;tenantId&quot;, &quot;password&quot;])" />
       <item value="WSystem.err: Caused by: com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field &quot;authority&quot; (class android.os.Bundle), not marked as ignorable (one known property: &quot;classLoader&quot;])" />
@@ -45,14 +53,6 @@
       <item value="schedulers Transformer" />
       <item value="exception Transformer" />
       <item value="Login Mapper" />
-      <item value="call to OpenGL ES API with no current context" />
-      <item value="ElibEGL: call to OpenGL ES API with no current context (logged once per thread)" />
-      <item value="subscribe On" />
-      <item value="problem Back Switch Event" />
-      <item value="finish All Activity" />
-      <item value="FLAG ACTIVITY NEW TASK" />
-      <item value="throw If Fatal" />
-      <item value="Rx Java Plugins" />
     </histories>
     <option name="languageScores">
       <map>
