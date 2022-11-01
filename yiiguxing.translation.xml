@@ -3,6 +3,22 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="Got a deoptimization request on un-deoptimizable method retrofit2.Call com.kicc.collect.service.Impl.LoginServiceImpl.getUserInfo(" />
+      <item value="java.lang.IllegalArgumentException: Unable to create converter for class com.kicc.collect.entity.User" />
+      <item value="WSystem.err: java.net.SocketTimeoutException: failed to connect to dualstack-arestapi.amap.com198.18.7.169 (port 443) from 10.0.2.16 (port 55830) after 5000ms" />
+      <item value="call" />
+      <item value="observer" />
+      <item value="enqueue" />
+      <item value="Call Enqueue Observable" />
+      <item value="Call Execute Observable" />
+      <item value="Body Observable" />
+      <item value="Result Observable" />
+      <item value="Completable is not parameterized (which is what the rest of this method deals with) so it can only be created with a single configuration." />
+      <item value="Rx Java 2 Call Adapter Factory" />
+      <item value="create Async" />
+      <item value="IO Exception" />
+      <item value="Call" />
+      <item value="Observable" />
       <item value="get User Info" />
       <item value="KICC COLLECT TOKEN ENHANCER" />
       <item value="select Map Data" />
@@ -37,22 +53,6 @@
       <item value="不混淆 Activity 在 XML 布局所设置的 onClick 属性值" />
       <item value="verbose" />
       <item value="dontskipnonpubliclibraryclasses" />
-      <item value="dontusemixedcaseclassnames" />
-      <item value="The remainder of this file is identical to the non-optimized version of the Proguard configuration file (except that the other file has flags to turn off optimization)." />
-      <item value="dontpreverify" />
-      <item value="allowaccessmodification" />
-      <item value="optimizationpasses" />
-      <item value="This file is no longer maintained and is not used by new (2.2+) versions of the Android plugin for Gradle. Instead, the Android plugin for Gradle generates the default rules at build time and stores them in the build directory. Optimizations: If you don't want to optimize, use the proguard-android.txt configuration file instead of this one, which turns off the optimization flags. Adding optimization introduces certain risks, since for example not all optimizations performed by ProGuard works on all versions of Dalvik. The following flags turn off various optimizations known to have issues, but the list may not be complete or up to date. (The &quot;arithmetic&quot; optimization can be used if you are only targeting Android 2.0 or later.) Make sure you test thoroughly if you go this route." />
-      <item value="simplification" />
-      <item value="Javascript Interface" />
-      <item value="Get Static Method ID" />
-      <item value="native Load" />
-      <item value="JNI DETECTED ERROR IN APPLICATION: java_class == null" />
-      <item value="Dumping all threads without mutator lock held" />
-      <item value="Aom.kicc.collect: runtime.cc:675] native: 00 pc 000000000004de5c apexcom.android.runtimelib64bioniclibc.so (syscall+28) (BuildId: 058e3ec96fa600fb840a6a6956c6b64e)" />
-      <item value="on Resume" />
-      <item value="user Move To Location Mark" />
-      <item value="on Pause" />
     </histories>
     <option name="languageScores">
       <map>
