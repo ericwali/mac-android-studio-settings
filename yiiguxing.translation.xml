@@ -3,6 +3,12 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="exceptiontransformer" />
+      <item value="schedulers Transformer" />
+      <item value="exception Transformer" />
+      <item value="Login Mapper" />
+      <item value="call to OpenGL ES API with no current context" />
+      <item value="ElibEGL: call to OpenGL ES API with no current context (logged once per thread)" />
       <item value="subscribe On" />
       <item value="problem Back Switch Event" />
       <item value="finish All Activity" />
@@ -47,12 +53,6 @@
       <item value="get Generic Superclass" />
       <item value="Dagger Service Component" />
       <item value="Form Url Encoded" />
-      <item value="Documented" />
-      <item value="PATCH" />
-      <item value="Path" />
-      <item value="courier User Id" />
-      <item value="finlish Task Num" />
-      <item value="map Logistic Point" />
     </histories>
     <option name="languageScores">
       <map>
