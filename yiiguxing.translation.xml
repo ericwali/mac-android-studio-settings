@@ -3,6 +3,12 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="get Map Data By Courier User Id" />
+      <item value="Form Url Encoded" />
+      <item value="Documented" />
+      <item value="PATCH" />
+      <item value="Path" />
+      <item value="courier User Id" />
       <item value="finlish Task Num" />
       <item value="map Logistic Point" />
       <item value="map Task Preset Logistic Point" />
@@ -47,12 +53,6 @@
       <item value="READ PHONE STATE" />
       <item value="should Show Request Permission Rationale" />
       <item value="PERMISSION GRANTED" />
-      <item value="need Request Permission List" />
-      <item value="PERMISSION DENIED" />
-      <item value="ACCESS FINE LOCATION" />
-      <item value="WRITE EXTERNAL STORAGE" />
-      <item value="READ EXTERNAL STORAGE" />
-      <item value="ACCESS COARSE LOCATION" />
     </histories>
     <option name="languageScores">
       <map>
