@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="WSystem.err: Caused by: com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field &quot;authorities&quot; (class com.kicc.core.entity.KiccUser), not marked as ignorable (10 known properties: &quot;deptId&quot;, &quot;enabled&quot;, &quot;credentialsNonExpired&quot;, &quot;accountNonExpired&quot;, &quot;username&quot;, &quot;accountNonLocked&quot;, &quot;id&quot;, &quot;phone&quot;, &quot;tenantId&quot;, &quot;password&quot;])" />
       <item value="WSystem.err: Caused by: com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field &quot;authority&quot; (class android.os.Bundle), not marked as ignorable (one known property: &quot;classLoader&quot;])" />
       <item value="not marked as ignorable (one known property: &quot;classLoader&quot;])" />
       <item value="WParcel: Expecting binder but got null!" />
@@ -52,7 +53,6 @@
       <item value="throw If Fatal" />
       <item value="Rx Java Plugins" />
       <item value="on Response" />
-      <item value="is Flowable" />
     </histories>
     <option name="languageScores">
       <map>
