@@ -3,11 +3,21 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="Observable Transformer" />
+      <item value="on Error Resume Next" />
+      <item value="observe On" />
+      <item value="Schedulers" />
+      <item value="subscribe On" />
+      <item value="handle Exception" />
+      <item value="exception Transformer" />
+      <item value="compose" />
+      <item value="subscribe" />
+      <item value="do On Subscribe" />
+      <item value="Disposable Single Observer" />
       <item value="base Exception Msg" />
       <item value="base Exception" />
       <item value="login Observer" />
       <item value="disposable Observer" />
-      <item value="subscribe" />
       <item value="create From Parcel" />
       <item value="Attempt to get length of null array" />
       <item value="map Logistic" />
@@ -43,16 +53,6 @@
       <item value="ongoing Call" />
       <item value="nativecrashreport" />
       <item value="add Call Adapter Factory" />
-      <item value="Post a normal task: com.tencent.bugly.crashreport.crash.c1" />
-      <item value="Input Stream Reader" />
-      <item value="input Stream" />
-      <item value="content Type" />
-      <item value="Custom Gson Response Body Converter" />
-      <item value="Gson Converter Factory" />
-      <item value="Rx Java 2 Call Adapter Factory" />
-      <item value="on Assembly" />
-      <item value="Response" />
-      <item value="observable Type" />
     </histories>
     <option name="languageScores">
       <map>
