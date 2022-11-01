@@ -3,6 +3,14 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="bad array lengths" />
+      <item value="read String 16" />
+      <item value="read Int" />
+      <item value="s crashed, executing CustomActivityOnCrash's UncaughtExceptionHandler java.lang.RuntimeException: bad array lengths" />
+      <item value="Non Null" />
+      <item value="Attempt to get length of null array" />
+      <item value="EWindowManager: android.view.WindowLeaked: Activity com.kicc.collect.ui.activity.LoginActivity has leaked window DecorView@a5a9737[LoginActivity] that was originally added here" />
+      <item value="Single Observer" />
       <item value="Observable Transformer" />
       <item value="on Error Resume Next" />
       <item value="observe On" />
@@ -19,7 +27,6 @@
       <item value="login Observer" />
       <item value="disposable Observer" />
       <item value="create From Parcel" />
-      <item value="Attempt to get length of null array" />
       <item value="map Logistic" />
       <item value="map Data" />
       <item value="upload Gps" />
@@ -46,13 +53,6 @@
       <item value="the key and value type parameters always agree" />
       <item value="thread Calls" />
       <item value="Future Type Adapter" />
-      <item value="cannot handle" />
-      <item value="Returns the type adapter for type. Throws: IllegalArgumentException – if this GSON cannot serialize and deserialize type." />
-      <item value="cached" />
-      <item value="get Adapter" />
-      <item value="ongoing Call" />
-      <item value="nativecrashreport" />
-      <item value="add Call Adapter Factory" />
     </histories>
     <option name="languageScores">
       <map>
