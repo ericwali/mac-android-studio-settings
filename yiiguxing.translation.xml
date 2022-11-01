@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="finlish Task Num" />
       <item value="map Logistic Point" />
       <item value="map Task Preset Logistic Point" />
       <item value="methods" />
@@ -52,7 +53,6 @@
       <item value="WRITE EXTERNAL STORAGE" />
       <item value="READ EXTERNAL STORAGE" />
       <item value="ACCESS COARSE LOCATION" />
-      <item value="3.0 f" />
     </histories>
     <option name="languageScores">
       <map>
