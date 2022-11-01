@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="subscribe On" />
+      <item value="problem Back Switch Event" />
       <item value="finish All Activity" />
       <item value="FLAG ACTIVITY NEW TASK" />
       <item value="throw If Fatal" />
@@ -51,8 +53,6 @@
       <item value="courier User Id" />
       <item value="finlish Task Num" />
       <item value="map Logistic Point" />
-      <item value="map Task Preset Logistic Point" />
-      <item value="methods" />
     </histories>
     <option name="languageScores">
       <map>
