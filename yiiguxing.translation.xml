@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="on Error Resume Next" />
+      <item value="subscribe On" />
       <item value="java.net.SocketException: Connection reset" />
       <item value="android.os.Handler Thread.run(Handler Thread.java:67)" />
       <item value="java.net.SocketTimeoutException: Read timed out WSystem.err: at java.net.SocketInputStream.socketRead0(Native Method) WSystem.err: at java.net.SocketInputStream.socketRead(SocketInputStream.java:118)" />
@@ -16,10 +18,8 @@
       <item value="EWindowManager: android.view.WindowLeaked: Activity com.kicc.collect.ui.activity.LoginActivity has leaked window DecorView@a5a9737[LoginActivity] that was originally added here" />
       <item value="Single Observer" />
       <item value="Observable Transformer" />
-      <item value="on Error Resume Next" />
       <item value="observe On" />
       <item value="Schedulers" />
-      <item value="subscribe On" />
       <item value="handle Exception" />
       <item value="exception Transformer" />
       <item value="compose" />
