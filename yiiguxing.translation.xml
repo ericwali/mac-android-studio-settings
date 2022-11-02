@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="change Bearing Geo Center" />
       <item value="Lat Lng" />
       <item value="28.288623" />
       <item value="new Camera Position" />
@@ -52,7 +53,6 @@
       <item value="android.os.Handler Thread.run(Handler Thread.java:67)" />
       <item value="java.net.SocketTimeoutException: Read timed out WSystem.err: at java.net.SocketInputStream.socketRead0(Native Method) WSystem.err: at java.net.SocketInputStream.socketRead(SocketInputStream.java:118)" />
       <item value="java.net.SocketTimeoutException: Read timed out" />
-      <item value="bad array lengths" />
     </histories>
     <option name="languageScores">
       <map>
