@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="get Location Quality Report" />
+      <item value="get Error Code" />
       <item value="java.lang.NullPointerException: Attempt to read from field 'com.kicc.core.bus.SingleLiveEvent com.kicc.collect.ui.vm.TabBarHomeViewModel.mapLogistic' on a null object reference in method 'void com.kicc.collect.ui.fragment.TabBarHomeFragment.onCreate(android.os.Bundle)'" />
       <item value="double Value" />
       <item value="split" />
@@ -51,8 +53,6 @@
       <item value="read String 16" />
       <item value="read Int" />
       <item value="s crashed, executing CustomActivityOnCrash's UncaughtExceptionHandler java.lang.RuntimeException: bad array lengths" />
-      <item value="Non Null" />
-      <item value="Attempt to get length of null array" />
     </histories>
     <option name="languageScores">
       <map>
