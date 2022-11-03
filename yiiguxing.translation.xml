@@ -3,8 +3,13 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="position" />
+      <item value="Linear Interpolator" />
+      <item value="set Interpolator" />
+      <item value="Scale Animation" />
       <item value="anchor" />
       <item value="set Map Data Point Marker" />
+      <item value="Unexpected value" />
       <item value="add Map Data Point Marker" />
       <item value="add Grow Marker" />
       <item value="start Grow Animation" />
@@ -48,11 +53,6 @@
       <item value="backstage Upload Location Gps" />
       <item value="interrupt" />
       <item value="may Interrupt If Running" />
-      <item value="EThreadUtils: onCancel: Thread[main,5,main]" />
-      <item value="Ic.collect.debug: Explicit concurrent copying GC freed 124104(4844KB) AllocSpace objects, 50(1000KB) LOS objects, 49% free, 7017KB13MB, paused 37us,12us total 11.234ms" />
-      <item value="stop Foreground" />
-      <item value="media Player" />
-      <item value="runner" />
     </histories>
     <option name="languageScores">
       <map>
