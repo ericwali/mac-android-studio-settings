@@ -2,7 +2,28 @@
   <component name="AppStorage">
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
+    <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="CODE AMAP SUCCESS" />
+      <item value="dissmiss Progress Dialog" />
+      <item value="on Drive Route Searched" />
+      <item value="on Ride Route Searched" />
+      <item value="on Walk Route Searched" />
+      <item value="set On Map Click Listener" />
+      <item value="set Route Search Listener" />
+      <item value="Route Search" />
+      <item value="set On Marker Click Listener" />
+      <item value="set On Info Window Click Listener" />
+      <item value="On Info Window Click Listener" />
+      <item value="On Marker Click Listener" />
+      <item value="On Map Click Listener" />
+      <item value="Info Window Adapter" />
+      <item value="On Route Search Listener" />
+      <item value="set Info Window Adapter" />
+      <item value="setinfowindowadapter" />
+      <item value="zoom To Span" />
+      <item value="register Listener" />
+      <item value="on Bus Route Searched" />
       <item value="From And To" />
       <item value="search Route Result" />
       <item value="position" />
@@ -33,30 +54,10 @@
       <item value="34ms, 106-byte body)" />
       <item value="Expecting binder but got null" />
       <item value="user Move To Location Mark" />
-      <item value="get Screen Rotation On Phone" />
-      <item value="m Angle" />
-      <item value="onfinish" />
-      <item value="change Bearing Geo Center" />
-      <item value="Lat Lng" />
-      <item value="28.288623" />
-      <item value="new Camera Position" />
-      <item value="get Location Quality Report" />
-      <item value="get Error Code" />
-      <item value="java.lang.NullPointerException: Attempt to read from field 'com.kicc.core.bus.SingleLiveEvent com.kicc.collect.ui.vm.TabBarHomeViewModel.mapLogistic' on a null object reference in method 'void com.kicc.collect.ui.fragment.TabBarHomeFragment.onCreate(android.os.Bundle)'" />
-      <item value="double Value" />
-      <item value="split" />
-      <item value="set Camera Distance" />
-      <item value="GPS STATUS OFF" />
-      <item value="GPS STATUS NOGPSPERMISSION" />
-      <item value="A Map Location Quality Report" />
-      <item value="call to OpenGL ES API with no current context (logged once per thread)" />
-      <item value="Map Logistic" />
-      <item value="request Map Data By Courier User" />
-      <item value="background Upload Location Gps Task" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1944" />
+        <entry key="CHINESE" value="1945" />
         <entry key="ENGLISH" value="1894" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="7" />
