@@ -4,11 +4,17 @@
     <option name="newTranslationDialogY" value="360" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="Ride Route Overlay" />
-      <item value="Driving Route Overlay" />
-      <item value="Route Overlay" />
-      <item value="Truck Route Colorful Over Lay" />
+      <item value="amap end" />
       <item value="Drive Route Plan Activity" />
+      <item value="Driving Route Plan Overlay" />
+      <item value="Driving Route Overlay" />
+      <item value="station Markers" />
+      <item value="add Start And End Marker" />
+      <item value="init Polyline Options" />
+      <item value="add Driving Station Markers" />
+      <item value="Route Overlay" />
+      <item value="Ride Route Overlay" />
+      <item value="Truck Route Colorful Over Lay" />
       <item value="Drive Segment List Adapter" />
       <item value="Polyline" />
       <item value="m Polyline Options" />
@@ -48,12 +54,6 @@
       <item value="start Grow Animation" />
       <item value="HUE AZURE" />
       <item value="On Map Loaded Listener" />
-      <item value="Dex Guard" />
-      <item value="for DexGuard only" />
-      <item value="Method set() with type float not found on target class class me.zhanghai.android.materialprogressbar.IndeterminateHorizontalProgressDrawableRectTransformX WParcel: Expecting binder but got null!" />
-      <item value="37ms, 106-byte body" />
-      <item value="locked, reflection, denied)" />
-      <item value="Accessing hidden field LandroidviewinputmethodInputMethodManager;-&gt;mCurRootView:LandroidviewViewRootImpl;" />
     </histories>
     <option name="languageScores">
       <map>
@@ -81,7 +81,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1667024915400" />
+    <option name="lastTrimTime" value="1667457004817" />
   </component>
   <component name="Settings">
     <option name="aliTranslateSettings">
