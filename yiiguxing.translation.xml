@@ -3,6 +3,13 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="anchor" />
+      <item value="set Map Data Point Marker" />
+      <item value="add Map Data Point Marker" />
+      <item value="add Grow Marker" />
+      <item value="start Grow Animation" />
+      <item value="HUE AZURE" />
+      <item value="On Map Loaded Listener" />
       <item value="Dex Guard" />
       <item value="for DexGuard only" />
       <item value="Method set() with type float not found on target class class me.zhanghai.android.materialprogressbar.IndeterminateHorizontalProgressDrawableRectTransformX WParcel: Expecting binder but got null!" />
@@ -46,13 +53,6 @@
       <item value="stop Foreground" />
       <item value="media Player" />
       <item value="runner" />
-      <item value="background Location Task" />
-      <item value="Background Location Task" />
-      <item value="Test Scheduled Task" />
-      <item value="doinbackground" />
-      <item value="type" />
-      <item value="TYPE CACHED" />
-      <item value="TYPE PRIORITY POOLS" />
     </histories>
     <option name="languageScores">
       <map>
