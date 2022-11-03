@@ -4,12 +4,16 @@
     <option name="newTranslationDialogY" value="360" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="lat Lon Point" />
+      <item value="convert To Lat Lng" />
+      <item value="end" />
+      <item value="converttolatlng" />
+      <item value="Driving Route Overlay" />
       <item value="amap man" />
       <item value="get End Bitmap Descriptor" />
       <item value="amap end" />
       <item value="Drive Route Plan Activity" />
       <item value="Driving Route Plan Overlay" />
-      <item value="Driving Route Overlay" />
       <item value="station Markers" />
       <item value="add Start And End Marker" />
       <item value="init Polyline Options" />
@@ -20,7 +24,6 @@
       <item value="Drive Segment List Adapter" />
       <item value="Polyline" />
       <item value="m Polyline Options" />
-      <item value="convert To Lat Lng" />
       <item value="CODE AMAP SUCCESS" />
       <item value="dissmiss Progress Dialog" />
       <item value="on Drive Route Searched" />
@@ -51,9 +54,6 @@
       <item value="anchor" />
       <item value="set Map Data Point Marker" />
       <item value="Unexpected value" />
-      <item value="add Map Data Point Marker" />
-      <item value="add Grow Marker" />
-      <item value="start Grow Animation" />
     </histories>
     <option name="languageScores">
       <map>
