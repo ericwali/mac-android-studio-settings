@@ -4,6 +4,10 @@
     <option name="newTranslationDialogY" value="360" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Polyline" />
+      <item value="m Polyline Options" />
+      <item value="convert To Lat Lng" />
+      <item value="Driving Route Overlay" />
       <item value="CODE AMAP SUCCESS" />
       <item value="dissmiss Progress Dialog" />
       <item value="on Drive Route Searched" />
@@ -50,10 +54,6 @@
       <item value="Expecting binder but got null!" />
       <item value="Indeterminate Horizontal Progress Drawable Rect Transform X" />
       <item value=": Method set() with type float not found on target class class me.zhanghai.android.materialprogressbar.IndeterminateHorizontalProgressDrawableRectTransformX WParcel: Expecting binder but got null!" />
-      <item value="Wom.kicc.collect: Accessing hidden field LandroidviewinputmethodInputMethodManager;-&gt;mCurRootView:LandroidviewViewRootImpl; (blocked, reflection, denied)" />
-      <item value="34ms, 106-byte body)" />
-      <item value="Expecting binder but got null" />
-      <item value="user Move To Location Mark" />
     </histories>
     <option name="languageScores">
       <map>
