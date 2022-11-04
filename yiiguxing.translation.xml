@@ -4,6 +4,25 @@
     <option name="newTranslationDialogY" value="360" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Lat Lon Point" />
+      <item value="转换Lat Lon Point对象" />
+      <item value="distance" />
+      <item value="format" />
+      <item value="Decimal Format" />
+      <item value="decimal Format" />
+      <item value="Ch String" />
+      <item value="get Kilometer" />
+      <item value="get Kilometer Length" />
+      <item value="getkilometer Length" />
+      <item value="len Meter" />
+      <item value="get Distance" />
+      <item value="get Friendly Length" />
+      <item value="Meter" />
+      <item value="m Route Detail Des" />
+      <item value="m Rotue Time Des" />
+      <item value="Common" />
+      <item value="Common Util" />
+      <item value="A Map Common Util" />
       <item value="lat Lon Point" />
       <item value="convert To Lat Lng" />
       <item value="end" />
@@ -35,30 +54,11 @@
       <item value="set On Marker Click Listener" />
       <item value="set On Info Window Click Listener" />
       <item value="On Info Window Click Listener" />
-      <item value="On Marker Click Listener" />
-      <item value="On Map Click Listener" />
-      <item value="Info Window Adapter" />
-      <item value="On Route Search Listener" />
-      <item value="set Info Window Adapter" />
-      <item value="setinfowindowadapter" />
-      <item value="zoom To Span" />
-      <item value="register Listener" />
-      <item value="on Bus Route Searched" />
-      <item value="From And To" />
-      <item value="search Route Result" />
-      <item value="position" />
-      <item value="add Marker" />
-      <item value="Linear Interpolator" />
-      <item value="set Interpolator" />
-      <item value="Scale Animation" />
-      <item value="anchor" />
-      <item value="set Map Data Point Marker" />
-      <item value="Unexpected value" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1945" />
-        <entry key="ENGLISH" value="1894" />
+        <entry key="ENGLISH" value="1895" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="7" />
         <entry key="GERMAN" value="2" />
