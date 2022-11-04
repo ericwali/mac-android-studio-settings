@@ -4,6 +4,13 @@
     <option name="newTranslationDialogY" value="360" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="drive Path" />
+      <item value="Truck Route Colorful Over Lay" />
+      <item value="Driving Route Overlay" />
+      <item value="Overlay" />
+      <item value="kc ic pathway" />
+      <item value="pathway" />
+      <item value="amap through" />
       <item value="custtexture" />
       <item value="990033" />
       <item value="set Custom Texture" />
@@ -32,7 +39,6 @@
       <item value="get Walk Action ID" />
       <item value="get Driving Action Resource ID" />
       <item value="get Driving Action ID" />
-      <item value="Driving Route Overlay" />
       <item value="Drive" />
       <item value="get Drive Action ID" />
       <item value="minutes" />
@@ -48,12 +54,6 @@
       <item value="Decimal Format" />
       <item value="decimal Format" />
       <item value="Ch String" />
-      <item value="get Kilometer" />
-      <item value="get Kilometer Length" />
-      <item value="getkilometer Length" />
-      <item value="len Meter" />
-      <item value="get Distance" />
-      <item value="get Friendly Length" />
     </histories>
     <option name="languageScores">
       <map>
