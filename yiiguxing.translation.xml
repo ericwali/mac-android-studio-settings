@@ -4,9 +4,11 @@
     <option name="newTranslationDialogY" value="360" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Driving Route Overlay" />
       <item value="m Lat Lngs Of Path" />
-      <item value="Polyline Options" />
       <item value="m Polyline Options" />
+      <item value="add To Map" />
+      <item value="Polyline Options" />
       <item value="m Polyline Optionscolor" />
       <item value="init Polyline Options" />
       <item value="set Through Point Icon Visibility" />
@@ -29,7 +31,6 @@
       <item value="m Drive Route Result" />
       <item value="drive Path" />
       <item value="a Map" />
-      <item value="Driving Route Overlay" />
       <item value="color Way Update" />
       <item value="getcolor" />
       <item value="YELLOW" />
@@ -53,7 +54,6 @@
       <item value="query Interval" />
       <item value="queryfirstinterval" />
       <item value="calculate Bus Route" />
-      <item value="calculate Walk Route Asyn" />
     </histories>
     <option name="languageScores">
       <map>
