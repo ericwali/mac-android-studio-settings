@@ -4,6 +4,9 @@
     <option name="newTranslationDialogY" value="360" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="color Way Update" />
+      <item value="getcolor" />
+      <item value="YELLOW" />
       <item value="get Taxi Cost" />
       <item value="m Current City Name" />
       <item value="tmcs" />
@@ -50,10 +53,7 @@
       <item value="color Values" />
       <item value="parse Color" />
       <item value="RED" />
-      <item value="YELLOW" />
       <item value="GREEN" />
-      <item value="add Polyline" />
-      <item value="show Polyline" />
     </histories>
     <option name="languageScores">
       <map>
