@@ -4,8 +4,11 @@
     <option name="newTranslationDialogY" value="360" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="set Is Colorfulline" />
+      <item value="tmcs" />
+      <item value="add Polyline" />
+      <item value="show Polyline" />
       <item value="is Colorfulline" />
+      <item value="set Is Colorfulline" />
       <item value="drive Path" />
       <item value="Truck Route Colorful Over Lay" />
       <item value="Driving Route Overlay" />
@@ -51,9 +54,6 @@
       <item value="get Planning Kilometer" />
       <item value="Lat Lon Point" />
       <item value="转换Lat Lon Point对象" />
-      <item value="distance" />
-      <item value="format" />
-      <item value="Decimal Format" />
     </histories>
     <option name="languageScores">
       <map>
