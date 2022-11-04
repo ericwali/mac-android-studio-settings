@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="360" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Driving Route Overlay" />
       <item value="color Way Update" />
       <item value="getcolor" />
       <item value="YELLOW" />
@@ -53,7 +54,6 @@
       <item value="color Values" />
       <item value="parse Color" />
       <item value="RED" />
-      <item value="GREEN" />
     </histories>
     <option name="languageScores">
       <map>
