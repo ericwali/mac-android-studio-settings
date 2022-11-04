@@ -4,6 +4,17 @@
     <option name="newTranslationDialogY" value="360" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="query First Interval" />
+      <item value="Drive Route Plan Result" />
+      <item value="m Drive Route Plan Result" />
+      <item value="get TM Cs" />
+      <item value="tmclist" />
+      <item value="drive Paths" />
+      <item value="color Values" />
+      <item value="parse Color" />
+      <item value="RED" />
+      <item value="YELLOW" />
+      <item value="GREEN" />
       <item value="tmcs" />
       <item value="add Polyline" />
       <item value="show Polyline" />
@@ -43,17 +54,6 @@
       <item value="Bus Result List Adapter" />
       <item value="get Walk Action ID" />
       <item value="get Driving Action Resource ID" />
-      <item value="get Driving Action ID" />
-      <item value="Drive" />
-      <item value="get Drive Action ID" />
-      <item value="minutes" />
-      <item value="miniate" />
-      <item value="Duration" />
-      <item value="get Plan Time" />
-      <item value="get Plan Kilometer" />
-      <item value="get Planning Kilometer" />
-      <item value="Lat Lon Point" />
-      <item value="转换Lat Lon Point对象" />
     </histories>
     <option name="languageScores">
       <map>
