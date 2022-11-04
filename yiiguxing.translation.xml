@@ -4,6 +4,31 @@
     <option name="newTranslationDialogY" value="360" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="m Lat Lngs Of Path" />
+      <item value="Polyline Options" />
+      <item value="m Polyline Options" />
+      <item value="m Polyline Optionscolor" />
+      <item value="init Polyline Options" />
+      <item value="set Through Point Icon Visibility" />
+      <item value="through Point Marker Visible" />
+      <item value="add Through Point Marker" />
+      <item value="get Lat Lng Bounds" />
+      <item value="through Point List" />
+      <item value="tmclist" />
+      <item value="get Polyline" />
+      <item value="latlon Points" />
+      <item value="drive Paths" />
+      <item value="Sub Poi Search Activity" />
+      <item value="sub District List" />
+      <item value="Sub Poi Item" />
+      <item value="add Driving Station Markers" />
+      <item value="get Steps" />
+      <item value="get TM Cs" />
+      <item value="Drive Path" />
+      <item value="get Paths" />
+      <item value="m Drive Route Result" />
+      <item value="drive Path" />
+      <item value="a Map" />
       <item value="Driving Route Overlay" />
       <item value="color Way Update" />
       <item value="getcolor" />
@@ -29,31 +54,6 @@
       <item value="queryfirstinterval" />
       <item value="calculate Bus Route" />
       <item value="calculate Walk Route Asyn" />
-      <item value="calculate Walk Route" />
-      <item value="Ride Step" />
-      <item value="Route Railway Item" />
-      <item value="Route Search City" />
-      <item value="Route Search V 2" />
-      <item value="Search City" />
-      <item value="Taxi Item" />
-      <item value="Taxi Item V 2" />
-      <item value="Time Infos Element" />
-      <item value="Truck Route Restult" />
-      <item value="Truck Path" />
-      <item value="calculate Drive Route Asyn" />
-      <item value="I Route Search" />
-      <item value="calculate Truck Route" />
-      <item value="calculate Truck Route Asyn" />
-      <item value="Driving Default" />
-      <item value="query First Interval" />
-      <item value="Drive Route Plan Result" />
-      <item value="m Drive Route Plan Result" />
-      <item value="get TM Cs" />
-      <item value="tmclist" />
-      <item value="drive Paths" />
-      <item value="color Values" />
-      <item value="parse Color" />
-      <item value="RED" />
     </histories>
     <option name="languageScores">
       <map>
