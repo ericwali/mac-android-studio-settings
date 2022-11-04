@@ -4,6 +4,11 @@
     <option name="newTranslationDialogY" value="360" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Taxi Cost" />
+      <item value="m Current City Name" />
+      <item value="tmcs" />
+      <item value="showcolor Polyline" />
+      <item value="tmc Section" />
       <item value="DRIVING MULTI STRATEGY FASTEST SHORTEST AVOID CONGESTION" />
       <item value="DRIVING MULTI CHOICE AVOID CONGESTION" />
       <item value="DRIVING MULTI CHOICE SAVE MONEY" />
@@ -47,13 +52,8 @@
       <item value="RED" />
       <item value="YELLOW" />
       <item value="GREEN" />
-      <item value="tmcs" />
       <item value="add Polyline" />
       <item value="show Polyline" />
-      <item value="is Colorfulline" />
-      <item value="set Is Colorfulline" />
-      <item value="drive Path" />
-      <item value="Truck Route Colorful Over Lay" />
     </histories>
     <option name="languageScores">
       <map>
