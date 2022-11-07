@@ -4,6 +4,9 @@
     <option name="newTranslationDialogY" value="360" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="ElibEGL: call to OpenGL ES API with no current context (logged once per thread)" />
+      <item value="through Marker" />
+      <item value="limit" />
       <item value="set Custom Map Style" />
       <item value="route Marker" />
       <item value="Route Search" />
@@ -51,9 +54,6 @@
       <item value="Bitmap" />
       <item value="start Bit" />
       <item value="destroy Bit" />
-      <item value="recycle" />
-      <item value="start Marker" />
-      <item value="station Markers" />
     </histories>
     <option name="languageScores">
       <map>
