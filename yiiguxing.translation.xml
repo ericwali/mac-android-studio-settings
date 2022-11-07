@@ -4,6 +4,34 @@
     <option name="newTranslationDialogY" value="360" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="set Custom Map Style" />
+      <item value="route Marker" />
+      <item value="Route Search" />
+      <item value="From And To" />
+      <item value="get Ui Settings" />
+      <item value="set Map Data Point Marker" />
+      <item value="map Task Preset Logistic Point" />
+      <item value="DRIVING SINGLE DEFAULT" />
+      <item value="DRIVING MULTI CHOICE HIGHWAY" />
+      <item value="set Route Search Listener" />
+      <item value="from And To" />
+      <item value="search Driving Route Result" />
+      <item value="search Route Result" />
+      <item value="secondline" />
+      <item value="firstline" />
+      <item value="set On Click Listener" />
+      <item value="m Drive Route Result" />
+      <item value="drive path" />
+      <item value="bottom layout" />
+      <item value="m Bottom Layout" />
+      <item value="m Rotue Time Des" />
+      <item value="remove From Map" />
+      <item value="set Node Icon Visibility" />
+      <item value="get Start Pos" />
+      <item value="get Paths" />
+      <item value="show Long" />
+      <item value="show Short" />
+      <item value="on Drive Route Searched" />
       <item value="parse Color" />
       <item value="get Walk Color" />
       <item value="all Poly Lines" />
@@ -26,34 +54,6 @@
       <item value="recycle" />
       <item value="start Marker" />
       <item value="station Markers" />
-      <item value="pre Result" />
-      <item value="dis" />
-      <item value="calculate Distance" />
-      <item value="get Point For Dis" />
-      <item value="12742001.5798544" />
-      <item value="sqrt" />
-      <item value="sinx 1" />
-      <item value="cosy 1" />
-      <item value="cosx 1" />
-      <item value="siny 2" />
-      <item value="cosy 2" />
-      <item value="0.01745329251994329" />
-      <item value="through Point Marker Visible" />
-      <item value="set Through Point Icon Visibility" />
-      <item value="build" />
-      <item value="include" />
-      <item value="Lat Lng Bounds" />
-      <item value="add Marker" />
-      <item value="showcolor Polyline" />
-      <item value="from Resource" />
-      <item value="add Driving Station Markers" />
-      <item value="convert To Lat Lng" />
-      <item value="through Point List" />
-      <item value="lat Lon Point" />
-      <item value="position" />
-      <item value="Marker Options" />
-      <item value="through Point Marker List" />
-      <item value="add Through Point Marker" />
     </histories>
     <option name="languageScores">
       <map>
