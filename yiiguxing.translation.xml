@@ -4,14 +4,32 @@
     <option name="newTranslationDialogY" value="360" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="m Drive Route Result" />
+      <item value="add Station Marker" />
+      <item value="add Driving Station Markers" />
+      <item value="m Polyline Options" />
+      <item value="start Marker" />
+      <item value="add Start And End Marker" />
+      <item value="get Polyline" />
+      <item value="Drive Step" />
+      <item value="get Steps" />
+      <item value="drive Paths" />
+      <item value="m Lat Lngs Of Path" />
       <item value="drive Path" />
+      <item value="return" />
+      <item value="get Route Width" />
+      <item value="draw Driving Route" />
+      <item value="driving Route Overlay" />
+      <item value="add To Map" />
+      <item value="through Point List" />
+      <item value="end Point" />
+      <item value="start Point" />
+      <item value="Drive Path" />
+      <item value="path" />
+      <item value="context" />
+      <item value="m Drive Route Result" />
       <item value="m Context" />
       <item value="get Start Pos" />
       <item value="Driving Route Overlay" />
-      <item value="m Lat Lngs Of Path" />
-      <item value="m Polyline Options" />
-      <item value="add To Map" />
       <item value="Polyline Options" />
       <item value="m Polyline Optionscolor" />
       <item value="init Polyline Options" />
@@ -19,18 +37,12 @@
       <item value="through Point Marker Visible" />
       <item value="add Through Point Marker" />
       <item value="get Lat Lng Bounds" />
-      <item value="through Point List" />
       <item value="tmclist" />
-      <item value="get Polyline" />
       <item value="latlon Points" />
-      <item value="drive Paths" />
       <item value="Sub Poi Search Activity" />
       <item value="sub District List" />
       <item value="Sub Poi Item" />
-      <item value="add Driving Station Markers" />
-      <item value="get Steps" />
       <item value="get TM Cs" />
-      <item value="Drive Path" />
       <item value="get Paths" />
       <item value="a Map" />
       <item value="color Way Update" />
@@ -42,18 +54,6 @@
       <item value="showcolor Polyline" />
       <item value="tmc Section" />
       <item value="DRIVING MULTI STRATEGY FASTEST SHORTEST AVOID CONGESTION" />
-      <item value="DRIVING MULTI CHOICE AVOID CONGESTION" />
-      <item value="DRIVING MULTI CHOICE SAVE MONEY" />
-      <item value="DRIVING MULTI CHOICE SAVE MONEY NO HIGHWAY" />
-      <item value="DRIVING MULTI CHOICE AVOID CONGESTION NO HIGHWAY SAVE MONEY" />
-      <item value="DRIVING MULTI CHOICE HIGHWAY" />
-      <item value="DRIVING MULTI CHOICE HIGHWAY AVOID CONGESTION" />
-      <item value="DRIVING SINGLE DEFAULT" />
-      <item value="RIDING FAST" />
-      <item value="DRIVING MULTI CHOICE AVOID CONGESTION NO HIGHWAY" />
-      <item value="DRIVING SINGLE SHORTEST" />
-      <item value="Drive Plan Query" />
-      <item value="query Interval" />
     </histories>
     <option name="languageScores">
       <map>
