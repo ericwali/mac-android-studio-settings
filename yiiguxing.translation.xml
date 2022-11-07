@@ -4,11 +4,24 @@
     <option name="newTranslationDialogY" value="360" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="add Station Marker" />
-      <item value="add Driving Station Markers" />
-      <item value="m Polyline Options" />
-      <item value="start Marker" />
       <item value="add Start And End Marker" />
+      <item value="add Through Point Marker" />
+      <item value="Marker Options" />
+      <item value="show Info Window" />
+      <item value="start Marker" />
+      <item value="snippet" />
+      <item value="position" />
+      <item value="node Icon Visible" />
+      <item value="add Driving Station Markers" />
+      <item value="get Instruction" />
+      <item value="道路" />
+      <item value="drive Step" />
+      <item value="set Visible" />
+      <item value="station Markers" />
+      <item value="lat Lon Points" />
+      <item value="through Point Marker Visible" />
+      <item value="add Station Marker" />
+      <item value="m Polyline Options" />
       <item value="get Polyline" />
       <item value="Drive Step" />
       <item value="get Steps" />
@@ -34,8 +47,6 @@
       <item value="m Polyline Optionscolor" />
       <item value="init Polyline Options" />
       <item value="set Through Point Icon Visibility" />
-      <item value="through Point Marker Visible" />
-      <item value="add Through Point Marker" />
       <item value="get Lat Lng Bounds" />
       <item value="tmclist" />
       <item value="latlon Points" />
@@ -43,22 +54,11 @@
       <item value="sub District List" />
       <item value="Sub Poi Item" />
       <item value="get TM Cs" />
-      <item value="get Paths" />
-      <item value="a Map" />
-      <item value="color Way Update" />
-      <item value="getcolor" />
-      <item value="YELLOW" />
-      <item value="get Taxi Cost" />
-      <item value="m Current City Name" />
-      <item value="tmcs" />
-      <item value="showcolor Polyline" />
-      <item value="tmc Section" />
-      <item value="DRIVING MULTI STRATEGY FASTEST SHORTEST AVOID CONGESTION" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1945" />
-        <entry key="ENGLISH" value="1895" />
+        <entry key="ENGLISH" value="1896" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="7" />
         <entry key="GERMAN" value="2" />
