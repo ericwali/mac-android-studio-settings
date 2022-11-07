@@ -4,6 +4,9 @@
     <option name="newTranslationDialogY" value="360" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="LENGTH LONG" />
+      <item value="Marker Options" />
+      <item value="Linear Interpolator" />
       <item value="ElibEGL: call to OpenGL ES API with no current context (logged once per thread)" />
       <item value="through Marker" />
       <item value="limit" />
@@ -51,9 +54,6 @@
       <item value="get Start Bitmap Descriptor" />
       <item value="node Icon Visible" />
       <item value="drive Bit" />
-      <item value="Bitmap" />
-      <item value="start Bit" />
-      <item value="destroy Bit" />
     </histories>
     <option name="languageScores">
       <map>
