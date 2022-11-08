@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="360" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="route Marker" />
+      <item value="On Route Search Listener" />
       <item value="update Drawable" />
       <item value="set Image Drawable" />
       <item value="m Default Drawable" />
@@ -23,7 +25,6 @@
       <item value="through Marker" />
       <item value="limit" />
       <item value="set Custom Map Style" />
-      <item value="route Marker" />
       <item value="Route Search" />
       <item value="From And To" />
       <item value="get Ui Settings" />
@@ -53,7 +54,6 @@
       <item value="parse Color" />
       <item value="get Walk Color" />
       <item value="all Poly Lines" />
-      <item value="add Poly Line" />
     </histories>
     <option name="languageScores">
       <map>
