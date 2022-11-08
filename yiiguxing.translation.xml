@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="360" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="application Id Suffix" />
       <item value="show Amap Error" />
       <item value="make Text" />
       <item value="try to use system toast" />
@@ -53,7 +54,6 @@
       <item value="search Route Result" />
       <item value="secondline" />
       <item value="firstline" />
-      <item value="set On Click Listener" />
     </histories>
     <option name="languageScores">
       <map>
