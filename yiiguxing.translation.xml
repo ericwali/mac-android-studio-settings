@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="360" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="bounds" />
       <item value="through Marker" />
       <item value="through Position" />
       <item value="on Drive Route Searched" />
@@ -53,7 +54,6 @@
       <item value="DRIVING SINGLE DEFAULT" />
       <item value="DRIVING MULTI CHOICE HIGHWAY" />
       <item value="set Route Search Listener" />
-      <item value="from And To" />
     </histories>
     <option name="languageScores">
       <map>
