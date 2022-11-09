@@ -4,6 +4,10 @@
     <option name="newTranslationDialogY" value="360" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="m End Point" />
+      <item value="m Start Point" />
+      <item value="Route Plan" />
+      <item value="Routeplan" />
       <item value="bounds" />
       <item value="through Marker" />
       <item value="through Position" />
@@ -50,10 +54,6 @@
       <item value="From And To" />
       <item value="get Ui Settings" />
       <item value="set Map Data Point Marker" />
-      <item value="map Task Preset Logistic Point" />
-      <item value="DRIVING SINGLE DEFAULT" />
-      <item value="DRIVING MULTI CHOICE HIGHWAY" />
-      <item value="set Route Search Listener" />
     </histories>
     <option name="languageScores">
       <map>
