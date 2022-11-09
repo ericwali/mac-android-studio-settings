@@ -4,6 +4,15 @@
     <option name="newTranslationDialogY" value="360" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="ROUTE TYPE DRIVE" />
+      <item value="m Walk Route Result" />
+      <item value="m Bus Route Result" />
+      <item value="m Drive Route Result" />
+      <item value="ROUTE TYPE BUS" />
+      <item value="m Current City Name" />
+      <item value="m Bottom Layout" />
+      <item value="m Route Detail Des" />
+      <item value="ROUTE TYPE CROSSTOWN" />
       <item value="search Route Result" />
       <item value="Lat Lon Point" />
       <item value="add" />
@@ -45,15 +54,6 @@
       <item value="Amap Error Toast Util" />
       <item value="Directory" />
       <item value="kind" />
-      <item value="SINGLE" />
-      <item value="android.content.res.ResourcesNotFoundException: String resource ID 0x3f0" />
-      <item value="WSystem.err: java.lang.NullPointerException: Attempt to invoke virtual method 'java.util.List com.amap.api.services.route.DriveRouteResult.getPaths()' on a null object reference" />
-      <item value="The name 'AMAP_KEY' is not defined in the manifest file's meta data." />
-      <item value="AMAP KEY" />
-      <item value="add Manifest Placeholders" />
-      <item value="route Marker" />
-      <item value="On Route Search Listener" />
-      <item value="update Drawable" />
     </histories>
     <option name="languageScores">
       <map>
