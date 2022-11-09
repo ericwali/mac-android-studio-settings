@@ -4,6 +4,9 @@
     <option name="newTranslationDialogY" value="360" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="through Marker" />
+      <item value="through Position" />
+      <item value="on Drive Route Searched" />
       <item value="drive Path" />
       <item value="all Poly Lines" />
       <item value="application Id Suffix" />
@@ -40,7 +43,6 @@
       <item value="Marker Options" />
       <item value="Linear Interpolator" />
       <item value="ElibEGL: call to OpenGL ES API with no current context (logged once per thread)" />
-      <item value="through Marker" />
       <item value="limit" />
       <item value="set Custom Map Style" />
       <item value="Route Search" />
@@ -52,8 +54,6 @@
       <item value="DRIVING MULTI CHOICE HIGHWAY" />
       <item value="set Route Search Listener" />
       <item value="from And To" />
-      <item value="search Driving Route Result" />
-      <item value="search Route Result" />
     </histories>
     <option name="languageScores">
       <map>
