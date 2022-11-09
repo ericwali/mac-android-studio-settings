@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="360" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="drive Path" />
+      <item value="all Poly Lines" />
       <item value="application Id Suffix" />
       <item value="show Amap Error" />
       <item value="make Text" />
@@ -52,8 +54,6 @@
       <item value="from And To" />
       <item value="search Driving Route Result" />
       <item value="search Route Result" />
-      <item value="secondline" />
-      <item value="firstline" />
     </histories>
     <option name="languageScores">
       <map>
