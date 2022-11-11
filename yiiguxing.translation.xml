@@ -4,6 +4,9 @@
     <option name="newTranslationDialogY" value="360" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="override Pending Transition" />
+      <item value="obtain Selector List" />
+      <item value="register For Activity Result" />
       <item value="ROUTE TYPE DRIVE" />
       <item value="m Walk Route Result" />
       <item value="m Bus Route Result" />
@@ -51,9 +54,6 @@
       <item value="run On Ui Thread" />
       <item value="LENGTH LONG" />
       <item value="AMAP ERROR" />
-      <item value="Amap Error Toast Util" />
-      <item value="Directory" />
-      <item value="kind" />
     </histories>
     <option name="languageScores">
       <map>
