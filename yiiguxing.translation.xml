@@ -4,6 +4,12 @@
     <option name="newTranslationDialogY" value="360" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Friendly Length" />
+      <item value="ROUTE TYPE DRIVE" />
+      <item value="m Start Point" />
+      <item value="get Walk Action ID" />
+      <item value="route line name" />
+      <item value="bus expand image" />
       <item value="bus dir icon down" />
       <item value="drive Dir Up" />
       <item value="bus dir icon up" />
@@ -48,12 +54,6 @@
       <item value="set On Info Window Click Listener" />
       <item value="set On Marker Click Listener" />
       <item value="set On Map Click Listener" />
-      <item value="map View" />
-      <item value="On Route Search Listener" />
-      <item value="Kc Activity Route Plan Binding" />
-      <item value="clip Children" />
-      <item value="Route Plan View Model" />
-      <item value="toolbar View Model" />
     </histories>
     <option name="languageScores">
       <map>
