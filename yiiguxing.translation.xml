@@ -4,6 +4,15 @@
     <option name="newTranslationDialogY" value="360" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="set Text" />
+      <item value="on Back Click" />
+      <item value="get Parcelable Extra" />
+      <item value="m Title Drive Route" />
+      <item value="secondline" />
+      <item value="m Drive Segment List" />
+      <item value="m Drive List Adapter" />
+      <item value="Image View" />
+      <item value="firstline" />
       <item value="get Friendly Length" />
       <item value="ROUTE TYPE DRIVE" />
       <item value="m Start Point" />
@@ -45,15 +54,6 @@
       <item value="m Route Plan Bottom Layout" />
       <item value="route drive" />
       <item value="m Ride" />
-      <item value="bottom layout" />
-      <item value="route plan header" />
-      <item value="picture selector toolbar" />
-      <item value="ROUTE TYPE WALK" />
-      <item value="on Bus Route Searched" />
-      <item value="set Info Window Adapter" />
-      <item value="set On Info Window Click Listener" />
-      <item value="set On Marker Click Listener" />
-      <item value="set On Map Click Listener" />
     </histories>
     <option name="languageScores">
       <map>
