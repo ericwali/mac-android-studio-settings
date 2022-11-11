@@ -4,6 +4,20 @@
     <option name="newTranslationDialogY" value="360" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="bus dir icon down" />
+      <item value="drive Dir Up" />
+      <item value="bus dir icon up" />
+      <item value="route dir icon" />
+      <item value="bus dir icon" />
+      <item value="bus seg split line" />
+      <item value="TODO Auto-generated method stub" />
+      <item value="Drive Step" />
+      <item value="Drive List Adapter" />
+      <item value="Draggable Item Adapter" />
+      <item value="Segment" />
+      <item value="Drive Segment" />
+      <item value="Segment List" />
+      <item value="Drive Segment List Adapter" />
       <item value="detail" />
       <item value="set On Click Listener" />
       <item value="m Bottom Layout" />
@@ -40,20 +54,6 @@
       <item value="clip Children" />
       <item value="Route Plan View Model" />
       <item value="toolbar View Model" />
-      <item value="layout below" />
-      <item value="kc ic arrow right blue" />
-      <item value="kc btn navi bg" />
-      <item value="route detail" />
-      <item value="layout align Parent Right" />
-      <item value="layout width" />
-      <item value="set Handover Point" />
-      <item value="layout weight" />
-      <item value="arrow right blue" />
-      <item value="single Line" />
-      <item value="firstline" />
-      <item value="layout margin Right" />
-      <item value="layout margin Left" />
-      <item value="secondline" />
     </histories>
     <option name="languageScores">
       <map>
