@@ -4,6 +4,24 @@
     <option name="newTranslationDialogY" value="360" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="dispatch Transform Result" />
+      <item value="confirm Select" />
+      <item value="on Key Back Fragment Finish" />
+      <item value="Activity Result Callback" />
+      <item value="activity" />
+      <item value="Nullable" />
+      <item value="launcher Result" />
+      <item value="Activity Result Registry" />
+      <item value="register For Activity Result" />
+      <item value="on Activity Result" />
+      <item value="parse Result" />
+      <item value="Activity Result Contract" />
+      <item value="target Fragment" />
+      <item value="Me On Result Callback Listener" />
+      <item value="launch" />
+      <item value="launcher" />
+      <item value="is Result Listener Back" />
+      <item value="for System Result Activity" />
       <item value="screen Orientation" />
       <item value="m Title Walk Route" />
       <item value="set Text" />
@@ -36,24 +54,6 @@
       <item value="Segment List" />
       <item value="Drive Segment List Adapter" />
       <item value="detail" />
-      <item value="set On Click Listener" />
-      <item value="m Bottom Layout" />
-      <item value="route Detail" />
-      <item value="m Route Detail" />
-      <item value="taxi Cost" />
-      <item value="result" />
-      <item value="ROUTE TYPE RIDE" />
-      <item value="dismiss" />
-      <item value="RIDING DEFAULT" />
-      <item value="Riding" />
-      <item value="DRIVING PURE ELECTRIC VEHICLE" />
-      <item value="DRIVEING PLAN CHOICE HIGHWAY" />
-      <item value="TRUCK SIZE LIGHT" />
-      <item value="VISIBLE" />
-      <item value="on Ride Click" />
-      <item value="Ride" />
-      <item value="m Bus Result Layout" />
-      <item value="m Route Plan Bottom Layout" />
     </histories>
     <option name="languageScores">
       <map>
