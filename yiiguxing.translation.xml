@@ -4,10 +4,15 @@
     <option name="newTranslationDialogY" value="360" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Kc Activity Route Plan Binding" />
+      <item value="clip Children" />
+      <item value="Route Plan View Model" />
+      <item value="toolbar View Model" />
+      <item value="VISIBLE" />
+      <item value="layout below" />
       <item value="kc ic arrow right blue" />
       <item value="kc btn navi bg" />
       <item value="route detail" />
-      <item value="layout below" />
       <item value="layout align Parent Right" />
       <item value="layout width" />
       <item value="set Handover Point" />
@@ -49,11 +54,6 @@
       <item value="search Route Result" />
       <item value="add" />
       <item value="ride Step" />
-      <item value="add Ride Poly Lines" />
-      <item value="add Poly Line" />
-      <item value="add Ride Station Markers" />
-      <item value="2891 FF" />
-      <item value="init Polyline Options" />
     </histories>
     <option name="languageScores">
       <map>
