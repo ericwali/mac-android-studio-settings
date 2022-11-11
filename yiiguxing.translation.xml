@@ -4,20 +4,31 @@
     <option name="newTranslationDialogY" value="360" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="routemap choose" />
+      <item value="route Plan Lat Point" />
+      <item value="Parcelable(" />
+      <item value="read Parcelable" />
+      <item value="create From Parcel" />
+      <item value="read Parcelable Creator" />
+      <item value="Route Plan Lat Point" />
+      <item value="m Start Point" />
+      <item value="Lat Lon Point" />
+      <item value="m Walk Route Result" />
+      <item value="m Drive Route Result" />
+      <item value="get Int Extra" />
+      <item value="route activity" />
+      <item value="get Application Context" />
       <item value="override Pending Transition" />
       <item value="obtain Selector List" />
       <item value="register For Activity Result" />
       <item value="ROUTE TYPE DRIVE" />
-      <item value="m Walk Route Result" />
       <item value="m Bus Route Result" />
-      <item value="m Drive Route Result" />
       <item value="ROUTE TYPE BUS" />
       <item value="m Current City Name" />
       <item value="m Bottom Layout" />
       <item value="m Route Detail Des" />
       <item value="ROUTE TYPE CROSSTOWN" />
       <item value="search Route Result" />
-      <item value="Lat Lon Point" />
       <item value="add" />
       <item value="ride Step" />
       <item value="add Ride Poly Lines" />
@@ -32,12 +43,10 @@
       <item value="Trace Overlay" />
       <item value="Truck Route Colorful Over Lay" />
       <item value="Route Plan View Model" />
-      <item value="routemap choose" />
       <item value="title background" />
       <item value="routemap header" />
       <item value="Relative Layout" />
       <item value="m End Point" />
-      <item value="m Start Point" />
       <item value="Route Plan" />
       <item value="Routeplan" />
       <item value="bounds" />
@@ -45,15 +54,6 @@
       <item value="through Position" />
       <item value="on Drive Route Searched" />
       <item value="drive Path" />
-      <item value="all Poly Lines" />
-      <item value="application Id Suffix" />
-      <item value="show Amap Error" />
-      <item value="make Text" />
-      <item value="try to use system toast" />
-      <item value="show With Activity" />
-      <item value="run On Ui Thread" />
-      <item value="LENGTH LONG" />
-      <item value="AMAP ERROR" />
     </histories>
     <option name="languageScores">
       <map>
