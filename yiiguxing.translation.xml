@@ -4,7 +4,16 @@
     <option name="newTranslationDialogY" value="360" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Large outgoing transaction of 526408 bytes, interface descriptor &lt;uncached descriptor&gt;, code 1" />
+      <item value="interface descriptor &lt;uncached descriptor&gt;, code 1" />
+      <item value="uncached descriptor" />
       <item value="get Application Context" />
+      <item value="Kc Activity Route Plan Detail Binding" />
+      <item value="m Walk Route Result" />
+      <item value="on Paused" />
+      <item value="Route Plan Activity" />
+      <item value="com.kicc.collect.ui.activity.RoutePlanActivity onPaused &lt;&lt;&lt;" />
+      <item value="DEGL_emulation: app_time_stats: avg=506.09ms min=504.24ms max=507.94ms count=2 DEGL_emulation: app_time_stats: avg=507.87ms min=506.47ms max=509.27ms count=2 DEGL_emulation: app_time_stats: avg=508.52ms min=507.26ms max=509.78ms count=2 DEGL_emulation: app_time_stats: avg=504.10ms min=503.75ms max=504.45ms count=2 DEGL_emulation: app_time_stats: avg=506.99ms min=503.50ms max=510.48ms count=2 WBpBinder: Large outgoing transaction of 526408 bytes, interface descriptor &lt;uncached descriptor&gt;, code 1 DCrashReport: &gt;&gt;&gt; com.kicc.collect.ui.activity.RoutePlanActivity onPaused &lt;&lt;&lt;" />
       <item value="set My Location Enabled" />
       <item value="call On Click" />
       <item value="m Route Drive Layout" />
@@ -45,15 +54,6 @@
       <item value="is Result Listener Back" />
       <item value="for System Result Activity" />
       <item value="screen Orientation" />
-      <item value="m Title Walk Route" />
-      <item value="set Text" />
-      <item value="on Back Click" />
-      <item value="get Parcelable Extra" />
-      <item value="m Title Drive Route" />
-      <item value="secondline" />
-      <item value="m Drive Segment List" />
-      <item value="m Drive List Adapter" />
-      <item value="Image View" />
     </histories>
     <option name="languageScores">
       <map>
