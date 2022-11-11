@@ -4,6 +4,28 @@
     <option name="newTranslationDialogY" value="360" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Application Context" />
+      <item value="set My Location Enabled" />
+      <item value="call On Click" />
+      <item value="m Route Drive Layout" />
+      <item value="route drive layout" />
+      <item value="perform Click" />
+      <item value="close Progress Dialog" />
+      <item value="show Progress Dialog" />
+      <item value="is Showing" />
+      <item value="dialog" />
+      <item value="key Code" />
+      <item value="key Listener" />
+      <item value="background Color Res" />
+      <item value="canceled On Touch Outside" />
+      <item value="progress Indeterminate Style" />
+      <item value="progress" />
+      <item value="Activity Result Launcher" />
+      <item value="attempting to registerForActivityResult after being created. Fragments must call registerForActivityResult() before they are created (i.e. initialization, onAttach(), or onCreate())." />
+      <item value="is attempting to registerForActivityResult after being created. Fragments must call" />
+      <item value="task Point" />
+      <item value="get Longitude" />
+      <item value="get Latitude" />
       <item value="dispatch Transform Result" />
       <item value="confirm Select" />
       <item value="on Key Back Fragment Finish" />
@@ -32,28 +54,6 @@
       <item value="m Drive Segment List" />
       <item value="m Drive List Adapter" />
       <item value="Image View" />
-      <item value="firstline" />
-      <item value="get Friendly Length" />
-      <item value="ROUTE TYPE DRIVE" />
-      <item value="m Start Point" />
-      <item value="get Walk Action ID" />
-      <item value="route line name" />
-      <item value="bus expand image" />
-      <item value="bus dir icon down" />
-      <item value="drive Dir Up" />
-      <item value="bus dir icon up" />
-      <item value="route dir icon" />
-      <item value="bus dir icon" />
-      <item value="bus seg split line" />
-      <item value="TODO Auto-generated method stub" />
-      <item value="Drive Step" />
-      <item value="Drive List Adapter" />
-      <item value="Draggable Item Adapter" />
-      <item value="Segment" />
-      <item value="Drive Segment" />
-      <item value="Segment List" />
-      <item value="Drive Segment List Adapter" />
-      <item value="detail" />
     </histories>
     <option name="languageScores">
       <map>
