@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="360" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="java.util.No Such Element Exception" />
+      <item value="start Speaking" />
       <item value="xiaoyan" />
       <item value="iflytek" />
       <item value="show Route Activity" />
@@ -52,8 +54,6 @@
       <item value="is attempting to registerForActivityResult after being created. Fragments must call" />
       <item value="task Point" />
       <item value="get Longitude" />
-      <item value="get Latitude" />
-      <item value="dispatch Transform Result" />
     </histories>
     <option name="languageScores">
       <map>
