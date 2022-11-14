@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="360" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="execute By Fixed At Fix Rate" />
       <item value="route Plan Lat Point" />
       <item value="route Marker" />
       <item value="get Position" />
@@ -53,7 +54,6 @@
       <item value="Nullable" />
       <item value="launcher Result" />
       <item value="Activity Result Registry" />
-      <item value="register For Activity Result" />
     </histories>
     <option name="languageScores">
       <map>
