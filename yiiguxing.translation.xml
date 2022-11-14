@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="360" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Could not resolve all files for configuration ':app:debugCompileClasspath'." />
+      <item value="on Navigation Click" />
       <item value="execute By Fixed At Fix Rate" />
       <item value="route Plan Lat Point" />
       <item value="route Marker" />
@@ -52,8 +54,6 @@
       <item value="Activity Result Callback" />
       <item value="activity" />
       <item value="Nullable" />
-      <item value="launcher Result" />
-      <item value="Activity Result Registry" />
     </histories>
     <option name="languageScores">
       <map>
