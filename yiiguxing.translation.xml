@@ -4,6 +4,19 @@
     <option name="newTranslationDialogY" value="360" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="on Arrive Destination" />
+      <item value="on End Emulator Navi" />
+      <item value="on Init Navi Failure" />
+      <item value="A Map Navi Listener" />
+      <item value="A Map Navi View Listener" />
+      <item value="Parallel Road Listener" />
+      <item value="on Calculate Route Success" />
+      <item value="strategy Convert" />
+      <item value="m Way Point List" />
+      <item value="calculate Drive Route" />
+      <item value="calculate Ride Route" />
+      <item value="I Fly Collector Ext" />
+      <item value="JNI DETECTED ERROR IN APPLICATION: JNI NewGlobalRef called with pending exception java.lang.ClassNotFoundException" />
       <item value="java.util.No Such Element Exception" />
       <item value="start Speaking" />
       <item value="xiaoyan" />
@@ -41,19 +54,6 @@
       <item value="perform Click" />
       <item value="close Progress Dialog" />
       <item value="show Progress Dialog" />
-      <item value="is Showing" />
-      <item value="dialog" />
-      <item value="key Code" />
-      <item value="key Listener" />
-      <item value="background Color Res" />
-      <item value="canceled On Touch Outside" />
-      <item value="progress Indeterminate Style" />
-      <item value="progress" />
-      <item value="Activity Result Launcher" />
-      <item value="attempting to registerForActivityResult after being created. Fragments must call registerForActivityResult() before they are created (i.e. initialization, onAttach(), or onCreate())." />
-      <item value="is attempting to registerForActivityResult after being created. Fragments must call" />
-      <item value="task Point" />
-      <item value="get Longitude" />
     </histories>
     <option name="languageScores">
       <map>
