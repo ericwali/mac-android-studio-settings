@@ -4,6 +4,9 @@
     <option name="newTranslationDialogY" value="360" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="show Route Activity" />
+      <item value="Amap Navi Params" />
+      <item value="set Use Inner Voice" />
       <item value="Could not resolve all files for configuration ':app:debugCompileClasspath'." />
       <item value="on Navigation Click" />
       <item value="execute By Fixed At Fix Rate" />
@@ -51,9 +54,6 @@
       <item value="dispatch Transform Result" />
       <item value="confirm Select" />
       <item value="on Key Back Fragment Finish" />
-      <item value="Activity Result Callback" />
-      <item value="activity" />
-      <item value="Nullable" />
     </histories>
     <option name="languageScores">
       <map>
