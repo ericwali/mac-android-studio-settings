@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="360" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="IChoreographer: Skipped 149 frames! The application may be doing too much work on its main thread." />
       <item value="Large outgoing transaction of 526408 bytes, interface descriptor &lt;uncached descriptor&gt;, code 1" />
       <item value="interface descriptor &lt;uncached descriptor&gt;, code 1" />
       <item value="uncached descriptor" />
@@ -53,7 +54,6 @@
       <item value="launcher" />
       <item value="is Result Listener Back" />
       <item value="for System Result Activity" />
-      <item value="screen Orientation" />
     </histories>
     <option name="languageScores">
       <map>
@@ -81,7 +81,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1667889985780" />
+    <option name="lastTrimTime" value="1668388306182" />
   </component>
   <component name="Settings">
     <option name="aliTranslateSettings">
