@@ -4,6 +4,12 @@
     <option name="newTranslationDialogY" value="360" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="route Plan Lat Point" />
+      <item value="route Marker" />
+      <item value="get Position" />
+      <item value="set Destination Point" />
+      <item value="layout center Vertical" />
+      <item value="route dir icon up" />
       <item value="layout below" />
       <item value="toolbar" />
       <item value="vertical" />
@@ -48,12 +54,6 @@
       <item value="launcher Result" />
       <item value="Activity Result Registry" />
       <item value="register For Activity Result" />
-      <item value="on Activity Result" />
-      <item value="parse Result" />
-      <item value="Activity Result Contract" />
-      <item value="target Fragment" />
-      <item value="Me On Result Callback Listener" />
-      <item value="launch" />
     </histories>
     <option name="languageScores">
       <map>
