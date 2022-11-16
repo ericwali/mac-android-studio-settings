@@ -4,61 +4,61 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="set Has Stable Ids" />
+      <item value="Swipeable With Button Point Adapter" />
+      <item value="My View Holder" />
+      <item value="Abstract Swipeable Item View Holder" />
+      <item value="get Swipeable Container View" />
+      <item value="super" />
+      <item value="drag grid linear" />
+      <item value="m Container" />
+      <item value="Event Listener" />
+      <item value="Swipeable Item Adapter" />
+      <item value="Swipeable Item Adapter需要稳定的ID" />
+      <item value="Indicates whether each item in the data set can be represented with a unique identifier of type {@link java.lang.Long}. @param hasStableIds Whether items in data set have unique identifiers or not. @see hasStableIds() @see getItemId(int) public void" />
+      <item value="SwipeableItemAdapter requires stable ID, and also have to implement the getItemId() method appropriately." />
+      <item value="SwipeableItemAdapter requires stable ID, and also" />
+      <item value="have to implement the getItemId() method appropriately." />
+      <item value="m Swipeable View Container On Click Listener" />
+      <item value="m Under Swipeable View Button On Click Listener" />
+      <item value="Example Section Data Provider" />
+      <item value="Swipeable With Button Example Adapter" />
+      <item value="Abstract Data Provider" />
+      <item value="on Create View Holder" />
+      <item value="Make accessible with short name" />
+      <item value="REACTION CAN NOT SWIPE BOTH H" />
+      <item value="REACTION MASK START SWIPE LEFT" />
+      <item value="STATE FLAG IS UPDATED" />
+      <item value="STATE FLAG IS ACTIVE" />
+      <item value="STATE FLAG SWIPING" />
+      <item value="Swipeable Item Constants" />
+      <item value="Swipeable" />
+      <item value="On Click Listener" />
+      <item value="Small" />
+      <item value="layout gravity" />
+      <item value="behind views" />
+      <item value="GONE" />
+      <item value="invisible" />
+      <item value="Relative Layout" />
+      <item value="Frame Layout" />
+      <item value="bg item swiping active state" />
+      <item value="NO POSITION" />
+      <item value="notify Item Changed" />
+      <item value="Point Swipeable With Button Adapter" />
+      <item value="on Bind View Holder" />
+      <item value="get Item View Type" />
+      <item value="handle On Under Swipeable View Button Clicked" />
+      <item value="Swipeable With Button Example Activity" />
+      <item value="unpin if tapped the pinned item" />
+      <item value="is Pinned" />
+      <item value="Example Data Provider Fragment" />
       <item value="location detail" />
       <item value="location city" />
-      <item value="dimen" />
-      <item value="right" />
-      <item value="center" />
-      <item value="background" />
-      <item value="layout weight" />
-      <item value="layout height" />
-      <item value="touch guard manager (this class is required to suppress scrolling while swipe-dismiss animation is running)" />
-      <item value="m Recycler View Touch Action Guard Manager" />
-      <item value="Example Data Provider Fragment" />
-      <item value="FRAGMENT TAG DATA PROVIDER" />
-      <item value="on Item View Clicked" />
-      <item value="advrecyclerview" />
-      <item value="m Recycler View Swipe Manager" />
-      <item value="Point Activity" />
-      <item value="Item Shadow Decorator不是必需的" />
-      <item value="Navi Base Activity" />
-      <item value="navigation Base Activity" />
-      <item value="navigation" />
-      <item value="on Arrive Destination" />
-      <item value="on End Emulator Navi" />
-      <item value="on Init Navi Failure" />
-      <item value="A Map Navi Listener" />
-      <item value="A Map Navi View Listener" />
-      <item value="Parallel Road Listener" />
-      <item value="on Calculate Route Success" />
-      <item value="strategy Convert" />
-      <item value="m Way Point List" />
-      <item value="calculate Drive Route" />
-      <item value="calculate Ride Route" />
-      <item value="I Fly Collector Ext" />
-      <item value="JNI DETECTED ERROR IN APPLICATION: JNI NewGlobalRef called with pending exception java.lang.ClassNotFoundException" />
-      <item value="java.util.No Such Element Exception" />
-      <item value="start Speaking" />
-      <item value="xiaoyan" />
-      <item value="iflytek" />
-      <item value="show Route Activity" />
-      <item value="Amap Navi Params" />
-      <item value="set Use Inner Voice" />
-      <item value="Could not resolve all files for configuration ':app:debugCompileClasspath'." />
-      <item value="on Navigation Click" />
-      <item value="execute By Fixed At Fix Rate" />
-      <item value="route Plan Lat Point" />
-      <item value="route Marker" />
-      <item value="get Position" />
-      <item value="set Destination Point" />
-      <item value="layout center Vertical" />
-      <item value="route dir icon up" />
-      <item value="layout below" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1946" />
-        <entry key="ENGLISH" value="1897" />
+        <entry key="ENGLISH" value="1898" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="7" />
         <entry key="GERMAN" value="2" />
