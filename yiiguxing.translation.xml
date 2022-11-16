@@ -4,6 +4,10 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="layer-list" />
+      <item value="shape" />
+      <item value="background Tint" />
+      <item value="shadow Radius" />
       <item value="min Height" />
       <item value="start navigation" />
       <item value="horizontal" />
@@ -50,10 +54,6 @@
       <item value="notify Item Changed" />
       <item value="m Recycler View Swipe Manager" />
       <item value="Recycler View Swipe Manager" />
-      <item value="swipe manager" />
-      <item value="touch guard manager (this class is required to suppress scrolling while swipe-dismiss animation is running)" />
-      <item value="Recycler View Touch Action Guard Manager" />
-      <item value="Touch Action Guard" />
     </histories>
     <option name="languageScores">
       <map>
