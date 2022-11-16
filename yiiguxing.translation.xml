@@ -4,61 +4,61 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="m Refresh Layout" />
-      <item value="com.scwang.smart.refresh.layout.listener" />
-      <item value="on Header Moving" />
-      <item value="On Refresh Load More Listener" />
-      <item value="Status Fragment" />
-      <item value="Browser Fragment" />
-      <item value="is Scrims Shown" />
-      <item value="set Selected Position" />
-      <item value="INTENT KEY IN FRAGMENT CLASS" />
-      <item value="rv home navigation" />
-      <item value="No Scroll View Pager" />
-      <item value="Recycler View" />
-      <item value="immersionbar" />
-      <item value="notify Item Changed" />
-      <item value="Swipeable With Button Example Fragment" />
-      <item value="set Pinned" />
-      <item value="unpin if tapped the pinned item" />
-      <item value="This method will be called when a list item is clicked @param position The position of the item within data set" />
-      <item value="Swipeable With Button Example Activity" />
-      <item value="NO POSITION" />
-      <item value="get Child Adapter Position" />
-      <item value="on Item Clicked" />
+      <item value="Fragment" />
+      <item value="on Notify Item Pinned Dialog Dismissed" />
+      <item value="on Create Dialog" />
+      <item value="notify Item Pinned Dialog Dismissed" />
+      <item value="notify Item Pinned Dialog Dismissed(false);" />
+      <item value="Item Pinned Message Dialog Fragment" />
+      <item value="keep the mDataProvider instance" />
+      <item value="set Retain Instance" />
+      <item value="Example Data Provider Fragment" />
+      <item value="handle On Under Swipeable View Button Clicked" />
+      <item value="set Supports Change Animations" />
+      <item value="set Layout Manager" />
+      <item value="set Adapter" />
+      <item value="set Item Animator" />
+      <item value="m Wrapped Adapter" />
+      <item value="m Layout Manager" />
       <item value="handle On Item View Clicked" />
-      <item value="get Parent View Holder Item View" />
-      <item value="Recycler View Adapter Utils" />
-      <item value="on Item Pinned" />
-      <item value="m Event Listener" />
-      <item value="on Slide Animation End" />
-      <item value="set Event Listener" />
-      <item value="on Swipeable View Container Click" />
-      <item value="on Item View Clicked" />
-      <item value="on Reach Destination" />
-      <item value="onunderswipeableviewbuttonclicked" />
+      <item value="priority" />
+      <item value="m Recycler View Touch Action Guard Manager" />
+      <item value="attach Recycler View" />
+      <item value="requires wrapped adapter" />
+      <item value="Change animations are enabled by default since support-v7-recyclerview v22. Disable the change animation in order to make turning back animation of swiped item works properly." />
+      <item value="Change animations are enabled by default since support-v7-recyclerview v22. Disable the change animation in order to make turning back animation of swiped item works properly. an" />
+      <item value="release All" />
+      <item value="create Wrapped Adapter" />
+      <item value="wrap for swiping" />
       <item value="on Under Swipeable View Button Clicked" />
-      <item value="Container On Click Listener" />
-      <item value="m Swipeable View" />
-      <item value="m Behind Views" />
-      <item value="m Swipeable View Container On Click Listener" />
-      <item value="Swipeable With Button Point Adapter" />
-      <item value="if the item is pinned, click event comes to the mContainer" />
-      <item value="m Under Swipeable View Button On Click Listener" />
-      <item value="m Item List" />
-      <item value="Make accessible with short name" />
-      <item value="Swipeable" />
-      <item value="My Swipeable Item Adapter" />
-      <item value="Swipeable Item Adapter" />
-      <item value="REACTION CAN SWIPE BOTH H" />
-      <item value="set Swipe Item Horizontal Slide Amount" />
-      <item value="notify Item Inserted" />
-      <item value="set Return To Default Position Animation Duration" />
+      <item value="unpin if tapped the pinned item" />
+      <item value="Swipeable With Button Example Fragment" />
+      <item value="on Item View Clicked" />
+      <item value="This method will be called when a list item is pinned" />
+      <item value="notify Item Changed" />
+      <item value="m Recycler View Swipe Manager" />
+      <item value="Recycler View Swipe Manager" />
+      <item value="swipe manager" />
+      <item value="touch guard manager (this class is required to suppress scrolling while swipe-dismiss animation is running)" />
+      <item value="Recycler View Touch Action Guard Manager" />
+      <item value="Touch Action Guard" />
+      <item value="touch guard manager" />
+      <item value="Linear Layout Manager" />
+      <item value="Unpin Result Action" />
+      <item value="Swipe Left Result Action" />
+      <item value="Swipe Result Action Default" />
+      <item value="on Item Pinned" />
+      <item value="on Slide Animation End" />
+      <item value="get Pinned" />
+      <item value="on Perform Action" />
+      <item value="Swipe Result Action Move To Swiped Direction" />
+      <item value="AFTER SWIPE REACTION MOVE TO SWIPED DIRECTION" />
+      <item value="Swipeable With Button Example Adapter" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1946" />
-        <entry key="ENGLISH" value="1898" />
+        <entry key="ENGLISH" value="1900" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="7" />
         <entry key="GERMAN" value="2" />
