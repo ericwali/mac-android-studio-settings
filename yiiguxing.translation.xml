@@ -4,11 +4,16 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="min Height" />
+      <item value="start navigation" />
+      <item value="horizontal" />
+      <item value="right layout" />
+      <item value="gravity" />
+      <item value="center" />
       <item value="layout align Parent Left" />
       <item value="bottom" />
       <item value="invisible" />
       <item value="dp_64" />
-      <item value="horizontal" />
       <item value="visibility" />
       <item value="left layout" />
       <item value="Fragment" />
@@ -49,11 +54,6 @@
       <item value="touch guard manager (this class is required to suppress scrolling while swipe-dismiss animation is running)" />
       <item value="Recycler View Touch Action Guard Manager" />
       <item value="Touch Action Guard" />
-      <item value="touch guard manager" />
-      <item value="Linear Layout Manager" />
-      <item value="Unpin Result Action" />
-      <item value="Swipe Left Result Action" />
-      <item value="Swipe Result Action Default" />
     </histories>
     <option name="languageScores">
       <map>
