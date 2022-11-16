@@ -4,9 +4,20 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Item View Type" />
+      <item value="get Parent View Holder Item View" />
+      <item value="on Under Swipeable View Button Click" />
+      <item value="on Swipeable View Container Click" />
+      <item value="set Swipe Item Horizontal Slide Amount" />
+      <item value="m Provider" />
+      <item value="get Item" />
+      <item value="on Perform Action" />
+      <item value="RESULT SWIPED LEFT" />
+      <item value="My View Holder" />
+      <item value="on Clean Up" />
+      <item value="Concrete Data" />
       <item value="set Has Stable Ids" />
       <item value="Swipeable With Button Point Adapter" />
-      <item value="My View Holder" />
       <item value="Abstract Swipeable Item View Holder" />
       <item value="get Swipeable Container View" />
       <item value="super" />
@@ -43,17 +54,6 @@
       <item value="Frame Layout" />
       <item value="bg item swiping active state" />
       <item value="NO POSITION" />
-      <item value="notify Item Changed" />
-      <item value="Point Swipeable With Button Adapter" />
-      <item value="on Bind View Holder" />
-      <item value="get Item View Type" />
-      <item value="handle On Under Swipeable View Button Clicked" />
-      <item value="Swipeable With Button Example Activity" />
-      <item value="unpin if tapped the pinned item" />
-      <item value="is Pinned" />
-      <item value="Example Data Provider Fragment" />
-      <item value="location detail" />
-      <item value="location city" />
     </histories>
     <option name="languageScores">
       <map>
