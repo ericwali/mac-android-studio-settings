@@ -4,6 +4,14 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="location detail" />
+      <item value="location city" />
+      <item value="dimen" />
+      <item value="right" />
+      <item value="center" />
+      <item value="background" />
+      <item value="layout weight" />
+      <item value="layout height" />
       <item value="touch guard manager (this class is required to suppress scrolling while swipe-dismiss animation is running)" />
       <item value="m Recycler View Touch Action Guard Manager" />
       <item value="Example Data Provider Fragment" />
@@ -46,14 +54,6 @@
       <item value="layout center Vertical" />
       <item value="route dir icon up" />
       <item value="layout below" />
-      <item value="toolbar" />
-      <item value="vertical" />
-      <item value="IChoreographer: Skipped 149 frames! The application may be doing too much work on its main thread." />
-      <item value="Large outgoing transaction of 526408 bytes, interface descriptor &lt;uncached descriptor&gt;, code 1" />
-      <item value="interface descriptor &lt;uncached descriptor&gt;, code 1" />
-      <item value="uncached descriptor" />
-      <item value="get Application Context" />
-      <item value="Kc Activity Route Plan Detail Binding" />
     </histories>
     <option name="languageScores">
       <map>
