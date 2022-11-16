@@ -4,9 +4,10 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Abstract Data Provider" />
       <item value="is Pinned" />
-      <item value="on Perform Action" />
       <item value="notify Item Changed" />
+      <item value="on Perform Action" />
       <item value="This method is called immediately after returning from the {@link com.h6ah4i.android.widget.advrecyclerview.swipeable.SwipeableItemAdapteronSwipeItem(RecyclerView.ViewHolder, int, int)} method. You can modify data set and call notifyXXX() methods of adapter in this method." />
       <item value="set Swipe Item Horizontal Slide Amount" />
       <item value="Or, it can be specified in pixels instead of proportional value." />
@@ -53,7 +54,6 @@
       <item value="m Swipeable View Container On Click Listener" />
       <item value="m Under Swipeable View Button On Click Listener" />
       <item value="Example Section Data Provider" />
-      <item value="Swipeable With Button Example Adapter" />
     </histories>
     <option name="languageScores">
       <map>
