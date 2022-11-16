@@ -4,20 +4,40 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="is Pinned" />
+      <item value="on Perform Action" />
+      <item value="notify Item Changed" />
+      <item value="This method is called immediately after returning from the {@link com.h6ah4i.android.widget.advrecyclerview.swipeable.SwipeableItemAdapteronSwipeItem(RecyclerView.ViewHolder, int, int)} method. You can modify data set and call notifyXXX() methods of adapter in this method." />
+      <item value="set Swipe Item Horizontal Slide Amount" />
+      <item value="Or, it can be specified in pixels instead of proportional value." />
+      <item value="set Max Left Swipe Amount" />
+      <item value="set Max Right Swipe Amount" />
+      <item value="pinned Distance" />
+      <item value="set swiping properties" />
+      <item value="(if the item is pinned, click event comes to the mContainer" />
+      <item value="is Active" />
+      <item value="is Swiping" />
+      <item value="bg item swiping state" />
+      <item value="bg item normal state" />
+      <item value="set Background Resource" />
+      <item value="is Updated" />
+      <item value="swipe State" />
+      <item value="get Swipe State" />
+      <item value="set background resource (target view ID: container)" />
+      <item value="if the item is pinned, click event comes to the mContainer" />
+      <item value="set On Click Listener" />
+      <item value="Swipeable With Button Point Adapter" />
       <item value="get Item View Type" />
       <item value="get Parent View Holder Item View" />
       <item value="on Under Swipeable View Button Click" />
       <item value="on Swipeable View Container Click" />
-      <item value="set Swipe Item Horizontal Slide Amount" />
       <item value="m Provider" />
       <item value="get Item" />
-      <item value="on Perform Action" />
       <item value="RESULT SWIPED LEFT" />
       <item value="My View Holder" />
       <item value="on Clean Up" />
       <item value="Concrete Data" />
       <item value="set Has Stable Ids" />
-      <item value="Swipeable With Button Point Adapter" />
       <item value="Abstract Swipeable Item View Holder" />
       <item value="get Swipeable Container View" />
       <item value="super" />
@@ -34,26 +54,6 @@
       <item value="m Under Swipeable View Button On Click Listener" />
       <item value="Example Section Data Provider" />
       <item value="Swipeable With Button Example Adapter" />
-      <item value="Abstract Data Provider" />
-      <item value="on Create View Holder" />
-      <item value="Make accessible with short name" />
-      <item value="REACTION CAN NOT SWIPE BOTH H" />
-      <item value="REACTION MASK START SWIPE LEFT" />
-      <item value="STATE FLAG IS UPDATED" />
-      <item value="STATE FLAG IS ACTIVE" />
-      <item value="STATE FLAG SWIPING" />
-      <item value="Swipeable Item Constants" />
-      <item value="Swipeable" />
-      <item value="On Click Listener" />
-      <item value="Small" />
-      <item value="layout gravity" />
-      <item value="behind views" />
-      <item value="GONE" />
-      <item value="invisible" />
-      <item value="Relative Layout" />
-      <item value="Frame Layout" />
-      <item value="bg item swiping active state" />
-      <item value="NO POSITION" />
     </histories>
     <option name="languageScores">
       <map>
