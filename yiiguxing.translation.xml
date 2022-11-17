@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="this device is not support vivo push" />
       <item value="is Main Progress" />
       <item value="get Registration Id" />
       <item value="register failed! code:er_param_app_package,desc:agoo server error" />
@@ -53,7 +54,6 @@
       <item value="Umeng Share Listener" />
       <item value="UM Share Listener" />
       <item value="are you ok" />
-      <item value="set Platform" />
     </histories>
     <option name="languageScores">
       <map>
