@@ -4,6 +4,15 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="is App Installed" />
+      <item value="Share Listener Wrapper" />
+      <item value="get Package Name" />
+      <item value="get Third Party" />
+      <item value="Auth Activity" />
+      <item value="init Platforms" />
+      <item value="GENERIC" />
+      <item value="on Activity Result" />
+      <item value="on Save Instance State" />
       <item value="UM Share API" />
       <item value="Splash Test Activity" />
       <item value="uses Cleartext Traffic" />
@@ -45,15 +54,6 @@
       <item value="on Notify Item Pinned Dialog Dismissed" />
       <item value="on Create Dialog" />
       <item value="notify Item Pinned Dialog Dismissed" />
-      <item value="notify Item Pinned Dialog Dismissed(false);" />
-      <item value="Item Pinned Message Dialog Fragment" />
-      <item value="keep the mDataProvider instance" />
-      <item value="set Retain Instance" />
-      <item value="Example Data Provider Fragment" />
-      <item value="handle On Under Swipeable View Button Clicked" />
-      <item value="set Supports Change Animations" />
-      <item value="set Layout Manager" />
-      <item value="set Adapter" />
     </histories>
     <option name="languageScores">
       <map>
