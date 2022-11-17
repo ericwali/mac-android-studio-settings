@@ -4,6 +4,14 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="set QQ File Provider" />
+      <item value="file Provider" />
+      <item value="set Weixin" />
+      <item value="set Page Collection Mode" />
+      <item value="pre Init" />
+      <item value="s Device Oaid" />
+      <item value="get Device Oaid" />
+      <item value="get Oaid" />
       <item value="DEVICE TYPE BOX" />
       <item value="DEVICE TYPE PHONE" />
       <item value="umeng" />
@@ -13,7 +21,6 @@
       <item value="on Create" />
       <item value="File Provider" />
       <item value="m Third Party" />
-      <item value="pre Init" />
       <item value="set Callback" />
       <item value="set Platform" />
       <item value="UM Share Listener" />
@@ -47,13 +54,6 @@
       <item value="apm" />
       <item value="asms" />
       <item value="common" />
-      <item value="layer-list" />
-      <item value="shape" />
-      <item value="background Tint" />
-      <item value="shadow Radius" />
-      <item value="min Height" />
-      <item value="start navigation" />
-      <item value="horizontal" />
     </histories>
     <option name="languageScores">
       <map>
