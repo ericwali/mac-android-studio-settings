@@ -4,6 +4,34 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="register failed! code:er_param_app_package,desc:agoo server error" />
+      <item value="Umeng Message Handler Service" />
+      <item value="handleBusinessMsg getListener not null" />
+      <item value="ENAccs.MsgRecv_default: handleMessage dataId:1668676875358.3 type:DATA reqType:RES resType:NO_ACK target:Y3X6GcXliu4DABiNJ8FQ6t6l|com.umeng.message.demo|AgooDeviceCmd|" />
+      <item value="distribute ready action:com.taobao.accs.intent.action.RECEIVE dataId: serviceId:" />
+      <item value="notifyStatus status:CONNECTING" />
+      <item value="connect host" />
+      <item value="6373815 dac 36474270 fdf 0 c 1" />
+      <item value="sessionId:1668676875330 SpdyProtocol,:http2_0rtt_open proxyIp,: proxyPort,:0" />
+      <item value="Failed to find provider info for com.vivo.push.sdk.service.SystemPushConfig" />
+      <item value="System Push Config" />
+      <item value="notifyStatus status:CONNECTED" />
+      <item value="hb use alarm" />
+      <item value="send Connect Info To Accs By Service" />
+      <item value="send Connect Info To Accs By Call Back" />
+      <item value="ENAccs.InAppConn_default: onConnectionChanged currentHost:https:umengacs.m.taobao.com changeHost:https:umengacs.m.taobao.com state:true" />
+      <item value="sendMessage end dataId:1668676875358.3 status:true" />
+      <item value="onReceiveData dataId:1668676875358.3 serviceId:AgooDeviceCmd command:100 className:com.taobao.agoo.a.b" />
+      <item value="onResponse start dataId:1668676875358.3 serviceId:AgooDeviceCmd" />
+      <item value="register failed! code:er_param_app_package, desc:agoo server error" />
+      <item value="1668676875358" />
+      <item value="handleBusinessMsg start dataId:1668676875358.3 serviceId:AgooDeviceCmd" />
+      <item value="ENAccs.MsgDistribute: handleBusinessMsg start dataId:1668676875358.3 serviceId:AgooDeviceCmd command:100" />
+      <item value="isExistPackage NameNotFoundException:com.coloros.mcs" />
+      <item value="register checkDevice false" />
+      <item value="ENAccs.HuaWeiRegister: register checkDevice false" />
+      <item value="DUPush.Notify: deviceToken skip." />
+      <item value="APP MASTER SECRET" />
       <item value="UMENG PUSH SECRET" />
       <item value="669 c 30 a 9584623 e 70 e 8 cd 01 b 0381 dcb 4" />
       <item value="Setting up flushing for Thread[work_thread,5,main]" />
@@ -26,34 +54,6 @@
       <item value="set Platform" />
       <item value="with Media" />
       <item value="Share Detail Activity" />
-      <item value="set QQ File Provider" />
-      <item value="file Provider" />
-      <item value="set Weixin" />
-      <item value="set Page Collection Mode" />
-      <item value="pre Init" />
-      <item value="s Device Oaid" />
-      <item value="get Device Oaid" />
-      <item value="get Oaid" />
-      <item value="DEVICE TYPE BOX" />
-      <item value="DEVICE TYPE PHONE" />
-      <item value="umeng" />
-      <item value="Platform Enum" />
-      <item value="get Third Party" />
-      <item value="WEIXIN CIRCLE" />
-      <item value="on Create" />
-      <item value="File Provider" />
-      <item value="m Third Party" />
-      <item value="set Callback" />
-      <item value="Umeng Login" />
-      <item value="get Package Name" />
-      <item value="Auth Activity" />
-      <item value="init Platforms" />
-      <item value="GENERIC" />
-      <item value="Splash Test Activity" />
-      <item value="uses Cleartext Traffic" />
-      <item value="READ PHONE STATE" />
-      <item value="READ EXTERNAL STORAGE" />
-      <item value="wework" />
     </histories>
     <option name="languageScores">
       <map>
