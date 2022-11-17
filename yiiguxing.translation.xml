@@ -4,6 +4,15 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="CIRCLE" />
+      <item value="Share Listener Wrapper" />
+      <item value="Umeng Share Listener" />
+      <item value="UM Share Listener" />
+      <item value="are you ok" />
+      <item value="is App Installed" />
+      <item value="set Platform" />
+      <item value="with Media" />
+      <item value="Share Detail Activity" />
       <item value="set QQ File Provider" />
       <item value="file Provider" />
       <item value="set Weixin" />
@@ -22,11 +31,7 @@
       <item value="File Provider" />
       <item value="m Third Party" />
       <item value="set Callback" />
-      <item value="set Platform" />
-      <item value="UM Share Listener" />
-      <item value="Share Listener Wrapper" />
       <item value="Umeng Login" />
-      <item value="is App Installed" />
       <item value="get Package Name" />
       <item value="Auth Activity" />
       <item value="init Platforms" />
@@ -49,11 +54,6 @@
       <item value="dontwarn" />
       <item value="wechatcomponent" />
       <item value="lite" />
-      <item value="_r 97423 a 8_lite" />
-      <item value="board" />
-      <item value="apm" />
-      <item value="asms" />
-      <item value="common" />
     </histories>
     <option name="languageScores">
       <map>
