@@ -4,10 +4,20 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="is App Installed" />
-      <item value="Share Listener Wrapper" />
-      <item value="get Package Name" />
+      <item value="Platform Enum" />
       <item value="get Third Party" />
+      <item value="WEIXIN CIRCLE" />
+      <item value="on Create" />
+      <item value="File Provider" />
+      <item value="m Third Party" />
+      <item value="pre Init" />
+      <item value="set Callback" />
+      <item value="set Platform" />
+      <item value="UM Share Listener" />
+      <item value="Share Listener Wrapper" />
+      <item value="Umeng Login" />
+      <item value="is App Installed" />
+      <item value="get Package Name" />
       <item value="Auth Activity" />
       <item value="init Platforms" />
       <item value="GENERIC" />
@@ -44,16 +54,6 @@
       <item value="right layout" />
       <item value="gravity" />
       <item value="center" />
-      <item value="layout align Parent Left" />
-      <item value="bottom" />
-      <item value="invisible" />
-      <item value="dp_64" />
-      <item value="visibility" />
-      <item value="left layout" />
-      <item value="Fragment" />
-      <item value="on Notify Item Pinned Dialog Dismissed" />
-      <item value="on Create Dialog" />
-      <item value="notify Item Pinned Dialog Dismissed" />
     </histories>
     <option name="languageScores">
       <map>
