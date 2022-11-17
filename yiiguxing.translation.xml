@@ -4,6 +4,27 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="UM Share API" />
+      <item value="Splash Test Activity" />
+      <item value="uses Cleartext Traffic" />
+      <item value="READ PHONE STATE" />
+      <item value="READ EXTERNAL STORAGE" />
+      <item value="wework" />
+      <item value="library" />
+      <item value="facebook app id" />
+      <item value="Mipush Test Activity" />
+      <item value="android" />
+      <item value="meizu" />
+      <item value="channel" />
+      <item value="keepattributes" />
+      <item value="dontwarn" />
+      <item value="wechatcomponent" />
+      <item value="lite" />
+      <item value="_r 97423 a 8_lite" />
+      <item value="board" />
+      <item value="apm" />
+      <item value="asms" />
+      <item value="common" />
       <item value="layer-list" />
       <item value="shape" />
       <item value="background Tint" />
@@ -33,27 +54,6 @@
       <item value="set Supports Change Animations" />
       <item value="set Layout Manager" />
       <item value="set Adapter" />
-      <item value="set Item Animator" />
-      <item value="m Wrapped Adapter" />
-      <item value="m Layout Manager" />
-      <item value="handle On Item View Clicked" />
-      <item value="priority" />
-      <item value="m Recycler View Touch Action Guard Manager" />
-      <item value="attach Recycler View" />
-      <item value="requires wrapped adapter" />
-      <item value="Change animations are enabled by default since support-v7-recyclerview v22. Disable the change animation in order to make turning back animation of swiped item works properly." />
-      <item value="Change animations are enabled by default since support-v7-recyclerview v22. Disable the change animation in order to make turning back animation of swiped item works properly. an" />
-      <item value="release All" />
-      <item value="create Wrapped Adapter" />
-      <item value="wrap for swiping" />
-      <item value="on Under Swipeable View Button Clicked" />
-      <item value="unpin if tapped the pinned item" />
-      <item value="Swipeable With Button Example Fragment" />
-      <item value="on Item View Clicked" />
-      <item value="This method will be called when a list item is pinned" />
-      <item value="notify Item Changed" />
-      <item value="m Recycler View Swipe Manager" />
-      <item value="Recycler View Swipe Manager" />
     </histories>
     <option name="languageScores">
       <map>

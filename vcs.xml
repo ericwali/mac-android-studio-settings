@@ -58,6 +58,10 @@
           <option name="url" value="git@github.com:h6ah4i/android-advancedrecyclerview.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/umengplus/MultiFunctionAndroidMavenDemo-master.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/StudioProjects/my" />
