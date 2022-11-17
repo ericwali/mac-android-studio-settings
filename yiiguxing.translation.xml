@@ -4,6 +4,9 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="on Save Instance State" />
+      <item value="is App Installed" />
+      <item value="show Long" />
       <item value="requires a placeholder substitution but no value for &lt;qqappid&gt; is provided." />
       <item value="orientation" />
       <item value="DEFAULT" />
@@ -16,7 +19,6 @@
       <item value="Umeng Share Listener" />
       <item value="UM Share Listener" />
       <item value="are you ok" />
-      <item value="is App Installed" />
       <item value="set Platform" />
       <item value="with Media" />
       <item value="Share Detail Activity" />
@@ -43,7 +45,6 @@
       <item value="Auth Activity" />
       <item value="init Platforms" />
       <item value="GENERIC" />
-      <item value="on Save Instance State" />
       <item value="Splash Test Activity" />
       <item value="uses Cleartext Traffic" />
       <item value="READ PHONE STATE" />
@@ -53,7 +54,6 @@
       <item value="facebook app id" />
       <item value="Mipush Test Activity" />
       <item value="android" />
-      <item value="meizu" />
     </histories>
     <option name="languageScores">
       <map>
