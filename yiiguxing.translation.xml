@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="amdcopen.m.taobao.com" />
+      <item value="amdcopen" />
       <item value="DTrafficStats: tagSocket(81) with statsTag=0xffffffff, statsUid=-1" />
       <item value="java.io.File Not Found Exception" />
       <item value="javax.net.ssl.SSLHandshakeException: connection closed" />
@@ -52,8 +54,6 @@
       <item value="is App Installed" />
       <item value="show Long" />
       <item value="requires a placeholder substitution but no value for &lt;qqappid&gt; is provided." />
-      <item value="orientation" />
-      <item value="DEFAULT" />
     </histories>
     <option name="languageScores">
       <map>
