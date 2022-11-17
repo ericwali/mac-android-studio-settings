@@ -4,6 +4,11 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="DEFAULT" />
+      <item value="on Activity Result" />
+      <item value="result Code" />
+      <item value="UM Share API" />
+      <item value="access Token" />
       <item value="CIRCLE" />
       <item value="Share Listener Wrapper" />
       <item value="Umeng Share Listener" />
@@ -36,9 +41,7 @@
       <item value="Auth Activity" />
       <item value="init Platforms" />
       <item value="GENERIC" />
-      <item value="on Activity Result" />
       <item value="on Save Instance State" />
-      <item value="UM Share API" />
       <item value="Splash Test Activity" />
       <item value="uses Cleartext Traffic" />
       <item value="READ PHONE STATE" />
@@ -51,9 +54,6 @@
       <item value="meizu" />
       <item value="channel" />
       <item value="keepattributes" />
-      <item value="dontwarn" />
-      <item value="wechatcomponent" />
-      <item value="lite" />
     </histories>
     <option name="languageScores">
       <map>
