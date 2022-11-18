@@ -4,6 +4,15 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Shared Preference" />
+      <item value="android_os_Process_sendSignal. PID: 13480 SIG: 9" />
+      <item value="State in disk: 'f'" />
+      <item value="uncaught Exception" />
+      <item value="set Main Activity Path" />
+      <item value="on App Start" />
+      <item value="canclebtn" />
+      <item value="Intent" />
+      <item value="shared Preferences Helper" />
       <item value="consume" />
       <item value="success&quot;:&quot;fail&quot;,&quot;error&quot;:&quot;no message" />
       <item value="get Dismiss Pending Intent" />
@@ -31,14 +40,10 @@
       <item value="setcatchuncaughtexceptions" />
       <item value="File Provider" />
       <item value="Push Agent" />
-      <item value="on App Start" />
       <item value="com.umeng.soexample.Home Activity" />
-      <item value="set Main Activity Path" />
       <item value="set In App Msg Debug Mode" />
       <item value="m In App Message Manager" />
-      <item value="shared Preferences Helper" />
       <item value="Splash Test Activity" />
-      <item value="get Shared Preference" />
       <item value="Umeng Splash Message Activity" />
       <item value="Resource Type" />
       <item value="set Is Permission Granted" />
@@ -49,11 +54,6 @@
       <item value="thirdpush" />
       <item value="agoo" />
       <item value="application Id" />
-      <item value="My Custom Message Service" />
-      <item value="BIND JOB SERVICE" />
-      <item value="heytap" />
-      <item value="Socket Timeout Exception" />
-      <item value="failed to connect to amdcopen.m.taobao.com" />
     </histories>
     <option name="languageScores">
       <map>
