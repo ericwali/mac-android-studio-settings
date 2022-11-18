@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="set Is Permission Granted" />
       <item value="handle Notification Message" />
       <item value="DISPLAY TYPE CUSTOM" />
       <item value="DISPLAY TYPE NOTIFICATION" />
@@ -53,7 +54,6 @@
       <item value="System Push Config" />
       <item value="notifyStatus status:CONNECTED" />
       <item value="hb use alarm" />
-      <item value="send Connect Info To Accs By Service" />
     </histories>
     <option name="languageScores">
       <map>
