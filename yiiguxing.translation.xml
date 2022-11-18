@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="success&quot;:&quot;fail&quot;,&quot;error&quot;:&quot;no message" />
       <item value="get Dismiss Pending Intent" />
       <item value="set Push Intent Service Class" />
       <item value="ubmit ping ms:45006 force:true" />
@@ -53,7 +54,6 @@
       <item value="heytap" />
       <item value="Socket Timeout Exception" />
       <item value="failed to connect to amdcopen.m.taobao.com" />
-      <item value="pre Init" />
     </histories>
     <option name="languageScores">
       <map>
