@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="on Custom Pretreatment" />
+      <item value="public boolean onCustomPretreatment() {" />
       <item value="show Card Message" />
       <item value="set Message Handler" />
       <item value="U Track" />
@@ -52,8 +54,6 @@
       <item value="thread:AWCN Scheduler1" />
       <item value="SSLHandshakeException, Failed to send message." />
       <item value="compile Sdk Version" />
-      <item value="amdcopen.m.taobao.com" />
-      <item value="handleBusinessMsg start dataId:f__-e3e2aDL7hO0N serviceId:agooSend command:101" />
     </histories>
     <option name="languageScores">
       <map>
