@@ -4,6 +4,24 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="um Init Config" />
+      <item value="set Page Collection Mode" />
+      <item value="等自定义页面进行手动页面统计的开发者，开发者如需针对Fragment、CustomView等 自定义页面进行页面统计，直接调用MobclickAgent.onPageStartMobclickAgent.onPageEnd 手动埋点即可。开发者还需要在每一个Activity的onResume函数中手动调用MobclickAgent.onResume接口， 在Activity的onPause函数中手动调用MobclickAgent.onPause接口。" />
+      <item value="crash" />
+      <item value="Mobclick Agent" />
+      <item value="setcatchuncaughtexceptions" />
+      <item value="File Provider" />
+      <item value="Push Agent" />
+      <item value="on App Start" />
+      <item value="com.umeng.soexample.Home Activity" />
+      <item value="set Main Activity Path" />
+      <item value="set In App Msg Debug Mode" />
+      <item value="m In App Message Manager" />
+      <item value="shared Preferences Helper" />
+      <item value="Splash Test Activity" />
+      <item value="get Shared Preference" />
+      <item value="Umeng Splash Message Activity" />
+      <item value="Resource Type" />
       <item value="set Is Permission Granted" />
       <item value="handle Notification Message" />
       <item value="DISPLAY TYPE CUSTOM" />
@@ -36,29 +54,11 @@
       <item value="javax.net.ssl.SSLHandshakeException: connection closed" />
       <item value="Mfr Message Activity" />
       <item value="[seq:AMDC1] amdc request fail" />
-      <item value="Accs Client Config" />
-      <item value="set Display Type" />
-      <item value="java.net.SocketTimeoutException: failed to connect to amdcopen.m.taobao.com203.119.217.116 (port 443) from 10.0.2.16 (port 39440) after 20000ms" />
-      <item value="this device is not support vivo push" />
-      <item value="is Main Progress" />
-      <item value="get Registration Id" />
-      <item value="register failed! code:er_param_app_package,desc:agoo server error" />
-      <item value="Umeng Message Handler Service" />
-      <item value="handleBusinessMsg getListener not null" />
-      <item value="ENAccs.MsgRecv_default: handleMessage dataId:1668676875358.3 type:DATA reqType:RES resType:NO_ACK target:Y3X6GcXliu4DABiNJ8FQ6t6l|com.umeng.message.demo|AgooDeviceCmd|" />
-      <item value="notifyStatus status:CONNECTING" />
-      <item value="connect host" />
-      <item value="6373815 dac 36474270 fdf 0 c 1" />
-      <item value="sessionId:1668676875330 SpdyProtocol,:http2_0rtt_open proxyIp,: proxyPort,:0" />
-      <item value="Failed to find provider info for com.vivo.push.sdk.service.SystemPushConfig" />
-      <item value="System Push Config" />
-      <item value="notifyStatus status:CONNECTED" />
-      <item value="hb use alarm" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1946" />
-        <entry key="ENGLISH" value="1900" />
+        <entry key="ENGLISH" value="1901" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="7" />
         <entry key="GERMAN" value="2" />
