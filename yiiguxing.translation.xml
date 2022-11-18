@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Socket Timeout Exception" />
+      <item value="failed to connect to amdcopen.m.taobao.com" />
       <item value="pre Init" />
       <item value="Plain Socket Impl" />
       <item value="https:amdcopen.m.taobao.comamdcmobile Dispatch?appkey=umeng%3 A 637609 c 2 ac 3647427000 a 9 e 2&amp;platform=android&amp;v=5.0" />
@@ -52,8 +54,6 @@
       <item value="1668676875358" />
       <item value="handleBusinessMsg start dataId:1668676875358.3 serviceId:AgooDeviceCmd" />
       <item value="ENAccs.MsgDistribute: handleBusinessMsg start dataId:1668676875358.3 serviceId:AgooDeviceCmd command:100" />
-      <item value="isExistPackage NameNotFoundException:com.coloros.mcs" />
-      <item value="register checkDevice false" />
     </histories>
     <option name="languageScores">
       <map>
