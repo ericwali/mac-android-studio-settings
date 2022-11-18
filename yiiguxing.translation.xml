@@ -4,12 +4,19 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="My Custom Notification Click Activity" />
+      <item value="thirdpush" />
+      <item value="agoo" />
+      <item value="application Id" />
+      <item value="My Custom Message Service" />
+      <item value="DISPLAY TYPE NOTIFICATION" />
+      <item value="BIND JOB SERVICE" />
+      <item value="heytap" />
       <item value="Socket Timeout Exception" />
       <item value="failed to connect to amdcopen.m.taobao.com" />
       <item value="pre Init" />
       <item value="Plain Socket Impl" />
       <item value="https:amdcopen.m.taobao.comamdcmobile Dispatch?appkey=umeng%3 A 637609 c 2 ac 3647427000 a 9 e 2&amp;platform=android&amp;v=5.0" />
-      <item value="My Custom Message Service" />
       <item value="distribute ready action:com.taobao.accs.intent.action.RECEIVE dataId: serviceId:" />
       <item value="ava.net.SocketTimeoutException: Read timed out" />
       <item value="Reducing the number of considered missed Gc histogram windows from 278 to 100" />
@@ -47,13 +54,6 @@
       <item value="send Connect Info To Accs By Service" />
       <item value="send Connect Info To Accs By Call Back" />
       <item value="ENAccs.InAppConn_default: onConnectionChanged currentHost:https:umengacs.m.taobao.com changeHost:https:umengacs.m.taobao.com state:true" />
-      <item value="sendMessage end dataId:1668676875358.3 status:true" />
-      <item value="onReceiveData dataId:1668676875358.3 serviceId:AgooDeviceCmd command:100 className:com.taobao.agoo.a.b" />
-      <item value="onResponse start dataId:1668676875358.3 serviceId:AgooDeviceCmd" />
-      <item value="register failed! code:er_param_app_package, desc:agoo server error" />
-      <item value="1668676875358" />
-      <item value="handleBusinessMsg start dataId:1668676875358.3 serviceId:AgooDeviceCmd" />
-      <item value="ENAccs.MsgDistribute: handleBusinessMsg start dataId:1668676875358.3 serviceId:AgooDeviceCmd command:100" />
     </histories>
     <option name="languageScores">
       <map>
