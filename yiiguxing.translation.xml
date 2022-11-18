@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="consume" />
       <item value="success&quot;:&quot;fail&quot;,&quot;error&quot;:&quot;no message" />
       <item value="get Dismiss Pending Intent" />
       <item value="set Push Intent Service Class" />
@@ -11,7 +12,6 @@
       <item value="hread:AWCN Scheduler1" />
       <item value="MESSAGE BODY" />
       <item value="Umeng Notification Service" />
-      <item value="consume" />
       <item value="no message" />
       <item value="aibe 254 e 575 d 7 ebb 6 d 528 cb 95 a 827 eaec 3" />
       <item value="In App Message Manager" />
