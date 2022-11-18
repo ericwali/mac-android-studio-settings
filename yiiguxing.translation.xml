@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="POST" />
       <item value="Umeng Notification Service" />
       <item value="on Start Command" />
       <item value="um Init Config" />
@@ -53,7 +54,6 @@
       <item value="amdcopen" />
       <item value="DTrafficStats: tagSocket(81) with statsTag=0xffffffff, statsUid=-1" />
       <item value="java.io.File Not Found Exception" />
-      <item value="javax.net.ssl.SSLHandshakeException: connection closed" />
     </histories>
     <option name="languageScores">
       <map>
