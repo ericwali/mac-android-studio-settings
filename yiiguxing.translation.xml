@@ -4,6 +4,12 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="My Custom Message Service" />
+      <item value="distribute ready action:com.taobao.accs.intent.action.RECEIVE dataId: serviceId:" />
+      <item value="ava.net.SocketTimeoutException: Read timed out" />
+      <item value="Reducing the number of considered missed Gc histogram windows from 278 to 100" />
+      <item value="U Push Notification" />
+      <item value="connection closed" />
       <item value="thread:AWCN Scheduler1" />
       <item value="SSLHandshakeException, Failed to send message." />
       <item value="compile Sdk Version" />
@@ -25,7 +31,6 @@
       <item value="Umeng Message Handler Service" />
       <item value="handleBusinessMsg getListener not null" />
       <item value="ENAccs.MsgRecv_default: handleMessage dataId:1668676875358.3 type:DATA reqType:RES resType:NO_ACK target:Y3X6GcXliu4DABiNJ8FQ6t6l|com.umeng.message.demo|AgooDeviceCmd|" />
-      <item value="distribute ready action:com.taobao.accs.intent.action.RECEIVE dataId: serviceId:" />
       <item value="notifyStatus status:CONNECTING" />
       <item value="connect host" />
       <item value="6373815 dac 36474270 fdf 0 c 1" />
@@ -49,11 +54,6 @@
       <item value="ENAccs.HuaWeiRegister: register checkDevice false" />
       <item value="DUPush.Notify: deviceToken skip." />
       <item value="APP MASTER SECRET" />
-      <item value="UMENG PUSH SECRET" />
-      <item value="669 c 30 a 9584623 e 70 e 8 cd 01 b 0381 dcb 4" />
-      <item value="Setting up flushing for Thread[work_thread,5,main]" />
-      <item value="initClient okHttp catch error" />
-      <item value="on Save Instance State" />
     </histories>
     <option name="languageScores">
       <map>
