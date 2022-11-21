@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="EUPush.UPushExecutor: error:Can't toast on a thread that has not called Looper.prepare()" />
       <item value="set Alias" />
       <item value="alias Type" />
       <item value="on Message" />
@@ -53,7 +54,6 @@
       <item value="平台多维度推送" />
       <item value="Activity Action: Display the data to the user. This is the most common action performed on data -- it is the generic action you can use on a piece of data to get the most reasonable thing to occur. For example, when used on a contacts entry it will view the entry; when used on a mailto: URI it will bring up a compose window filled with the information supplied by the URI; when used with a tel: URI it will invoke the dialer. Input: getData is URI from which to retrieve data. Output: nothing." />
       <item value="A synonym for ACTION_VIEW, the &quot;standard&quot; action that is performed on a piece of data." />
-      <item value="VIEW" />
     </histories>
     <option name="languageScores">
       <map>
