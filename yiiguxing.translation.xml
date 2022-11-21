@@ -4,6 +4,15 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="obtain Title Bar" />
+      <item value="title Bar" />
+      <item value="View Group" />
+      <item value="set Title Icon Padding" />
+      <item value="create Title View" />
+      <item value="obtain Styled Attributes" />
+      <item value="On Click Listener" />
+      <item value="On Layout Change Listener" />
+      <item value="set Content View" />
       <item value="ga 2 dkkjsjudznf 1 wdnp 0 cgaq 1 gkribne" />
       <item value="Page Bottom Tab Layout" />
       <item value="Material Builder" />
@@ -45,15 +54,6 @@
       <item value="EUPush.Track: deviceToken is empty." />
       <item value="add Tab Item Selected Listener" />
       <item value="set Main Activity Path" />
-      <item value="Login Activity" />
-      <item value="from Json" />
-      <item value="on App Start" />
-      <item value="notification Click Handler" />
-      <item value="cast" />
-      <item value="remove" />
-      <item value="subscribe" />
-      <item value="Result Response" />
-      <item value="delete" />
     </histories>
     <option name="languageScores">
       <map>
