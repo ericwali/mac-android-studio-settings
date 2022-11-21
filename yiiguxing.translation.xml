@@ -4,8 +4,22 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="get Main Looper" />
+      <item value="screenorientation" />
+      <item value="uses Cleartext Traffic" />
+      <item value="round Icon" />
+      <item value="spannable" />
+      <item value="required" />
+      <item value="library" />
+      <item value="NOTIFICATION PLAY SDK DISABLE" />
+      <item value="NOTIFICATION PLAY SERVER" />
       <item value="NOTIFICATION PLAY SDK ENABLE" />
+      <item value="deal With Notification Message" />
+      <item value="set Notification Click Handler" />
+      <item value="send Broadcast" />
+      <item value="notification Click Handler" />
+      <item value="message Handler" />
+      <item value="set Notification Play Lights" />
+      <item value="get Main Looper" />
       <item value="init U Push" />
       <item value="set Pinterest" />
       <item value="set Dropbox" />
@@ -40,20 +54,6 @@
       <item value="send Signal" />
       <item value="set Main Activity Path" />
       <item value="java.lang.NullPointerException: class name is null" />
-      <item value="class name is null" />
-      <item value="get Shared Preference" />
-      <item value="android_os_Process_sendSignal. PID: 13480 SIG: 9" />
-      <item value="State in disk: 'f'" />
-      <item value="uncaught Exception" />
-      <item value="on App Start" />
-      <item value="canclebtn" />
-      <item value="Intent" />
-      <item value="shared Preferences Helper" />
-      <item value="consume" />
-      <item value="success&quot;:&quot;fail&quot;,&quot;error&quot;:&quot;no message" />
-      <item value="get Dismiss Pending Intent" />
-      <item value="set Push Intent Service Class" />
-      <item value="ubmit ping ms:45006 force:true" />
     </histories>
     <option name="languageScores">
       <map>
