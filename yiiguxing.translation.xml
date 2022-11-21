@@ -4,10 +4,23 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Activity Action: Display the data to the user. This is the most common action performed on data -- it is the generic action you can use on a piece of data to get the most reasonable thing to occur. For example, when used on a contacts entry it will view the entry; when used on a mailto: URI it will bring up a compose window filled with the information supplied by the URI; when used with a tel: URI it will invoke the dialer. Input: getData is URI from which to retrieve data. Output: nothing." />
+      <item value="A synonym for ACTION_VIEW, the &quot;standard&quot; action that is performed on a piece of data." />
+      <item value="VIEW" />
+      <item value="screen Orientation" />
+      <item value="DIAOLOGLAYOUT" />
+      <item value="soexample" />
+      <item value="submitpolicygrantresult" />
+      <item value="submit Policy Grant Result" />
+      <item value="diaologlayout" />
+      <item value="Layout Inflater" />
+      <item value="Splash Test Activity" />
+      <item value="on Activity Result" />
+      <item value="caclebtn" />
+      <item value="succsebtn" />
+      <item value="Splash Activity" />
       <item value="Splash" />
       <item value="Theme Umeng Push Splash" />
-      <item value="submit Policy Grant Result" />
-      <item value="Splash Test Activity" />
       <item value="set In App Msg Debug Mode" />
       <item value="WSQLiteLog: (28) double-quoted string literal: &quot;6157157739A13B35E9C9192F4F4F8EFF&quot;" />
       <item value="encryptLog: false, zipCrashLog: false EDEBUG: begin to generate java report" />
@@ -41,19 +54,6 @@
       <item value="public boolean onCustomPretreatment() {" />
       <item value="set Message Handler" />
       <item value="U Track" />
-      <item value="POST" />
-      <item value="on Start Command" />
-      <item value="um Init Config" />
-      <item value="set Page Collection Mode" />
-      <item value="等自定义页面进行手动页面统计的开发者，开发者如需针对Fragment、CustomView等 自定义页面进行页面统计，直接调用MobclickAgent.onPageStartMobclickAgent.onPageEnd 手动埋点即可。开发者还需要在每一个Activity的onResume函数中手动调用MobclickAgent.onResume接口， 在Activity的onPause函数中手动调用MobclickAgent.onPause接口。" />
-      <item value="crash" />
-      <item value="Mobclick Agent" />
-      <item value="setcatchuncaughtexceptions" />
-      <item value="File Provider" />
-      <item value="Push Agent" />
-      <item value="com.umeng.soexample.Home Activity" />
-      <item value="m In App Message Manager" />
-      <item value="Umeng Splash Message Activity" />
     </histories>
     <option name="languageScores">
       <map>
