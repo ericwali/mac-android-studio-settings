@@ -4,6 +4,18 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Main Looper" />
+      <item value="NOTIFICATION PLAY SDK ENABLE" />
+      <item value="init U Push" />
+      <item value="set Pinterest" />
+      <item value="set Dropbox" />
+      <item value="set V Kontakte" />
+      <item value="set Ding File Provider" />
+      <item value="set Kakao" />
+      <item value="set Bytedance" />
+      <item value="a 2 dce 41 fff 214270 dd 4 a 7 f 60 ac 885491" />
+      <item value="File Provider" />
+      <item value="平台多维度推送" />
       <item value="Activity Action: Display the data to the user. This is the most common action performed on data -- it is the generic action you can use on a piece of data to get the most reasonable thing to occur. For example, when used on a contacts entry it will view the entry; when used on a mailto: URI it will bring up a compose window filled with the information supplied by the URI; when used with a tel: URI it will invoke the dialer. Input: getData is URI from which to retrieve data. Output: nothing." />
       <item value="A synonym for ACTION_VIEW, the &quot;standard&quot; action that is performed on a piece of data." />
       <item value="VIEW" />
@@ -42,23 +54,11 @@
       <item value="get Dismiss Pending Intent" />
       <item value="set Push Intent Service Class" />
       <item value="ubmit ping ms:45006 force:true" />
-      <item value="hread:AWCN Scheduler1" />
-      <item value="MESSAGE BODY" />
-      <item value="Umeng Notification Service" />
-      <item value="no message" />
-      <item value="aibe 254 e 575 d 7 ebb 6 d 528 cb 95 a 827 eaec 3" />
-      <item value="In App Message Manager" />
-      <item value="btn show card message" />
-      <item value="show Card Message" />
-      <item value="on Custom Pretreatment" />
-      <item value="public boolean onCustomPretreatment() {" />
-      <item value="set Message Handler" />
-      <item value="U Track" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1946" />
-        <entry key="ENGLISH" value="1901" />
+        <entry key="ENGLISH" value="1902" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="7" />
         <entry key="GERMAN" value="2" />
