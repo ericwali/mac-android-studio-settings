@@ -4,6 +4,11 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="U Push Register Callback" />
+      <item value="Data" />
+      <item value="map Logistic Point" />
+      <item value="deal With Custom Action" />
+      <item value="EUPush.Track: deviceToken is empty." />
       <item value="TAB BAR DEFAULT INDEX" />
       <item value="add Tab Item Selected Listener" />
       <item value="current Fragment" />
@@ -49,11 +54,6 @@
       <item value="send No Msg To Target With Token" />
       <item value="send No Msg To Target" />
       <item value="send To Target" />
-      <item value="send No Msg" />
-      <item value="|| item.getAction().getTarget().getClass() == messageTargetType" />
-      <item value="recipients Of Subclasses Action" />
-      <item value="recipients" />
-      <item value="receive Derived Messages Too" />
     </histories>
     <option name="languageScores">
       <map>
