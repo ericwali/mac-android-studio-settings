@@ -4,6 +4,10 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="kc activity point pearch" />
+      <item value="Route Plan Activity" />
+      <item value="on Paused" />
+      <item value="Point Activity" />
       <item value="java.lang.NullPointerException: Attempt to invoke virtual method 'int java.lang.Integer.intValue()' on a null object reference" />
       <item value="Title Bar Action" />
       <item value="Immersion Bar" />
@@ -50,10 +54,6 @@
       <item value="recipients Of Subclasses Action" />
       <item value="recipients Strict Action" />
       <item value="receive Derived Messages Too" />
-      <item value="recipients" />
-      <item value="send To Target Or Type" />
-      <item value="U Push Register Callback" />
-      <item value="Data" />
     </histories>
     <option name="languageScores">
       <map>
