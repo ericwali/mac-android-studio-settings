@@ -4,14 +4,36 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Target" />
+      <item value="message Target Type" />
       <item value="Weak Messenger" />
-      <item value="defaultinstance" />
-      <item value="reset" />
-      <item value="on Destroy" />
-      <item value="unregister" />
-      <item value="recipients Strict Action" />
+      <item value="get Default" />
+      <item value="sendtolist" />
+      <item value="send To Target Or Type" />
+      <item value="recipient" />
+      <item value="message" />
+      <item value="Weak Action And Token" />
+      <item value="send No Msg To Target" />
+      <item value="send No Msg To Target With Token" />
+      <item value="token" />
+      <item value="get Token" />
+      <item value="class Implements" />
+      <item value="get Action" />
+      <item value="execute Action" />
+      <item value="list Clone" />
       <item value="recipients Of Subclasses Action" />
       <item value="send No Msg" />
+      <item value="recipients Strict Action" />
+      <item value="Not Msg Type" />
+      <item value="recipients" />
+      <item value="cleanup" />
+      <item value="list" />
+      <item value="override Default" />
+      <item value="Binding Consumer" />
+      <item value="reset" />
+      <item value="defaultinstance" />
+      <item value="on Destroy" />
+      <item value="unregister" />
       <item value="register" />
       <item value="Sticky" />
       <item value="post Sticky" />
@@ -32,28 +54,6 @@
       <item value="open Url" />
       <item value="kicc uid" />
       <item value="add alias success! type" />
-      <item value="UMENG PUSH USER ALIAS TYPE" />
-      <item value="EUPush.UPushExecutor: error:Can't toast on a thread that has not called Looper.prepare()" />
-      <item value="set Alias" />
-      <item value="alias Type" />
-      <item value="on Message" />
-      <item value="The level to use for the icon." />
-      <item value="Set the small icon resource, which will be used to represent the notification in the status bar. The platform template for the expanded view will draw this icon in the left, unless a large icon has also been specified, in which case the small icon will be moved to the right-hand side. Params: icon – A resource ID in the application's package of the drawable to use. See Also: icon" />
-      <item value="Sets which icon to display as a badge for this notification. Must be one of BADGE_ICON_NONE, BADGE_ICON_SMALL, BADGE_ICON_LARGE. Note: This value might be ignored, for launchers that don't support badge icons." />
-      <item value="set Content Title" />
-      <item value="builder id" />
-      <item value="track Msg Dismissed" />
-      <item value="set Notification Play Sound" />
-      <item value="Mipush Test Activity" />
-      <item value="Process 1 Service" />
-      <item value="Process 1 Activity" />
-      <item value="Uapp Activity" />
-      <item value="U Fragment Tabs" />
-      <item value="U Fragment Stack" />
-      <item value="Splash Test Activity" />
-      <item value="INTERNET" />
-      <item value="Umeng Notification Click Handler" />
-      <item value="set Push Intent Service Class" />
     </histories>
     <option name="languageScores">
       <map>
