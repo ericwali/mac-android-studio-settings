@@ -4,6 +4,10 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Splash" />
+      <item value="Theme Umeng Push Splash" />
+      <item value="submit Policy Grant Result" />
+      <item value="Splash Test Activity" />
       <item value="set In App Msg Debug Mode" />
       <item value="WSQLiteLog: (28) double-quoted string literal: &quot;6157157739A13B35E9C9192F4F4F8EFF&quot;" />
       <item value="encryptLog: false, zipCrashLog: false EDEBUG: begin to generate java report" />
@@ -49,11 +53,7 @@
       <item value="Push Agent" />
       <item value="com.umeng.soexample.Home Activity" />
       <item value="m In App Message Manager" />
-      <item value="Splash Test Activity" />
       <item value="Umeng Splash Message Activity" />
-      <item value="Resource Type" />
-      <item value="set Is Permission Granted" />
-      <item value="handle Notification Message" />
     </histories>
     <option name="languageScores">
       <map>
@@ -81,7 +81,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1668388306182" />
+    <option name="lastTrimTime" value="1668993665629" />
   </component>
   <component name="Settings">
     <option name="aliTranslateSettings">
