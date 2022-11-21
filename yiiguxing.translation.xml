@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="APP MASTER SECRET" />
       <item value="screenorientation" />
       <item value="uses Cleartext Traffic" />
       <item value="round Icon" />
@@ -53,7 +54,6 @@
       <item value="Component Name" />
       <item value="send Signal" />
       <item value="set Main Activity Path" />
-      <item value="java.lang.NullPointerException: class name is null" />
     </histories>
     <option name="languageScores">
       <map>
