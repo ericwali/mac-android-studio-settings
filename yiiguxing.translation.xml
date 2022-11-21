@@ -4,6 +4,19 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Page Bottom Tab Layout" />
+      <item value="pagerbottomtabstrip" />
+      <item value="current Fragment" />
+      <item value="transaction" />
+      <item value="commit Allowing State Loss" />
+      <item value="TAB BAR DEFAULT INDEX" />
+      <item value="add" />
+      <item value="hide All Fragment" />
+      <item value="Collect Task List View Model" />
+      <item value="Rx Subscriptions" />
+      <item value="map Logistic Point" />
+      <item value="get Activity" />
+      <item value="vertical" />
       <item value="set Notification Click Handler" />
       <item value="intent" />
       <item value="message Target Type" />
@@ -20,12 +33,9 @@
       <item value="send To Target Or Type" />
       <item value="U Push Register Callback" />
       <item value="Data" />
-      <item value="map Logistic Point" />
       <item value="deal With Custom Action" />
       <item value="EUPush.Track: deviceToken is empty." />
-      <item value="TAB BAR DEFAULT INDEX" />
       <item value="add Tab Item Selected Listener" />
-      <item value="current Fragment" />
       <item value="set Main Activity Path" />
       <item value="Login Activity" />
       <item value="from Json" />
@@ -44,16 +54,6 @@
       <item value="get Sticky Event" />
       <item value="post Sticky" />
       <item value="observe On" />
-      <item value="to Observable" />
-      <item value="Composite Disposable" />
-      <item value="Disposable" />
-      <item value="This method will be called when this ViewModel is no longer used and will be destroyed. It is useful when ViewModel observes some data and you need to clear this subscription to prevent a leak of this ViewModel." />
-      <item value="m View Model Life Cycle Sync" />
-      <item value="on Cleared" />
-      <item value="is Disposed" />
-      <item value="reset" />
-      <item value="Weak Reference" />
-      <item value="get Target" />
     </histories>
     <option name="languageScores">
       <map>
