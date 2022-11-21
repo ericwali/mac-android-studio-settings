@@ -4,6 +4,35 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="TAB BAR DEFAULT INDEX" />
+      <item value="add Tab Item Selected Listener" />
+      <item value="current Fragment" />
+      <item value="set Main Activity Path" />
+      <item value="Login Activity" />
+      <item value="from Json" />
+      <item value="on App Start" />
+      <item value="notification Click Handler" />
+      <item value="cast" />
+      <item value="remove" />
+      <item value="subscribe" />
+      <item value="Result Response" />
+      <item value="delete" />
+      <item value="Removes and disposes the given disposable if it is part of this container. Params: disposable – the disposable to remove and dispose, not null Returns: true if the operation was successful" />
+      <item value="progress Load Bean" />
+      <item value="to Observable Sticky" />
+      <item value="toobservablesticky" />
+      <item value="remove Sticky Event" />
+      <item value="get Sticky Event" />
+      <item value="post Sticky" />
+      <item value="observe On" />
+      <item value="to Observable" />
+      <item value="Composite Disposable" />
+      <item value="Disposable" />
+      <item value="This method will be called when this ViewModel is no longer used and will be destroyed. It is useful when ViewModel observes some data and you need to clear this subscription to prevent a leak of this ViewModel." />
+      <item value="m View Model Life Cycle Sync" />
+      <item value="on Cleared" />
+      <item value="is Disposed" />
+      <item value="reset" />
       <item value="Weak Reference" />
       <item value="message Target Type" />
       <item value="get Target" />
@@ -25,35 +54,6 @@
       <item value="recipients Of Subclasses Action" />
       <item value="recipients" />
       <item value="receive Derived Messages Too" />
-      <item value="register" />
-      <item value="Weak Action And Token" />
-      <item value="Weak Action" />
-      <item value="recipient" />
-      <item value="send To Target Or Type" />
-      <item value="unregister From Lists" />
-      <item value="Binding Consumer" />
-      <item value="on Destroy View" />
-      <item value="override Default" />
-      <item value="Weak Messenger" />
-      <item value="get Default" />
-      <item value="sendtolist" />
-      <item value="message" />
-      <item value="token" />
-      <item value="get Token" />
-      <item value="execute Action" />
-      <item value="list Clone" />
-      <item value="recipients Strict Action" />
-      <item value="Not Msg Type" />
-      <item value="cleanup" />
-      <item value="list" />
-      <item value="reset" />
-      <item value="defaultinstance" />
-      <item value="on Destroy" />
-      <item value="unregister" />
-      <item value="Sticky" />
-      <item value="post Sticky" />
-      <item value="remove Sticky Event" />
-      <item value="has Observers" />
     </histories>
     <option name="languageScores">
       <map>
