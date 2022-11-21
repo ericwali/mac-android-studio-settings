@@ -4,6 +4,20 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="set Notification Click Handler" />
+      <item value="intent" />
+      <item value="message Target Type" />
+      <item value="class Implements" />
+      <item value="is Assignable From" />
+      <item value="message Type" />
+      <item value="Class" />
+      <item value="Not Msg Type" />
+      <item value="list Clone" />
+      <item value="recipients Of Subclasses Action" />
+      <item value="recipients Strict Action" />
+      <item value="receive Derived Messages Too" />
+      <item value="recipients" />
+      <item value="send To Target Or Type" />
       <item value="U Push Register Callback" />
       <item value="Data" />
       <item value="map Logistic Point" />
@@ -39,21 +53,7 @@
       <item value="is Disposed" />
       <item value="reset" />
       <item value="Weak Reference" />
-      <item value="message Target Type" />
       <item value="get Target" />
-      <item value="class Implements" />
-      <item value="current Interface" />
-      <item value="get Interfaces" />
-      <item value="interfaces" />
-      <item value="instance Type" />
-      <item value="interface Type" />
-      <item value="get Action" />
-      <item value="send To List" />
-      <item value="message Type" />
-      <item value="of Type" />
-      <item value="send No Msg To Target With Token" />
-      <item value="send No Msg To Target" />
-      <item value="send To Target" />
     </histories>
     <option name="languageScores">
       <map>
