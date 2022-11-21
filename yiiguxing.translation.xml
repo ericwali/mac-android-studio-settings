@@ -4,6 +4,15 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Mipush Test Activity" />
+      <item value="Process 1 Service" />
+      <item value="Process 1 Activity" />
+      <item value="Uapp Activity" />
+      <item value="U Fragment Tabs" />
+      <item value="U Fragment Stack" />
+      <item value="Splash Test Activity" />
+      <item value="INTERNET" />
+      <item value="Umeng Notification Click Handler" />
       <item value="set Push Intent Service Class" />
       <item value="APP MASTER SECRET" />
       <item value="screenorientation" />
@@ -42,18 +51,9 @@
       <item value="submit Policy Grant Result" />
       <item value="diaologlayout" />
       <item value="Layout Inflater" />
-      <item value="Splash Test Activity" />
       <item value="on Activity Result" />
       <item value="caclebtn" />
       <item value="succsebtn" />
-      <item value="Splash Activity" />
-      <item value="Splash" />
-      <item value="Theme Umeng Push Splash" />
-      <item value="set In App Msg Debug Mode" />
-      <item value="WSQLiteLog: (28) double-quoted string literal: &quot;6157157739A13B35E9C9192F4F4F8EFF&quot;" />
-      <item value="encryptLog: false, zipCrashLog: false EDEBUG: begin to generate java report" />
-      <item value="Component Name" />
-      <item value="send Signal" />
     </histories>
     <option name="languageScores">
       <map>
