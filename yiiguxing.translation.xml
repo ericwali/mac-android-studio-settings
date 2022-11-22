@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="cb choose mode" />
       <item value="Grid Image Adapter" />
       <item value="recycler View" />
       <item value="picture Selector View Model" />
@@ -53,7 +54,6 @@
       <item value="is Assignable From" />
       <item value="message Type" />
       <item value="Class" />
-      <item value="Not Msg Type" />
     </histories>
     <option name="languageScores">
       <map>
