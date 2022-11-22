@@ -4,6 +4,25 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="TYPE PICTURE" />
+      <item value="is Show Add Item" />
+      <item value="get Item View Type" />
+      <item value="TYPE CAMERA" />
+      <item value="gv filter image" />
+      <item value="m Inflater" />
+      <item value="notify Item Range Changed" />
+      <item value="notify Item Removed" />
+      <item value="position" />
+      <item value="select Max" />
+      <item value="set Supports Change Animations" />
+      <item value="item Animator" />
+      <item value="Item Animator" />
+      <item value="getmode" />
+      <item value="on Measure" />
+      <item value="m Measured Dimension" />
+      <item value="UNSPECIFIED" />
+      <item value="measure Scrap Child" />
+      <item value="Fully Grid Layout Manager" />
       <item value="cb choose mode" />
       <item value="Grid Image Adapter" />
       <item value="recycler View" />
@@ -35,25 +54,6 @@
       <item value="setup With View Pager" />
       <item value="on Selected" />
       <item value="on Restore Instance State" />
-      <item value="pagerbottomtabstrip" />
-      <item value="current Fragment" />
-      <item value="transaction" />
-      <item value="commit Allowing State Loss" />
-      <item value="TAB BAR DEFAULT INDEX" />
-      <item value="add" />
-      <item value="hide All Fragment" />
-      <item value="Collect Task List View Model" />
-      <item value="Rx Subscriptions" />
-      <item value="map Logistic Point" />
-      <item value="get Activity" />
-      <item value="vertical" />
-      <item value="set Notification Click Handler" />
-      <item value="intent" />
-      <item value="message Target Type" />
-      <item value="class Implements" />
-      <item value="is Assignable From" />
-      <item value="message Type" />
-      <item value="Class" />
     </histories>
     <option name="languageScores">
       <map>
