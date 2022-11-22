@@ -4,6 +4,12 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Measure specification mode: The parent has determined an exact size for the child. The child is going to be given those bounds regardless of how big it wants to be." />
+      <item value="height Spec" />
+      <item value="EXACTLY" />
+      <item value="UNSPECIFIED" />
+      <item value="AT MOST" />
+      <item value="height Mode" />
       <item value="NO POSITION" />
       <item value="choose Model" />
       <item value="m Item Long Click Listener" />
@@ -48,12 +54,6 @@
       <item value="item Animator" />
       <item value="Item Animator" />
       <item value="getmode" />
-      <item value="on Measure" />
-      <item value="m Measured Dimension" />
-      <item value="UNSPECIFIED" />
-      <item value="measure Scrap Child" />
-      <item value="Fully Grid Layout Manager" />
-      <item value="cb choose mode" />
     </histories>
     <option name="languageScores">
       <map>
