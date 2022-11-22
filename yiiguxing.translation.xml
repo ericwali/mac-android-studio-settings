@@ -4,6 +4,36 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="NO POSITION" />
+      <item value="choose Model" />
+      <item value="m Item Long Click Listener" />
+      <item value="rb we chat style" />
+      <item value="Most of the time you only need to override onChildDraw." />
+      <item value="m Drag Scroll Start Time In Ms" />
+      <item value="obtain Velocity Tracker" />
+      <item value="start Drag" />
+      <item value="This is a utility class to add swipe to dismiss and drag &amp; drop support to RecyclerView. It works with a RecyclerView and a Callback class, which configures what type of interactions are enabled and also receives events when user performs these actions. Depending on which functionality you support, you should override ItemTouchHelper.Callback.onMove(RecyclerView, RecyclerView.ViewHolder, RecyclerView.ViewHolder) and or ItemTouchHelper.Callback.onSwiped(RecyclerView.ViewHolder, int). This class is designed to work with any LayoutManager but for certain situations, it can be optimized for your custom LayoutManager by extending methods in the ItemTouchHelper.Callback class or implementing ItemTouchHelper.ViewDropHandler interface in your LayoutManager. By default, ItemTouchHelper moves the items' translateXY properties to reposition them. You can customize these behaviors by overriding ItemTouchHelper.Callback.onChildDraw(Canvas, RecyclerView, RecyclerView.ViewHolder, float, float, int, boolean) or ItemTouchHelper.Callback.onChildDrawOver(Canvas, RecyclerView, RecyclerView.ViewHolder, float, float, int, boolean)." />
+      <item value="m Item Touch Helper" />
+      <item value="on Item Long Click" />
+      <item value="fiv" />
+      <item value="tv duration" />
+      <item value="iv del" />
+      <item value="Square Relative Layout" />
+      <item value="layout margin" />
+      <item value="ps demo custom selector" />
+      <item value="select Color Filter" />
+      <item value="set Color Filter" />
+      <item value="set Selected" />
+      <item value="Medium Bold Text View" />
+      <item value="set Grid Item Select Anim Listener" />
+      <item value="is Original Control" />
+      <item value="set On Click Listener" />
+      <item value="CAMERA" />
+      <item value="ADAPTER TYPE VIDEO" />
+      <item value="ADAPTER TYPE CAMERA" />
+      <item value="get Item Resource Id" />
+      <item value="Relative Layout" />
+      <item value="Player View" />
       <item value="TYPE PICTURE" />
       <item value="is Show Add Item" />
       <item value="get Item View Type" />
@@ -24,36 +54,6 @@
       <item value="measure Scrap Child" />
       <item value="Fully Grid Layout Manager" />
       <item value="cb choose mode" />
-      <item value="Grid Image Adapter" />
-      <item value="recycler View" />
-      <item value="picture Selector View Model" />
-      <item value="Image Select Activity" />
-      <item value="kc activity point pearch" />
-      <item value="Route Plan Activity" />
-      <item value="on Paused" />
-      <item value="Point Activity" />
-      <item value="java.lang.NullPointerException: Attempt to invoke virtual method 'int java.lang.Integer.intValue()' on a null object reference" />
-      <item value="Title Bar Action" />
-      <item value="Immersion Bar" />
-      <item value="personal data title" />
-      <item value="obtain Title Bar" />
-      <item value="title Bar" />
-      <item value="View Group" />
-      <item value="set Title Icon Padding" />
-      <item value="create Title View" />
-      <item value="obtain Styled Attributes" />
-      <item value="On Click Listener" />
-      <item value="On Layout Change Listener" />
-      <item value="set Content View" />
-      <item value="ga 2 dkkjsjudznf 1 wdnp 0 cgaq 1 gkribne" />
-      <item value="Page Bottom Tab Layout" />
-      <item value="Material Builder" />
-      <item value="material" />
-      <item value="set Select" />
-      <item value="Bottom Layout Controller" />
-      <item value="setup With View Pager" />
-      <item value="on Selected" />
-      <item value="on Restore Instance State" />
     </histories>
     <option name="languageScores">
       <map>
