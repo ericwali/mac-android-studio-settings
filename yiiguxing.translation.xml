@@ -4,6 +4,27 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="_on Next" />
+      <item value="get Actual Type Arguments" />
+      <item value="get Generic Superclass" />
+      <item value="Base Upload Disposable Observer" />
+      <item value="upload Request Body" />
+      <item value="update progress on UI thread" />
+      <item value="get Name" />
+      <item value="create Form Data" />
+      <item value="value" />
+      <item value="name" />
+      <item value="Part" />
+      <item value="progress Observable" />
+      <item value="Observable" />
+      <item value="subscribe" />
+      <item value="on Read" />
+      <item value="Upload File" />
+      <item value="upload File" />
+      <item value="Response Body" />
+      <item value="Percent" />
+      <item value="Percent File" />
+      <item value="WSystem.err: java.lang.IllegalArgumentException: Invalid notification (no valid small icon): Notification(channel=com.kicc.collect shortcut=null contentView=null vibrate=null sound=null defaults=0x0 flags=0x0 color=0x00000000 vis=PRIVATE)" />
       <item value="create Notification Channel" />
       <item value="Notification Channel" />
       <item value="Background Location Keep Front Service" />
@@ -33,27 +54,6 @@
       <item value="File Status Enum" />
       <item value="download Status" />
       <item value="状态也" />
-      <item value="update Notification" />
-      <item value="FLAG MUTABLE" />
-      <item value="notification Click Start Class" />
-      <item value="pending Intent" />
-      <item value="NOTIFICATION SERVICE" />
-      <item value="Post a notification to be shown in the status bar." />
-      <item value="Deprecated ProgressDialog is a modal dialog, which prevents the user from interacting with the app. Instead of using this class, you should use a progress indicator like ProgressBar, which can be embedded in your app's UI. Alternatively, you can use a notification to inform the user of the task's progress" />
-      <item value="A dialog showing a progress indicator and an optional text message or view. Only a text message or a view can be used at the same time. The dialog can be made cancelable on back key press. The progress range is 0 to max. Deprecated ProgressDialog is a modal dialog, which prevents the user from interacting with the app. Instead of using this class, you should use a progress indicator like ProgressBar, which can be embedded in your app's UI. Alternatively, you can use a notification to inform the user of the task's progress" />
-      <item value="m Percent" />
-      <item value="on File Down Load" />
-      <item value="Percent" />
-      <item value="Integer" />
-      <item value="_on Next" />
-      <item value="uploaded" />
-      <item value="Base Down Load Disposable Observer" />
-      <item value="compare And Set" />
-      <item value="next" />
-      <item value="dispose" />
-      <item value="report Double Subscription" />
-      <item value="upstream" />
-      <item value="Disposable Observer" />
     </histories>
     <option name="languageScores">
       <map>
