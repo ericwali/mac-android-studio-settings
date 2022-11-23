@@ -4,6 +4,16 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Post a notification to be shown in the status bar." />
+      <item value="Deprecated ProgressDialog is a modal dialog, which prevents the user from interacting with the app. Instead of using this class, you should use a progress indicator like ProgressBar, which can be embedded in your app's UI. Alternatively, you can use a notification to inform the user of the task's progress" />
+      <item value="A dialog showing a progress indicator and an optional text message or view. Only a text message or a view can be used at the same time. The dialog can be made cancelable on back key press. The progress range is 0 to max. Deprecated ProgressDialog is a modal dialog, which prevents the user from interacting with the app. Instead of using this class, you should use a progress indicator like ProgressBar, which can be embedded in your app's UI. Alternatively, you can use a notification to inform the user of the task's progress" />
+      <item value="m Percent" />
+      <item value="on File Down Load" />
+      <item value="Percent" />
+      <item value="Integer" />
+      <item value="_on Next" />
+      <item value="uploaded" />
+      <item value="Base Down Load Disposable Observer" />
       <item value="compare And Set" />
       <item value="next" />
       <item value="dispose" />
@@ -44,16 +54,6 @@
       <item value="bytes Loaded" />
       <item value="m Observable Emitter" />
       <item value="Observable Emitter" />
-      <item value="Observable On Subscribe" />
-      <item value="Object" />
-      <item value="bytes Readed" />
-      <item value="uploaded" />
-      <item value="_onnext" />
-      <item value="progress Dialog" />
-      <item value="set Cancelable" />
-      <item value="set Title" />
-      <item value="STYLE HORIZONTAL" />
-      <item value="_on Progress" />
     </histories>
     <option name="languageScores">
       <map>
