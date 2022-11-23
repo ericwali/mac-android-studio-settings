@@ -4,6 +4,15 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="download" />
+      <item value="observe On" />
+      <item value="new Builder" />
+      <item value="ok Http Client" />
+      <item value="set Mime Type" />
+      <item value="to Lower Case" />
+      <item value="generate Http As Local Media" />
+      <item value="choose Model" />
+      <item value="path" />
       <item value="需要换成真实的业务文件集合" />
       <item value="notify Item Range Removed" />
       <item value="notify Item Range Inserted" />
@@ -45,15 +54,6 @@
       <item value="write media storage" />
       <item value="VIBRATE" />
       <item value="ACCESS NETWORK STATE" />
-      <item value="RECORD AUDIO" />
-      <item value="MODIFY AUDIO SETTINGS" />
-      <item value="FOREGROUND SERVICE" />
-      <item value="feature" />
-      <item value="any" />
-      <item value="camera" />
-      <item value="max aspect" />
-      <item value="screen Orientation" />
-      <item value="ACTION VIDEO CAPTURE" />
     </histories>
     <option name="languageScores">
       <map>
