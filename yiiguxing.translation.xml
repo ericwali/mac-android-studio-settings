@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="is Assignable From" />
       <item value="tag Explain View" />
       <item value="on Dismiss" />
       <item value="on Permission Description" />
@@ -53,7 +54,6 @@
       <item value="is Crop Drag Smooth To Center" />
       <item value="external Files Dir" />
       <item value="Sandbox" />
-      <item value="set Crop Output Path Dir" />
     </histories>
     <option name="languageScores">
       <map>
