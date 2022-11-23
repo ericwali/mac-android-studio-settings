@@ -4,7 +4,19 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="add Permission Description" />
+      <item value="is Live" />
+      <item value="class Implements" />
+      <item value="current Interface" />
+      <item value="interfaces" />
+      <item value="get Interfaces" />
+      <item value="Weak Action And Token" />
+      <item value="message Type" />
       <item value="is Assignable From" />
+      <item value="Not Msg Type" />
+      <item value="recipients Strict Action" />
+      <item value="recipients Of Subclasses Action" />
+      <item value="send To Target Or Type" />
       <item value="tag Explain View" />
       <item value="on Dismiss" />
       <item value="on Permission Description" />
@@ -16,7 +28,6 @@
       <item value="left To Left" />
       <item value="is Has Simple X Camera" />
       <item value="Me On Simple X Permission Description Listener" />
-      <item value="add Permission Description" />
       <item value="Me On Simple X Permission Denied Listener" />
       <item value="cb custom sandbox" />
       <item value="open Camera" />
@@ -43,17 +54,6 @@
       <item value="assert Valid Request" />
       <item value="title Bar Style" />
       <item value="is Dark Status Bar Black" />
-      <item value="get Status Bar Color" />
-      <item value="set Toolbar Color" />
-      <item value="set Status Bar Color" />
-      <item value="set Max Scale Multiplier" />
-      <item value="Params: isForbidSkipCrop – - It is forbidden to skip when cutting multiple drawings" />
-      <item value="is Forbid Skip Multiple Crop" />
-      <item value="cb skip not gif" />
-      <item value="set Skip Crop Mime Type" />
-      <item value="is Crop Drag Smooth To Center" />
-      <item value="external Files Dir" />
-      <item value="Sandbox" />
     </histories>
     <option name="languageScores">
       <map>
