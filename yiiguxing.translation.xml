@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="set Bottom Preview Normal Text Size" />
       <item value="constraintlayout" />
       <item value="bumptech" />
       <item value="set Get Listener" />
@@ -53,7 +54,6 @@
       <item value="IMAGE CAPTURE" />
       <item value="Simple Activity" />
       <item value="get Result Callback Listener" />
-      <item value="create Layout Resource Listener" />
     </histories>
     <option name="languageScores">
       <map>
