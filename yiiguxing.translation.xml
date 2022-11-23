@@ -4,6 +4,10 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="download Status" />
+      <item value="状态也" />
+      <item value="update Notification" />
+      <item value="set Auto Cancel" />
       <item value="FLAG MUTABLE" />
       <item value="FLAG ACTIVITY NEW TASK" />
       <item value="notification Click Start Class" />
@@ -50,15 +54,11 @@
       <item value="get Down Load File Name" />
       <item value="Default Down Load" />
       <item value="get Default Down Load File Name" />
-      <item value="get External Downloads Path" />
-      <item value="on Complete" />
-      <item value="on Next" />
-      <item value="dest File Name" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1947" />
-        <entry key="ENGLISH" value="1903" />
+        <entry key="ENGLISH" value="1904" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="7" />
         <entry key="GERMAN" value="2" />
