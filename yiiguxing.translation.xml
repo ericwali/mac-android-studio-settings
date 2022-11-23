@@ -4,6 +4,18 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="function.pooled.Pooled Lambda Impl.do Invoke" />
+      <item value="unction.pooled.Pooled Lambda Impl.do Invoke" />
+      <item value="Synchronized Capture Session Base Impl" />
+      <item value="The camera device has encountered a serious error" />
+      <item value="CAMERA_ERROR (3): The camera device has encountered a serious error" />
+      <item value="DCaptureSession: Issuing request for session. DCaptureRequestBuilder: createCaptureRequest" />
+      <item value="camera 2" />
+      <item value="Function not implemented" />
+      <item value="Service Specific Exception" />
+      <item value="Session 0: Exception while stopping repeating:" />
+      <item value="OPENING" />
+      <item value="UNKNOWN" />
       <item value="Image Loader Utils" />
       <item value="Inject Fragment Activity" />
       <item value="picture Selector Key" />
@@ -42,18 +54,6 @@
       <item value="set Minimum Logging Level" />
       <item value="Creates a CameraXConfig containing the default Camera2 implementation for CameraX" />
       <item value="default Config" />
-      <item value="get Camera X Config" />
-      <item value="Image Loader Factory" />
-      <item value="Camera X Config" />
-      <item value="Picture App Master" />
-      <item value="bumptech" />
-      <item value="navigation" />
-      <item value="EXTRA COMPRESSION FORMAT NAME" />
-      <item value="with Options" />
-      <item value="destination Uri" />
-      <item value="set App Language" />
-      <item value="language" />
-      <item value="UNKNOWN LANGUAGE" />
     </histories>
     <option name="languageScores">
       <map>
