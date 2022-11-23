@@ -4,10 +4,25 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="compare And Set" />
+      <item value="next" />
+      <item value="dispose" />
+      <item value="report Double Subscription" />
+      <item value="upstream" />
+      <item value="Disposable Observer" />
+      <item value="An abstract Observer that allows asynchronous cancellation by implementing Disposable. All pre-implemented final methods are thread-safe. Use the public dispose() method to dispose the sequence from within an onNext implementation. Like all other consumers, DisposableObserver can be subscribed only once. Any subsequent attempt to subscribe it to a new source will yield an IllegalStateException with message &quot;It is not allowed to subscribe with a(n) &lt;class name&gt; multiple times.&quot;." />
+      <item value="is Disposed" />
+      <item value="Called once the single upstream Disposable is set via onSubscribe" />
+      <item value="Atomically updates the target upstream AtomicReference from null to the non-null next Disposable, otherwise disposes next and reports a ProtocolViolationException if the AtomicReference doesn't contain the shared disposed indicator. Params: upstream – the target AtomicReference to update next – the Disposable to set on it atomically observer – the class of the consumer to have a personalized error message if the upstream already contains a non-cancelled Disposable. Returns: true if successful, false if the content of the AtomicReference was non" />
+      <item value="set Once" />
+      <item value="End Consumer Helper" />
+      <item value="get Class" />
+      <item value="on Start" />
+      <item value="Provides the Observer with the means of cancelling (disposing) the connection (channel) with the Observable in both synchronous (from within onNext(Object)) and asynchronous manner. Params: d – the Disposable instance whose Disposable.dispose() can be called anytime to cancel the connection Since:" />
+      <item value="Provides the Observer with the means of cancelling (disposing) the connection (channel) with the Observable in both synchronous (from within onNext(Object)) and asynchronous manner. Params: d – the Disposable instance whose Disposable.dispose() can be called anytime to cancel the connection Since: 2.0" />
       <item value="Down Load Observer" />
       <item value="Download Subscribe" />
       <item value="Down Load Transformer" />
-      <item value="upstream" />
       <item value="Observable" />
       <item value="Sneaky Throws" />
       <item value="flat Map" />
@@ -28,7 +43,6 @@
       <item value="Pair" />
       <item value="bytes Loaded" />
       <item value="m Observable Emitter" />
-      <item value="Disposable Observer" />
       <item value="Observable Emitter" />
       <item value="Observable On Subscribe" />
       <item value="Object" />
@@ -40,20 +54,6 @@
       <item value="set Title" />
       <item value="STYLE HORIZONTAL" />
       <item value="_on Progress" />
-      <item value="m Percent" />
-      <item value="percent" />
-      <item value="subscribe On" />
-      <item value="create" />
-      <item value="read" />
-      <item value="m Progress Source" />
-      <item value="m Source" />
-      <item value="File Output Stream" />
-      <item value="rename To" />
-      <item value="write All" />
-      <item value="create New File" />
-      <item value="dest File Dir" />
-      <item value="Buffered Sink" />
-      <item value="m Sink" />
     </histories>
     <option name="languageScores">
       <map>
