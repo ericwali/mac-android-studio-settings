@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="set Get Listener" />
+      <item value="attach Base Context" />
       <item value="function.pooled.Pooled Lambda Impl.do Invoke" />
       <item value="unction.pooled.Pooled Lambda Impl.do Invoke" />
       <item value="Synchronized Capture Session Base Impl" />
@@ -52,8 +54,6 @@
       <item value="create Layout Resource Listener" />
       <item value="create Glide Engine" />
       <item value="set Minimum Logging Level" />
-      <item value="Creates a CameraXConfig containing the default Camera2 implementation for CameraX" />
-      <item value="default Config" />
     </histories>
     <option name="languageScores">
       <map>
