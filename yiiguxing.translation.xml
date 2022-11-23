@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="constraintlayout" />
+      <item value="bumptech" />
       <item value="set Get Listener" />
       <item value="attach Base Context" />
       <item value="function.pooled.Pooled Lambda Impl.do Invoke" />
@@ -52,8 +54,6 @@
       <item value="Simple Activity" />
       <item value="get Result Callback Listener" />
       <item value="create Layout Resource Listener" />
-      <item value="create Glide Engine" />
-      <item value="set Minimum Logging Level" />
     </histories>
     <option name="languageScores">
       <map>
