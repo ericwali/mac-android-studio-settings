@@ -4,6 +4,11 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="FLAG MUTABLE" />
+      <item value="FLAG ACTIVITY NEW TASK" />
+      <item value="notification Click Start Class" />
+      <item value="pending Intent" />
+      <item value="NOTIFICATION SERVICE" />
       <item value="Post a notification to be shown in the status bar." />
       <item value="Deprecated ProgressDialog is a modal dialog, which prevents the user from interacting with the app. Instead of using this class, you should use a progress indicator like ProgressBar, which can be embedded in your app's UI. Alternatively, you can use a notification to inform the user of the task's progress" />
       <item value="A dialog showing a progress indicator and an optional text message or view. Only a text message or a view can be used at the same time. The dialog can be made cancelable on back key press. The progress range is 0 to max. Deprecated ProgressDialog is a modal dialog, which prevents the user from interacting with the app. Instead of using this class, you should use a progress indicator like ProgressBar, which can be embedded in your app's UI. Alternatively, you can use a notification to inform the user of the task's progress" />
@@ -49,11 +54,6 @@
       <item value="on Complete" />
       <item value="on Next" />
       <item value="dest File Name" />
-      <item value="Convenience method for creating an appropriately typed pair. Params: a – the first object in the Pair b – the second object in the pair Returns: a Pair that is templatized with the types of a and" />
-      <item value="Pair" />
-      <item value="bytes Loaded" />
-      <item value="m Observable Emitter" />
-      <item value="Observable Emitter" />
     </histories>
     <option name="languageScores">
       <map>
