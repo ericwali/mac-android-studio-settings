@@ -4,6 +4,9 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="需要换成真实的业务文件集合" />
+      <item value="notify Item Range Removed" />
+      <item value="notify Item Range Inserted" />
       <item value="set Bottom Preview Normal Text Size" />
       <item value="constraintlayout" />
       <item value="bumptech" />
@@ -51,14 +54,11 @@
       <item value="max aspect" />
       <item value="screen Orientation" />
       <item value="ACTION VIDEO CAPTURE" />
-      <item value="IMAGE CAPTURE" />
-      <item value="Simple Activity" />
-      <item value="get Result Callback Listener" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1946" />
-        <entry key="ENGLISH" value="1902" />
+        <entry key="ENGLISH" value="1903" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="7" />
         <entry key="GERMAN" value="2" />
