@@ -4,12 +4,38 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="create" />
+      <item value="read" />
+      <item value="m Observable Emitter" />
+      <item value="m Progress Source" />
+      <item value="m Source" />
+      <item value="File Output Stream" />
+      <item value="rename To" />
+      <item value="Pair" />
+      <item value="_on Progress" />
+      <item value="Down Load Observer" />
+      <item value="write All" />
+      <item value="create New File" />
+      <item value="dest File Name" />
+      <item value="dest File Dir" />
+      <item value="Buffered Sink" />
+      <item value="m Sink" />
+      <item value="get Progress Source" />
+      <item value="m Sum Length" />
+      <item value="on Read" />
+      <item value="dest File" />
+      <item value="Down Load On Subscribe" />
+      <item value="Download Subscriber" />
+      <item value="response Body" />
+      <item value="apply" />
+      <item value="Disposable Observer" />
+      <item value="Okio" />
+      <item value="Observable Transformer" />
       <item value="get Absolute Path" />
       <item value="DIRECTORY DOWNLOADS" />
       <item value="get External Storage Public Directory" />
       <item value="Observable Source" />
       <item value="Response Body" />
-      <item value="Observable Transformer" />
       <item value="get Default Down Load Path" />
       <item value="Down Load Transformer" />
       <item value="client" />
@@ -28,36 +54,10 @@
       <item value="to Lower Case" />
       <item value="generate Http As Local Media" />
       <item value="choose Model" />
-      <item value="path" />
-      <item value="需要换成真实的业务文件集合" />
-      <item value="notify Item Range Removed" />
-      <item value="notify Item Range Inserted" />
-      <item value="set Bottom Preview Normal Text Size" />
-      <item value="constraintlayout" />
-      <item value="bumptech" />
-      <item value="set Get Listener" />
-      <item value="attach Base Context" />
-      <item value="function.pooled.Pooled Lambda Impl.do Invoke" />
-      <item value="unction.pooled.Pooled Lambda Impl.do Invoke" />
-      <item value="Synchronized Capture Session Base Impl" />
-      <item value="The camera device has encountered a serious error" />
-      <item value="CAMERA_ERROR (3): The camera device has encountered a serious error" />
-      <item value="DCaptureSession: Issuing request for session. DCaptureRequestBuilder: createCaptureRequest" />
-      <item value="camera 2" />
-      <item value="Function not implemented" />
-      <item value="Service Specific Exception" />
-      <item value="Session 0: Exception while stopping repeating:" />
-      <item value="OPENING" />
-      <item value="UNKNOWN" />
-      <item value="Image Loader Utils" />
-      <item value="Inject Fragment Activity" />
-      <item value="picture Selector Key" />
-      <item value="minify Enabled" />
-      <item value="check Release Builds" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1946" />
+        <entry key="CHINESE" value="1947" />
         <entry key="ENGLISH" value="1903" />
         <entry key="BULGARIAN" value="1" />
         <entry key="AFRIKAANS" value="7" />
