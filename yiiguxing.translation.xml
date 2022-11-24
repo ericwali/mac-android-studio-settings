@@ -4,6 +4,11 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="upload Oss" />
+      <item value="Single Live Event Oss File Event" />
+      <item value="notify Item Range Inserted" />
+      <item value="generate Local Media" />
+      <item value="get Mime Type From Media Http Url" />
       <item value="My External Preview Event Listener" />
       <item value="build Options" />
       <item value="Multipart" />
@@ -49,11 +54,6 @@
       <item value="on Read" />
       <item value="Upload File" />
       <item value="upload File" />
-      <item value="Response Body" />
-      <item value="Percent" />
-      <item value="Percent File" />
-      <item value="WSystem.err: java.lang.IllegalArgumentException: Invalid notification (no valid small icon): Notification(channel=com.kicc.collect shortcut=null contentView=null vibrate=null sound=null defaults=0x0 flags=0x0 color=0x00000000 vis=PRIVATE)" />
-      <item value="create Notification Channel" />
     </histories>
     <option name="languageScores">
       <map>
