@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Java crash handler is disable. Just return." />
       <item value="EXTRA RESULT SELECTION" />
       <item value="EXTRA OUTPUT" />
       <item value="EXTRA ERROR" />
@@ -53,7 +54,6 @@
       <item value="is Url Has Gif" />
       <item value="choose" />
       <item value="choose Model" />
-      <item value="_on Next" />
     </histories>
     <option name="languageScores">
       <map>
