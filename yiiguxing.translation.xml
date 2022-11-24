@@ -4,10 +4,13 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="on Result Call Listener" />
+      <item value="on Activity Result" />
+      <item value="generate Local Media" />
+      <item value="set Sandbox Path" />
       <item value="upload Oss" />
       <item value="Single Live Event Oss File Event" />
       <item value="notify Item Range Inserted" />
-      <item value="generate Local Media" />
       <item value="get Mime Type From Media Http Url" />
       <item value="My External Preview Event Listener" />
       <item value="build Options" />
@@ -51,9 +54,6 @@
       <item value="progress Observable" />
       <item value="Observable" />
       <item value="subscribe" />
-      <item value="on Read" />
-      <item value="Upload File" />
-      <item value="upload File" />
     </histories>
     <option name="languageScores">
       <map>
