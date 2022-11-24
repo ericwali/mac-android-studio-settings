@@ -4,6 +4,11 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="ends With" />
+      <item value="starts With" />
+      <item value="is Url Has Gif" />
+      <item value="choose" />
+      <item value="choose Model" />
       <item value="_on Next" />
       <item value="get Actual Type Arguments" />
       <item value="get Generic Superclass" />
@@ -49,11 +54,6 @@
       <item value="rename To" />
       <item value="m Observable Emitter" />
       <item value="File Observable Status Enum" />
-      <item value="runnable" />
-      <item value="suspend" />
-      <item value="File Status Enum" />
-      <item value="download Status" />
-      <item value="状态也" />
     </histories>
     <option name="languageScores">
       <map>
