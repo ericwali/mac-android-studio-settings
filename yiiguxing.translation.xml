@@ -4,6 +4,16 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="EXTRA RESULT SELECTION" />
+      <item value="EXTRA OUTPUT" />
+      <item value="EXTRA ERROR" />
+      <item value="on Pause" />
+      <item value="on Resume" />
+      <item value="on Stop" />
+      <item value="RESULT CANCELED" />
+      <item value="RESULT FIRST USER" />
+      <item value="crop And Save Image" />
+      <item value="put Parcelable Array List Extra" />
       <item value="on Result Call Listener" />
       <item value="on Activity Result" />
       <item value="generate Local Media" />
@@ -44,16 +54,6 @@
       <item value="choose" />
       <item value="choose Model" />
       <item value="_on Next" />
-      <item value="get Actual Type Arguments" />
-      <item value="get Generic Superclass" />
-      <item value="Base Upload Disposable Observer" />
-      <item value="update progress on UI thread" />
-      <item value="value" />
-      <item value="name" />
-      <item value="Part" />
-      <item value="progress Observable" />
-      <item value="Observable" />
-      <item value="subscribe" />
     </histories>
     <option name="languageScores">
       <map>
