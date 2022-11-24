@@ -4,6 +4,21 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="append Quoted Stringokhttp" />
+      <item value="get Name" />
+      <item value="get File Name" />
+      <item value="upload Request Body" />
+      <item value="create Form Data" />
+      <item value="item Count" />
+      <item value="notify Item Range Removed" />
+      <item value="Me On Result Callback Listener" />
+      <item value="oss File Url" />
+      <item value="generate Http As Local Media" />
+      <item value="center Crop" />
+      <item value="is Content" />
+      <item value="Creates a Uri which parses the given encoded URI string. Params: uriString – an RFC 2396-compliant, encoded URI Returns: Uri for this given uri string" />
+      <item value="is Compressed" />
+      <item value="is Cut" />
       <item value="ends With" />
       <item value="starts With" />
       <item value="is Url Has Gif" />
@@ -13,10 +28,7 @@
       <item value="get Actual Type Arguments" />
       <item value="get Generic Superclass" />
       <item value="Base Upload Disposable Observer" />
-      <item value="upload Request Body" />
       <item value="update progress on UI thread" />
-      <item value="get Name" />
-      <item value="create Form Data" />
       <item value="value" />
       <item value="name" />
       <item value="Part" />
@@ -42,18 +54,6 @@
       <item value="Make this notification automatically dismissed when the user touches it" />
       <item value="set Auto Cancel" />
       <item value="Notification Click Receiver" />
-      <item value="register Receiver" />
-      <item value="notification Click Receiver" />
-      <item value="init Down Load Percent Notification" />
-      <item value="WSystem.err: io.reactivex.exceptions.UndeliverableException: The exception could not be delivered to the consumer because it has already canceleddisposed the flow or the exception has nowhere to go to begin with. Further reading: https:github.comReactiveXRxJavawikiWhat's-different-in-2.0error-handling | java.lang.ClassCastException: com.kicc.core.http.file.DownloadSubscribe1 cannot be cast to com.kicc.core.http.file.DownloadSubscribe" />
-      <item value="e it has already canceleddisposed the flow or the exception has nowhere to go to begin with. Further readin" />
-      <item value="java.lang.ClassCastException: com.kicc.core.http.file.DownloadSubscribe1 ca" />
-      <item value="The exception was not handled due to missing onError handler in the subscribe() method call. Further reading" />
-      <item value="buffer" />
-      <item value="write All" />
-      <item value="rename To" />
-      <item value="m Observable Emitter" />
-      <item value="File Observable Status Enum" />
     </histories>
     <option name="languageScores">
       <map>
