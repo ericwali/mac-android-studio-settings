@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Android Schedulers" />
       <item value="Java crash handler is disable. Just return." />
       <item value="EXTRA RESULT SELECTION" />
       <item value="EXTRA OUTPUT" />
@@ -53,7 +54,6 @@
       <item value="starts With" />
       <item value="is Url Has Gif" />
       <item value="choose" />
-      <item value="choose Model" />
     </histories>
     <option name="languageScores">
       <map>
@@ -81,7 +81,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1668993665629" />
+    <option name="lastTrimTime" value="1669566427408" />
   </component>
   <component name="Settings">
     <option name="aliTranslateSettings">
