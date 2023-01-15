@@ -22,7 +22,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="c" value="** &#10; *&lt;p&gt;&#10; *&#10; *&lt;/p&gt;&#10; *&#10; * @Author: entfrm开发团队-王翔&#10; * @since: $date$&#10; */ " description="class类注解" toReformat="false" toShortenFQNames="true">
+  <template name="c" value="** &#10; *&lt;p&gt;&#10; *&#10; *&lt;/p&gt;&#10; *&#10; * @Author: wangxiang4&#10; * @since: $date$&#10; */ " description="class类注解" toReformat="false" toShortenFQNames="true">
     <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GROOVY" value="true" />
