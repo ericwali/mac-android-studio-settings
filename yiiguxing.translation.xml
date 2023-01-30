@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="1" />
       <item value="内容_layout" />
       <item value="Android Schedulers" />
       <item value="Java crash handler is disable. Just return." />
@@ -53,7 +54,6 @@
       <item value="is Cut" />
       <item value="ends With" />
       <item value="starts With" />
-      <item value="is Url Has Gif" />
     </histories>
     <option name="languageScores">
       <map>
