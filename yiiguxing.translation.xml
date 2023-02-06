@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="558" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="BACKGROUND KEEP ACTIVE TASK" />
       <item value="1" />
       <item value="内容_layout" />
       <item value="Android Schedulers" />
@@ -53,7 +54,6 @@
       <item value="is Compressed" />
       <item value="is Cut" />
       <item value="ends With" />
-      <item value="starts With" />
     </histories>
     <option name="languageScores">
       <map>
