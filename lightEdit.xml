@@ -1,5 +1,10 @@
 <application>
   <component name="LightEdit">
+    <option name="sessionFiles">
+      <list>
+        <option value="file://$USER_HOME$/Desktop/AndroidManifest.xml" />
+      </list>
+    </option>
     <option name="frameInfo">
       <frame x="171" y="45" width="1269" height="751" />
     </option>
